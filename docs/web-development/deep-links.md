@@ -24,11 +24,11 @@ icon: link
 
 * increases conversion rates&#x20;
 * increases retention rates
-* provides channel/campaig attribution and extra filtering based on provided paramters
+* provides channel/campaign attribution and extra filtering based on provided paramters
 
 
 
-#### How Deep Linking Works
+## How Deep Linking Works
 
 allows to build URLs with custom parameters, directing users to particular in-app content
 

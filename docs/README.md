@@ -8,42 +8,42 @@ icon: browser
 
 > **Software Architecture**:
 >
-> refers to the **high-level structure of a software system**.&#x20;
+> **high-level structure of a software system**
 >
 > involves&#x20;
 >
-> * the organization of software components,&#x20;
-> * their relationships, and&#x20;
-> * how they interact to achieve the system's goals
+> * Organization of software components
+> * Relationships between components&#x20;
+> * Interactions between components to achieve the system's goals
 
 
 
-#### **Focus**:
+### **Focus**:
 
 — the **internal structure of the software —**&#x20;
 
-including the **design** of&#x20;
+including the **design** of the system's
 
-* the system's **modules**,&#x20;
+* **modules**,&#x20;
 * **components**,&#x20;
 * **interfaces**, and&#x20;
 * **data flow**
 
 
 
-#### **Scope**:
+### **Scope**:
 
-generally limited to a single software application or system.
+* generally limited to a single software application or system
 
 
 
-#### **Key Elements**:
+### **Key Elements**:
 
 * **Components/Modules**: Individual pieces of software that perform specific functions.
-* **Interfaces**: Points of interaction between components.
-* **Data Flow**: The movement of data within the system.
+* **Interfaces**: Interaction points between components.
+* **Data Flow**: How data moves within the system.
 * **Design Patterns**: Reusable solutions to common design problems.
-* **Technical Constraints**: Decisions based on technical requirements such as performance, scalability, and security.
+* **Technical Constraints**: Decisions driven by requirements (performance, scalability, security, etc.).
 
 
 
