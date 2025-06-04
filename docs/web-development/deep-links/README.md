@@ -24,26 +24,19 @@ widely used in&#x20;
 
 
 
+
+
 ## Types of Deep Links
 
-### Direct Deep Links
+{% content-ref url="types-of-deep-links.md" %}
+[types-of-deep-links.md](types-of-deep-links.md)
+{% endcontent-ref %}
 
-**Function**: Opens the app to a specific location if the app is already installed.
 
 
 
-### Deferred Deep Links
 
-**Function**:&#x20;
-
-* If the app is not installed, redirects the user to the app store.&#x20;
-* Once installed, it takes the user to the intended in-app location.
-
-**Example**:&#x20;
-
-A user clicks a link in an instagram story or Google search ad and after installing the app, they are directed to the exact content they were interested in.
-
-## Benefits:
+## Deep Linking Benefits
 
 #### User Experience: Seamless Journey
 
@@ -65,17 +58,11 @@ A user clicks a link in an instagram story or Google search ad and after install
 
 
 
-## Fallbacks and Redirects
+## Deep Linking vs Fallbacks vs Redirects
 
-**Fallbacks**: Determines where to send users who click links from non-mobile devices, such as desktops.
-
-**Redirects**: Allows directing users to another location, like a mobile website, instead of the app store.
-
-
-
-
-
-
+{% content-ref url="deep-linking-vs-fallbacks-vs-redirects.md" %}
+[deep-linking-vs-fallbacks-vs-redirects.md](deep-linking-vs-fallbacks-vs-redirects.md)
+{% endcontent-ref %}
 
 
 
