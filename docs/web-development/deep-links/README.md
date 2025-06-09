@@ -10,11 +10,11 @@ icon: link
 >
 > Directs users to specific in-app location rather than a website or an app store.
 
-### How Deep Linking Works
+#### How Deep Linking Works
 
 allows to build URLs with custom parameters, directing users to particular in-app content
 
-### Usage
+Usage
 
 widely used in&#x20;
 
