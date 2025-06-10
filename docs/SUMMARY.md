@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Software Architecture](README.md)
+* [Software Architecture vs Solution Architecture](README.md)
 
 ## Web Development
 
