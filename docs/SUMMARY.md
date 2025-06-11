@@ -12,6 +12,7 @@
 
 * [Architectural Patterns](architectural-patterns/architectural-patterns.md)
 * [Microservices](architectural-patterns/microservices.md)
+* [Client Server](architectural-patterns/client-server.md)
 * [MVC](architectural-patterns/mvc.md)
 * [Master Slave](architectural-patterns/master-slave.md)
 * [Monolithic](architectural-patterns/monolithic.md)
