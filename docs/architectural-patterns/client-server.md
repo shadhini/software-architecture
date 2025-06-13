@@ -3,9 +3,13 @@ description: Client-Server Architectural Pattern
 icon: right-left
 ---
 
-# Client Server
+# Client-Server
 
 ## Client Server Architecture
+
+<figure><img src="../.gitbook/assets/software-architecture_architectural-pattern_client-server.svg" alt="" width="563"><figcaption></figcaption></figure>
+
+
 
 *   A **server** processes requests from
 
@@ -25,7 +29,6 @@ icon: right-left
   * **HTTPS**  and
   * **authentication**
     * e.g: `OAuth2`
-  *
 
 
 

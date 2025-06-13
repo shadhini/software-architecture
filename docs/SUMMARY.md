@@ -12,7 +12,11 @@
 
 * [Architectural Patterns](architectural-patterns/architectural-patterns.md)
 * [Microservices](architectural-patterns/microservices.md)
-* [Client Server](architectural-patterns/client-server.md)
+* [Client-Server](architectural-patterns/client-server.md)
+* [Circuit Breaker](architectural-patterns/circuit-breaker.md)
+* [Publisher-Subscriber](architectural-patterns/publisher-subscriber.md)
+* [Sharding](architectural-patterns/sharding.md)
+* [Static Content Hosting](architectural-patterns/static-content-hosting.md)
 * [MVC](architectural-patterns/mvc.md)
 * [Master Slave](architectural-patterns/master-slave.md)
 * [Monolithic](architectural-patterns/monolithic.md)

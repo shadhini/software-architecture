@@ -73,13 +73,13 @@ icon: chart-network
 
 ## Use-cases
 
-Online Order Delivery System
+#### Online Order Delivery System - Example Architecture
 
 <figure><img src="../.gitbook/assets/software-architecture_microservices-architecture_example.svg" alt=""><figcaption><p>Example of Mocroservices Architecture</p></figcaption></figure>
 
 
 
-Ride-sharing app
+#### Ride-sharing app
 
 * Ride-sharing app with separate services for ride matching, payment, and notifications.
 
