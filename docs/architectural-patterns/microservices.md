@@ -7,21 +7,19 @@ icon: chart-network
 
 ## Microservices Architecture
 
+> Application is broken down into&#x20;
+>
+> * **small**,
+> * **autonomous services**,
+> * **each handling a specific function**
+>
+> like
+>
+> * user authentication,&#x20;
+> * product catalog,
+> * payment processing.
+
 <figure><img src="../.gitbook/assets/software-architecture-architectural-pattern_microservice.png" alt="" width="563"><figcaption></figcaption></figure>
-
-
-
-*   Application is broken down into&#x20;
-
-    * **small**,
-    * **autonomous services**,
-    * **each handling a specific function**
-
-    like
-
-    * user authentication,&#x20;
-    * product catalog,
-    * payment processing.
 
 
 

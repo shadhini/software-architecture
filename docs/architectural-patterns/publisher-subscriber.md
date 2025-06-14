@@ -1,5 +1,5 @@
 ---
-description: Publisher Subscriber Architectural Pattern
+description: Publisher Subscriber Design Pattern
 icon: bell
 ---
 
@@ -7,15 +7,18 @@ icon: bell
 
 ## Publisher-Subscriber Architecture
 
-*   **Publishers** send messages&#x20;
+> **Publishers** send messages&#x20;
+>
+> * e.g: a new post&#x20;
+>
+> to a **broker**, which delivers them&#x20;
+>
+> to **subscribers**
+>
+> * e.g: followers
 
-    * e.g: a new post&#x20;
 
-    to a **broker**, which delivers them&#x20;
 
-    to **subscribers**
-
-    * e.g: followers
 * **Durability** --> ensures message **persistence**
 
 

@@ -9,9 +9,13 @@ icon: split
 
 <kbd>Divide and Conquer</kbd>
 
-* **Split** a **database** into smaller, manageable pieces (**`shards`**) across multiple servers,
-  * based on **keys**&#x20;
-    * like user ID or region
+> **Split** a **database** into smaller, manageable pieces (**`shards`**) across multiple servers,
+>
+> * based on **keys**&#x20;
+>   * like user ID or region
+
+
+
 * This distributes load and boosts performance.
 * **Replication** ensures data availability
 

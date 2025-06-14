@@ -7,19 +7,20 @@ icon: right-left
 
 ## Client Server Architecture
 
+> A **server** processes requests&#x20;
+>
+> * e.g: web server like `Apache`/`Nginx`
+>
+> from **clients**&#x20;
+>
+> * e.g: browsers, mobile apps
+>
+> using a **request-response** model.
+
 <figure><img src="../.gitbook/assets/software-architecture_architectural-pattern_client-server.svg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
-*   A **server** processes requests from
-
-    * e.g: web server like `Apache`/`Nginx`
-
-    **clients**&#x20;
-
-    * e.g: browsers, mobile apps
-
-    using a **request-response** model.
 * backbone of web
 * power everything from e-commerce sites to social platforms
 * **APIs** — enhanse flexibility

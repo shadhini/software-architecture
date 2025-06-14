@@ -9,12 +9,20 @@ icon: images
 
 <kbd>Serve It Fast</kbd>&#x20;
 
+> **Host** static files&#x20;
+>
+> * images, CSS, JS&#x20;
+>
+> on **separate servers** or `CDN`s&#x20;
+>
+> to **offload** dynamic servers,&#x20;
+>
+> reducing latency and load.
+
 <figure><img src="../.gitbook/assets/software-architecture_static-content-hosting_CDN.svg" alt=""><figcaption></figcaption></figure>
 
 
 
-* **Host** static files on separate servers or `CDN`s to offload dynamic servers, reducing latency and load.
-  * images, CSS, JS&#x20;
 * `CDNs` **cache** content at **edge** **locations** worldwide
 
 ## Benefits

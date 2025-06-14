@@ -9,14 +9,17 @@ icon: plug-circle-xmark
 
 <kbd>Fail Gracefully</kbd>
 
-*   Circuit Breaker pattern&#x20;
+> Circuit Breaker pattern&#x20;
+>
+> * prevents cascading failures&#x20;
+> * by **halting requests to a failing service**&#x20;
+>
+> like&#x20;
+>
+> * an **electrical circuit breaker trips to avoid overload**
 
-    * prevents cascading failures&#x20;
-    * by **halting requests to a failing service**&#x20;
 
-    like&#x20;
 
-    * an **electrical circuit breaker trips to avoid overload**
 * **Monitors** **failure rates** (e.g: 50% of calls fail )
   * and open the circuit to **fail fast** or **retry later**.
 * Support states&#x20;
