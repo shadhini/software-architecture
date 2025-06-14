@@ -1,5 +1,5 @@
 ---
-description: Event Driven Architectural Paradigm/Style
+description: Event Driven Architectural Style/Pattern; Communication/Integration Pattern
 icon: calendar-days
 ---
 

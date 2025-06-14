@@ -1,5 +1,5 @@
 ---
-description: Client-Server Architectural Pattern
+description: Client-Server Architectural Style/Pattern; Network Architectural Model
 icon: right-left
 ---
 
@@ -22,6 +22,8 @@ icon: right-left
 
 
 * backbone of web
+  * browser — client
+  * web server — server
 * power everything from e-commerce sites to social platforms
 * **APIs** — enhanse flexibility
   * `REST` for CRUD operations

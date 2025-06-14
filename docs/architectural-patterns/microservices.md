@@ -1,5 +1,5 @@
 ---
-description: Microservices Architectural Pattern
+description: Microservices Architectural Pattern/Style
 icon: chart-network
 ---
 
@@ -7,17 +7,22 @@ icon: chart-network
 
 ## Microservices Architecture
 
-> Application is broken down into&#x20;
+> Application is broken down and structured as a collection of
 >
 > * **small**,
-> * **autonomous services**,
-> * **each handling a specific function**
+> * **autonomous**,
+> * and **independently deployable services**,
+> * **each handling a specific function**/business capability&#x20;
 >
 > like
 >
-> * user authentication,&#x20;
-> * product catalog,
-> * payment processing.
+> * user authentication, product catalog, payment processing.
+>
+> Each service can be&#x20;
+>
+> * **deployed**,
+> * **developed**, and
+> * **scaled** on its own.&#x20;
 
 <figure><img src="../.gitbook/assets/software-architecture-architectural-pattern_microservice.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -27,7 +32,9 @@ icon: chart-network
   * e.g:&#x20;
     * `MongoDB` for user data
     * `PostgreSQL` for transactions
-    * communicating via **APIs** (`REST`, `gRPC`) or **message queues**
+* Services typically **communicate** over a network using **lightweight protocols**.
+  * &#x20;**APIs:** `HTTP/REST`, `gRPC`
+  * Asynchronous messaging: **message queues**
 
 #### Challenges
 

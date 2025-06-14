@@ -1,5 +1,5 @@
 ---
-description: Publisher Subscriber Design Pattern
+description: Publisher Subscriber Communication/Integration Pattern; Messaging Pattern
 icon: bell
 ---
 
@@ -19,6 +19,8 @@ icon: bell
 
 
 
+* Publishers categorize messages into topics/channels without knowing subscribers, if anym there are.&#x20;
+* Subscribers express interest in one or more topics and receive only messages of interest, without direct knowledge of the publishers.&#x20;
 * **Durability** --> ensures message **persistence**
 
 
@@ -59,7 +61,7 @@ icon: bell
 
 #### Kafka Architecture
 
-<figure><img src="../.gitbook/assets/software-architecture_kafka-architecture.svg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/software-architecture_kafka-architecture.svg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 

@@ -1,5 +1,5 @@
 ---
-description: Circuit Breaker Architectural Pattern
+description: Circuit Breaker Resilience/Reliability Pattern
 icon: plug-circle-xmark
 ---
 
@@ -11,8 +11,9 @@ icon: plug-circle-xmark
 
 > Circuit Breaker pattern&#x20;
 >
+> * detects failures and&#x20;
 > * prevents cascading failures&#x20;
-> * by **halting requests to a failing service**&#x20;
+> * by **halting requests to a failing service** (an operation that's likely to fail)
 >
 > like&#x20;
 >
@@ -24,8 +25,8 @@ icon: plug-circle-xmark
   * and open the circuit to **fail fast** or **retry later**.
 * Support states&#x20;
   * `Closed` — normal operation
-  * `Open` — block all requests
-  * `Half-Open` — test recovery
+  * `Open` — block all subsequent requests (without attempting the remote call)
+  * `Half-Open` — test recovery (whether the remote service is available again)
 
 
 
