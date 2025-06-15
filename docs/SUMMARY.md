@@ -22,10 +22,11 @@
   * [CQRS: Command Query Responsibility Segregation](architectural-patterns/data-management-scalability-patterns/cqrs-command-query-responsibility-segregation.md)
   * [Master-Slave](architectural-patterns/data-management-scalability-patterns/master-slave.md)
 * [Static Content Hosting](architectural-patterns/static-content-hosting.md)
-* [MVC](architectural-patterns/mvc.md)
+* [Layered (n-tier)](architectural-patterns/layered-n-tier/README.md)
+  * [MVC](architectural-patterns/layered-n-tier/mvc.md)
+* [Throttling](architectural-patterns/throttling.md)
 * [Monolithic](architectural-patterns/monolithic.md)
 * [SOA: Service Oriented Architecture](architectural-patterns/soa-service-oriented-architecture.md)
-* [Layered](architectural-patterns/layered.md)
 
 ## Glossary
 
