@@ -1,18 +1,23 @@
 ---
-description: 'Sharding: Database Architecture'
+description: 'Sharding: Data Management/ Scalability Pattern'
 icon: split
 ---
 
 # Sharding
 
-## Sharding Database Architecture
+## Sharding Data Management Pattern
 
-<kbd>Divide and Conquer</kbd>
+<kbd>Divide and Conquer | Partitioning Techniquw</kbd>
 
 > **Split** a **database** into smaller, manageable pieces (**`shards`**) across multiple servers,
 >
 > * based on **keys**&#x20;
 >   * like user ID or region
+>
+> Each shard&#x20;
+>
+> * holds a subset of the data — **horizontal partitioning** —&#x20;
+> * and can reside on a separate server.
 
 
 
@@ -25,6 +30,7 @@ icon: split
 
 * distribute load&#x20;
 * boosts performance
+* improve scalability
 * handles massive datasets
   * e.g: billions of users&#x20;
 * improves query speed

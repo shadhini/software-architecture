@@ -1,13 +1,15 @@
 ---
-description: 'CQRS: Command Query Responsibility Architecture'
+description: >-
+  CQRS: Command Query Responsibility Segregation Architectural Pattern; Data
+  Management Pattern
 icon: square-terminal
 ---
 
-# CQRS: Command Query Responsibility
+# CQRS: Command Query Responsibility Segregation
 
-## `CQRS`: Command Query Responsibility Architecture
+## `CQRS`: Command Query Responsibility Segregation Architecture&#x20;
 
-> **Commands** **modify** data,
+> **Commands** **modify** data/state,
 >
 > * e.g: update a user profile
 >
@@ -15,7 +17,7 @@ icon: square-terminal
 >
 > * e.g: fetch user details
 >
-> often using separate models.
+> often using separate/different models for updating and reading data.
 
 
 

@@ -54,3 +54,16 @@ icon: calendar-days
 
 
 
+### Example Producer-Consumer Architecture
+
+<figure><img src="../../.gitbook/assets/software-architecture_event-driven_example.svg" alt=""><figcaption></figcaption></figure>
+
+* `Streams` are channels for conveying events
+* `Producers` may **write** to **multiple** streams
+* `Consumers` may **read** from **multiple** streams
+* Producers and consumers may **overlap**, being pars of the **same application**
+
+
+
+
+

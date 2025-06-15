@@ -1,5 +1,7 @@
 ---
-description: Static Content Hosting Architecture
+description: >-
+  Static Content Hosting: Deployment/Operational Pattern; Web Architecture
+  Pattern
 icon: images
 ---
 
@@ -11,7 +13,8 @@ icon: images
 
 > **Host** static files&#x20;
 >
-> * images, CSS, JS&#x20;
+> * web content that doesn't change dynamically per user or request
+>   * images, CSS, JS, HTML, videos
 >
 > on **separate servers** or `CDN`s&#x20;
 >
@@ -23,7 +26,7 @@ icon: images
 
 
 
-* `CDNs` **cache** content at **edge** **locations** worldwide
+* `CDNs` **cache** content at **edge** **locations** worldwide.
 
 ## Benefits
 
