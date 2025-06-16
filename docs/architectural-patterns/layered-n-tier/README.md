@@ -10,7 +10,7 @@ icon: layer-group
 > Organize the app into horizontal **layers**:
 >
 > * Presentation — UI
-> * BApplication/usiness Logic
+> * Application/Business Logic
 > * Data Access
 > * Infrastructure (sometimes)
 >
@@ -36,7 +36,7 @@ icon: layer-group
 
 ## Implementation
 
-### Framework
+### Frameworks
 
 * `ASP.NET Core` with a layered structure
 * `Laravel (PHP)` with MVC layers

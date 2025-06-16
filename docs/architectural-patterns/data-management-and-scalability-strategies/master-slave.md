@@ -7,7 +7,7 @@ icon: network-wired
 
 ## Master-Slave Database Architecture
 
-<kbd>One Leader, Many Helpers | Data Replication Model</kbd>
+<kbd>One Leader, Many Helpers | Database Replication Technique</kbd>
 
 > A **master/primary/leader** database handles all **writes**,
 >
@@ -19,7 +19,7 @@ icon: network-wired
 
 
 * **Asynchronous** **replication** introduces **lag**
-* **Synchronous replication** endures **consistency** but impacts write performance
+* **Synchronous replication** ensures **consistency** but impacts write performance
 
 
 
@@ -27,7 +27,7 @@ icon: network-wired
 
 replicas/followers/slaves
 
-* scales read performance/capacity
+* scale read performance/capacity
 * provides failover options
   * provide high availability (failover if the primary fails)
 

@@ -23,7 +23,7 @@ icon: calendar-days
 > * may filter or transform them, and&#x20;
 > * routes them to the appropriate subscribers.
 
-<figure><img src="../../.gitbook/assets/software-architecture_architectural-pattern_event-broker.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/software-architecture_architectural-pattern_event-broker.svg" alt=""><figcaption></figcaption></figure>
 
 
 

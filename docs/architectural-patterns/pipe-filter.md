@@ -49,7 +49,7 @@ icon: filters
 ### Frameworks
 
 * `Apache NiFi` for data pipelines
-* `Unix` pipes with custom scripts
+* `Unix pipes` with custom scripts
 
 ### Tips
 

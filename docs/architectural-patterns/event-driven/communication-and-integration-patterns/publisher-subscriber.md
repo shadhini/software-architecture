@@ -61,7 +61,7 @@ icon: bell
 
 #### Kafka Architecture
 
-<figure><img src="../../.gitbook/assets/software-architecture_kafka-architecture.svg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/software-architecture_kafka-architecture.svg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 

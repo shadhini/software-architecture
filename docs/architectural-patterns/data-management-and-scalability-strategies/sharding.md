@@ -7,7 +7,7 @@ icon: split
 
 ## Sharding Data Management Pattern
 
-<kbd>Divide and Conquer | Partitioning Techniquw</kbd>
+<kbd>Divide and Conquer | Partitioning Technique | Horizontal Splitting</kbd>
 
 > **Split** a **database** into smaller, manageable pieces (**`shards`**) across multiple servers,
 >
@@ -41,7 +41,7 @@ icon: split
 
 ### Frameworks
 
-* `MonoDB` with **auto-sharding**
+* `MongoDB` with **auto-sharding**
 * `PostgreSQL` with `Citus` for distributed tables
 
 

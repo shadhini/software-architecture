@@ -26,7 +26,7 @@ icon: plug-circle-xmark
 * Support states&#x20;
   * `Closed` — normal operation
   * `Open` — block all subsequent requests (without attempting the remote call)
-  * `Half-Open` — test recovery (whether the remote service is available again)
+  * `Half-Open` — test recovery (test whether the remote service is available again)
 
 
 
@@ -60,7 +60,7 @@ icon: plug-circle-xmark
 
 ## Use-cases
 
-* an e-commerce site where a payment gateway failure doesn't crash the entire checkout process.
+* An e-commerce site where a payment gateway failure doesn't crash the entire checkout process.
 
 
 

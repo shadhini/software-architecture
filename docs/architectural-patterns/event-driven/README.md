@@ -7,7 +7,7 @@ icon: calendar-days
 
 ## Event-Driven Architectural Style
 
-<kbd>React in Real-Time</kbd>
+<kbd>React in Real-Time | Loose coupling | Asynchronous Communication</kbd>
 
 > Systems respond to **events**&#x20;
 >
@@ -16,6 +16,13 @@ icon: calendar-days
 > using **message queues** or **streams**,
 >
 > enabling **asynchronous processing**.
+>
+>
+>
+> Promotes
+>
+> * **loose coupling**
+> * **asynchronous communication**
 
 
 

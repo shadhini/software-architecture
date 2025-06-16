@@ -48,7 +48,7 @@ icon: swatchbook
 
 ### Tips
 
-* use **ORM**
+* use **ORM**: Object Relational Mapping
   * `ActiveRecord` in `Rails`
 * **cache views** for performance
 

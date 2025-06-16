@@ -22,7 +22,7 @@ icon: images
 >
 > reducing latency and load.
 
-<figure><img src="../.gitbook/assets/software-architecture_static-content-hosting_CDN.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/software-architecture_static-content-hosting_CDN.svg" alt=""><figcaption></figcaption></figure>
 
 
 
