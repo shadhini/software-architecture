@@ -3,6 +3,7 @@
 * [Software Architecture vs Solution Architecture](README.md)
 * [Programming Paradigms](programming-paradigms/README.md)
   * [Procedural Programming](programming-paradigms/procedural-programming.md)
+  * [OOP: Object Oriented Programming](programming-paradigms/oop-object-oriented-programming.md)
   * [Imperative Programming](programming-paradigms/imperative-programming.md)
   * [Declarative Programming](programming-paradigms/declarative-programming.md)
 

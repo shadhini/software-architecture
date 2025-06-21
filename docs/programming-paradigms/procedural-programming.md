@@ -41,6 +41,8 @@ icon: stairs
 
 ## Example Implementation of Mortgage Calculator using Procedural Paradigm&#x20;
 
+{% @github-files/github-code-block url="https://github.com/shadhini/software-architecture/blob/main/programming-paradigms/com/shadhini/tryouts/softwarearchitecture/programmingparadigms/procedural/MortgageCalculator.java" %}
+
 
 
 
