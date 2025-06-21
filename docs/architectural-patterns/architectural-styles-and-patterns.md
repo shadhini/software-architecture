@@ -35,4 +35,6 @@ icon: palette
 
 * Netflix streaming: microservices
 * BitTorrent decentralised file sharing: peer to peer
+* Kafka: event diven | publisher-subsriber architecture
+* Bitcoin / Ethereum: peer to peer
 
