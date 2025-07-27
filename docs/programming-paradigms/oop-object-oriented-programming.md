@@ -46,3 +46,13 @@ Everything based on the concept of `objects`.
 
 
 
+## Example Implementation of Mortgage Calculator using Object-Oriented Programming&#x20;
+
+{% @github-files/github-code-block url="https://github.com/shadhini/software-architecture/blob/main/programming-paradigms/src/com/shadhini/tryouts/softwarearchitecture/programmingparadigms/oop/Console.java" %}
+
+{% @github-files/github-code-block url="https://github.com/shadhini/software-architecture/blob/main/programming-paradigms/src/com/shadhini/tryouts/softwarearchitecture/programmingparadigms/oop/MortgageCalculator.java" %}
+
+{% @github-files/github-code-block url="https://github.com/shadhini/software-architecture/blob/main/programming-paradigms/src/com/shadhini/tryouts/softwarearchitecture/programmingparadigms/oop/MortgageReport.java" %}
+
+{% @github-files/github-code-block url="https://github.com/shadhini/software-architecture/blob/main/programming-paradigms/src/com/shadhini/tryouts/softwarearchitecture/programmingparadigms/oop/Main.java" %}
+
