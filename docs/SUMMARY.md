@@ -6,6 +6,7 @@
   * [OOP: Object Oriented Programming](programming-paradigms/oop-object-oriented-programming.md)
   * [Imperative Programming](programming-paradigms/imperative-programming.md)
   * [Declarative Programming](programming-paradigms/declarative-programming.md)
+* [Code Style](code-style.md)
 
 ## Web Development
 
@@ -40,4 +41,5 @@
 
 ## Glossary
 
-* [Glossary](glossary/glossary.md)
+* [Terms Glossary](glossary/terms-glossary.md)
+* [Tech Glossary](glossary/tech-glossary.md)
