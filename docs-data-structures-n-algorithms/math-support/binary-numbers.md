@@ -8,8 +8,18 @@ Computers started using `electronic tubes or relays` ➡ then **`transistors`**.
 
 * All of which could be used to represent 2 states and quickly change from one to the other.
 
-| 8 digit number |  1 byte |
-| -------------- | ------- |
+| 8 digit number |  1 byte          |
+| -------------- | ---------------- |
+| 1024 bytes     | 1 KB             |
+| 1024 KB        | 1 MB             |
+| 1024 MB        | 1 GB             |
+| 1024 GB        | 1 TB (Terabyte)  |
+| 1024 TB        | 1 PB (Petabyte)  |
+| 1024 PB        | 1 EB (Exabyte)   |
+| 1024 EB        | 1 ZB (Zettabyte) |
+| 1024 ZB        | 1 YB (Yottabyte) |
+
+
 
 <kbd>Even the</kbd> <kbd></kbd><kbd>**computer memory is binary**</kbd><kbd>:</kbd>
 
