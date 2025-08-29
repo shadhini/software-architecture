@@ -11,6 +11,8 @@
   * [Releases](software-engineering-processes/releases.md)
   * [Software Versions](software-engineering-processes/software-versions.md)
   * [Documenting](software-engineering-processes/documenting.md)
+  * [Code Refactoring](software-engineering-processes/code-refactoring.md)
+* [Teamwork in Software Engineering](teamwork-in-software-engineering.md)
 * [Software Development Methodologies](software-development-methodologies.md)
 * [Programming Paradigms](programming-paradigms/README.md)
   * [Procedural Programming](programming-paradigms/procedural-programming.md)
@@ -21,6 +23,13 @@
 
 ## Web Development
 
+* [Websites](web-development/websites.md)
+* [Cloud Applications](web-development/cloud-applications.md)
+* [👩‍💻 Web & Cloud Development](web-development/web-and-cloud-development/README.md)
+  * [Front-End Development](web-development/web-and-cloud-development/front-end-development.md)
+  * [Back-End Development](web-development/web-and-cloud-development/back-end-development.md)
+* [Software Stacks](web-development/software-stacks.md)
+* [Developer Tools](web-development/developer-tools.md)
 * [Deep Links](web-development/deep-links/README.md)
   * [Types of Deep Links](web-development/deep-links/types-of-deep-links.md)
   * [Deep Linking vs Fallbacks vs Redirects](web-development/deep-links/deep-linking-vs-fallbacks-vs-redirects.md)
