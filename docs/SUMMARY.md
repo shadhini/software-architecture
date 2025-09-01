@@ -14,11 +14,18 @@
   * [Code Refactoring](software-engineering-processes/code-refactoring.md)
 * [Teamwork in Software Engineering](teamwork-in-software-engineering.md)
 * [Software Development Methodologies](software-development-methodologies.md)
+* [Programming Languages](programming-languages/README.md)
+  * [Programming Languages: Interpreted & Compiled](programming-languages/programming-languages-interpreted-and-compiled.md)
+  * [Query Languages](programming-languages/query-languages.md)
+  * [Assembly Languages](programming-languages/assembly-languages.md)
+* [Code Organization Methods](code-organization-methods.md)
+* [Programming Concepts](programming-concepts.md)
 * [Programming Paradigms](programming-paradigms/README.md)
   * [Procedural Programming](programming-paradigms/procedural-programming.md)
   * [OOP: Object Oriented Programming](programming-paradigms/oop-object-oriented-programming.md)
   * [Imperative Programming](programming-paradigms/imperative-programming.md)
   * [Declarative Programming](programming-paradigms/declarative-programming.md)
+* [Software Design and Architecture](software-design-and-architecture.md)
 * [Code Style](code-style.md)
 
 ## Web Development
