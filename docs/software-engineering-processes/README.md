@@ -15,8 +15,8 @@ icon: gear-complex-code
 
 ## Design
 
-{% content-ref url="design.md" %}
-[design.md](design.md)
+{% content-ref url="software-design.md" %}
+[software-design.md](software-design.md)
 {% endcontent-ref %}
 
 

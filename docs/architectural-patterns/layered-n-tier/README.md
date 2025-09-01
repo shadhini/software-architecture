@@ -26,6 +26,11 @@ icon: layer-group
 
 
 
+* **`2 tier`**: clients & server
+* **`3 tier`**: presentation, application & data
+
+
+
 ## Benefits
 
 * enhances maintainability
@@ -58,6 +63,10 @@ icon: layer-group
   * UI layer,
   * loan calculation logic, ad
   * database access.
+* Web apps — 3-tier
+  * web server → UI
+  * application server → process user inputs
+  * database server → handles data management
 
 
 

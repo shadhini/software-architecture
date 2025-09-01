@@ -7,6 +7,8 @@ icon: chart-network
 
 ## Microservices Architecture
 
+<kbd>Loosely Coupled Individual Services</kbd>&#x20;
+
 > Application is broken down and structured as a collection of
 >
 > * **small**,
@@ -23,10 +25,12 @@ icon: chart-network
 > * **deployed**,
 > * **developed**, and
 > * **scaled** on its own.&#x20;
+>
+> Applications composed of several **loosely coupled services** that communicate using **APIs**.
 
-<figure><img src="../.gitbook/assets/software-architecture-architectural-pattern_microservice.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/software-architecture-architectural-pattern_microservice.png" alt="" width="375"><figcaption></figcaption></figure>
 
-
+<figure><img src="../.gitbook/assets/software-architecture_architectural-pattern_microservices_with-api-gateway.svg" alt="" width="375"><figcaption><p>MIcroservices with API Gateway</p></figcaption></figure>
 
 * **Each microservice owns its database**
   * e.g:&#x20;
@@ -35,6 +39,8 @@ icon: chart-network
 * Services typically **communicate** over a network using **lightweight protocols**.
   * &#x20;**APIs:** `HTTP/REST`, `gRPC`
   * Asynchronous messaging: **message queues**
+* **API Gateway:** routes the API from the client to a service
+* **Orchestration**: handles communication between serices
 
 #### Challenges
 
@@ -88,7 +94,9 @@ icon: chart-network
 
 * Ride-sharing app with separate services for ride matching, payment, and notifications.
 
+#### Social media apps
 
+* services: adding friends, targeted ad recommendation, displaying content
 
 ### Netflix
 

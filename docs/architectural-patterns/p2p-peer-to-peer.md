@@ -7,7 +7,7 @@ icon: chart-network
 
 ## `P2P`: Peer-to-Peer Architecture
 
-<kbd>Distributed Network Architecture</kbd>
+<kbd>Distributed Network Architecture | Decentralized</kbd>
 
 > **Nodes** (peers — participants) **communicate directly** without a central server,
 >
@@ -20,16 +20,16 @@ icon: chart-network
 >
 >
 >
-> Each peer can act as both a client and a server.
-
-
+> Each peer can act as **both** a **client** and a **server**.&#x20;
+>
+> Peers both supply & consume the resources.
 
 * Decentralized
 * Requires **peer discovery**&#x20;
   * e.g: `DHT`
 * Requires `NAT` **traversal** for **connectivity**
 
-
+<figure><img src="../.gitbook/assets/software-architecture_architectural-pattern_P2P.svg" alt="" width="375"><figcaption><p>P2P</p></figcaption></figure>
 
 ## Benefits
 
@@ -59,5 +59,9 @@ icon: chart-network
 
 * `BitTorrent` for file sharing.&#x20;
 * Blockchain networks like `Ethereum`, `Bitcoin`.
-* Real-time commuication platforms.
+* Real-time communication platforms — instant messaging
+* Collaboration&#x20;
+* High performance computing
+
+
 

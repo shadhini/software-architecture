@@ -23,6 +23,10 @@ icon: calendar-days
 >
 > * **loose coupling**
 > * **asynchronous communication**
+>
+>
+>
+> An action is produced by **Producer** and responded to by a **Consumer**.
 
 
 
@@ -58,6 +62,7 @@ icon: calendar-days
 ## Use-cases
 
 * X's real-time notifications when a user posts.
+* Ride sharing apps: `Lyft`, `Uber`
 
 
 
@@ -68,7 +73,7 @@ icon: calendar-days
 * `Streams` are channels for conveying events
 * `Producers` may **write** to **multiple** streams
 * `Consumers` may **read** from **multiple** streams
-* Producers and consumers may **overlap**, being pars of the **same application**
+* Producers and consumers may **overlap**, being parts of the **same application**
 
 
 
