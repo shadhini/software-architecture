@@ -28,6 +28,7 @@
 * [OOAD: Object Oriented Analysis & Design](ooad-object-oriented-analysis-and-design.md)
 * [Software Architecture](software-architecture.md)
 * [Application Deployment Environments](application-deployment-environments.md)
+* [Production Deployment Components](production-deployment-components.md)
 * [Teamwork in Software Engineering](teamwork-in-software-engineering.md)
 * [Code Style](code-style.md)
 
