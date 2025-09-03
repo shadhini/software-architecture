@@ -31,6 +31,7 @@
 * [Production Deployment Components](production-deployment-components.md)
 * [Teamwork in Software Engineering](teamwork-in-software-engineering.md)
 * [Code Style](code-style.md)
+* [Software Engineering Code of Ethics](software-engineering-code-of-ethics.md)
 
 ## Web Development
 

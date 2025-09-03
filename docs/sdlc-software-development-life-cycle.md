@@ -127,7 +127,7 @@ The **original SDLC** was conceives as a traditional **waterfall** methods where
   * Staging platform
   * UAT platform
 
-
+skills required: testing, debugging&#x20;
 
 #### 5. Deployment
 
@@ -142,6 +142,8 @@ The **original SDLC** was conceives as a traditional **waterfall** methods where
   * website
   * mobile device app store
   * software distribution server on a corporate network
+
+skills required: shell scripting, containers, CI/CD
 
 #### 6. Maintenance&#x20;
 
@@ -159,5 +161,5 @@ The **original SDLC** was conceives as a traditional **waterfall** methods where
   * the **process can start over again**
 * information collected in this phase can be fed into another software development cycle if necessary
 
-
+skills required: monitoring, troubleshooting
 
