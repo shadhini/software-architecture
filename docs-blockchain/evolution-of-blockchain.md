@@ -1,0 +1,8 @@
+---
+icon: timeline-arrow
+---
+
+# Evolution of Blockchain
+
+<table><thead><tr><th width="91.2578125" valign="top">Year</th><th valign="top">Findings </th></tr></thead><tbody><tr><td valign="top">2008</td><td valign="top"><p>introduction of <strong><code>Bitcoin</code></strong> by <strong>Satoshi Nakamoto</strong> (anonymous figure or group)</p><p>— <strong>decentralized digital currency</strong> — </p><ul><li>enabled peer-to-peer transactions without the need for a trusted intermediary like a bank</li><li><p>underlying technology — blockchain — serves as a public ledger </p><ul><li><p>key issues solved for digital currencies at the time</p><ul><li>securely recording all transactions</li><li>preventing double-spending </li></ul></li></ul></li></ul></td></tr><tr><td valign="top">2015</td><td valign="top"><p><strong><code>Ethereum</code></strong> platform</p><ul><li>blockchain start to support <strong>smart contracts</strong> </li></ul></td></tr><tr><td valign="top"></td><td valign="top">blockchain usage extended to other areas of real-world applications (real estate, finance, supply chain management, healthcare, voting systems) beyond cryptocurrencies</td></tr><tr><td valign="top"></td><td valign="top"><ul><li><strong><code>DeFi</code></strong>: Decentralized Finance</li><li><strong><code>NFTs</code></strong>: Non-Fungible Tokens</li></ul><p></p></td></tr><tr><td valign="top"></td><td valign="top"><p>Today: ongoing advancements aimed at </p><ul><li>improving scalability</li><li>improving privacy</li><li>integration with AI</li><li>integration with IoT</li></ul></td></tr><tr><td valign="top"></td><td valign="top"></td></tr></tbody></table>
+

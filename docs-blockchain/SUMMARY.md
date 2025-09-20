@@ -1,3 +1,9 @@
 # Table of contents
 
-* [Page](README.md)
+* [Global Marketplace & Blockchain](README.md)
+* [Blockchain Benefits & Use Cases](blockchain-benefits-and-use-cases.md)
+* [Evolution of Blockchain](evolution-of-blockchain.md)
+
+## Blockchain Architecture
+
+* [Blockchain](blockchain-architecture/blockchain.md)
