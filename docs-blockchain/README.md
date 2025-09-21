@@ -3,7 +3,7 @@ description: Crisis of Global Marketplace & Blockchain Challenges
 icon: arrow-trend-up
 ---
 
-# Global Marketplace & Blockchain
+# Global Marketplace & Blockchain Challenges
 
 {% hint style="success" %}
 Blockchain should be used as a **strategic tool**
@@ -24,7 +24,7 @@ Blockchain should be used as a **strategic tool**
 * selecting the right tools and languages for development
 * balancing the **trade-offs** between **scalability**, **security** & **decentralization**
 * safeguard systems from **vulnerabilities**&#x20;
-  * 51% stacks
+  * 51% attacks
 * implement solutions that **redefine the meaning of trust** in business&#x20;
 * higher stakes&#x20;
 

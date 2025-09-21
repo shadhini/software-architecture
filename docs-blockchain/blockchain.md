@@ -12,18 +12,6 @@ icon: hive
 > 1. A blockchain is a **network protocol** which creates and manages a **decentralized ledger**.
 > 2. Ledger copies are kept in-sync via **group consensus**.
 > 3. Almost all blockchain networks are capable of running **Smart Contracts**.
->
->
->
-> **— shared, transparent, immutable digital ledger  —**&#x20;
->
-> enables
->
-> * recording of transactions
-> * tracking of assets within a business network
-> * providing a single source of truth
-
-
 
 #### Network Protocol
 
@@ -68,8 +56,7 @@ icon: hive
 
 #### Smart Contracts
 
-* **code** that is executed when an event occurs which affects an asset we're tracking
-  * invoked by an event happening in the network
+* **code** that is invoked when an event occurs which affects an asset we're tracking
 * code **stored on a blockchain** that are **automatically executed** when predetermined terms and conditions are met
 *   **`a class / object definition`**
 
@@ -90,12 +77,39 @@ icon: hive
 
 ## Blockchain Features
 
-* distributed/decentralized database
-* distributed ledger technology
-* consensus validate transactions
-* immutable records
-* smart contracts
-* public key cryptography
+* **distributed/decentralized database**
+* **distributed ledger technology**
+* **smart contracts**
+
+### Permanence / Immutability
+
+> **Everything on a blockchain ledger is permanent !**
+>
+> ❗**on chain data — can never be deleted**
+
+**immutable records**
+
+* no one can tamper with transaction once it's been recorded
+* if there's an error in transaction record → a new transaction must be added to reverse the error
+  * both transactions are then visible
+* updates / deletions — recorded as new ledger entries
+
+#### ✅ Good for
+
+* creating detailed and dependable audit trails
+
+#### ❗ Poses issues for
+
+* data retention
+* regulatory compliance
+  * even if a customer asks to delete or update existing data, it cannot be done
+  * only thing we can do on a blockchain is adding a new entry saying from this timestamp onwards this data is&#x20;
+    * updated to new value (for update scenario)&#x20;
+    * or deprecated (for delete scenario)
+
+
+
+
 
 
 

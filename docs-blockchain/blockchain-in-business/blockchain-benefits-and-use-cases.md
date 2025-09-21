@@ -1,0 +1,12 @@
+---
+icon: thumbs-up
+---
+
+# Blockchain Benefits & Use Cases
+
+## Blockchain Benefits
+
+
+
+<table><thead><tr><th valign="top">Benefit</th><th valign="top">Contributing Blockchain Feature</th></tr></thead><tbody><tr><td valign="top">greater trust</td><td valign="top"><ul><li>secure, members-only network</li><li><p>ensure accurate &#x26; timely data access</p><ul><li>chain of blocks connected with cryptographic hashes</li></ul></li><li><p>confidential records are shared only with authorized network members</p><ul><li>foster trust </li></ul></li><li>create end-to-end visibility across the system</li></ul></td></tr><tr><td valign="top">enhanced security</td><td valign="top"><ul><li>consensus among network members is required to validate data accuracy</li><li><p>all validated transactions are immutable &#x26; permanently recorded</p><ul><li>no transaction can be deleted, even by a system administrator</li></ul></li></ul></td></tr><tr><td valign="top">better traceability </td><td valign="top"><p>offers instant traceability with a transparent audit trail of an asset's journey </p><ul><li>enables direct sharing of provenance data</li></ul></td></tr><tr><td valign="top">automated transactions</td><td valign="top"><p>smart contracts — seamless automation of transactions </p><ul><li>smart contracts automatically trigger the next step when predefined conditions are met — reduce the need for manual intervention</li></ul></td></tr><tr><td valign="top"><ul><li>increased efficiency &#x26; reduced costs in business processes</li></ul></td><td valign="top"><p>blockchain streamlines processes and enhance accountability </p><ul><li>distributed ledger shared among network members — eliminate need for time-consuming record reconciliations</li><li>smart contracts stored on blockchain — automate processes &#x26; speed up transactions </li></ul></td></tr><tr><td valign="top"><ul><li>guarantees data integrity </li></ul><ul><li>provides a tamper-proof record</li></ul></td><td valign="top"><p> blockchain structure: </p><ul><li>linked blocks</li><li>cryptographic hashes of blocks</li></ul></td></tr><tr><td valign="top"><ul><li>provide security, transparency and trust without relying on traditional intermediaries such as banks/third parties</li></ul></td><td valign="top"><ul><li>decentralized nature</li><li>smart contracts — automate processes &#x26; reduce the need for intermediaries</li></ul></td></tr></tbody></table>
+
