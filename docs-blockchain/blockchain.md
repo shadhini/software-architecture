@@ -52,7 +52,12 @@ icon: hive
   * majority rules determines whcih version the minority will sync to
   * if no agreement can be made (less than 51%), the block is discarded and the network will try building it again
 
+{% hint style="info" %}
+Consensus Mechanisms:
 
+* Proof of Work
+* Proof of Stake
+{% endhint %}
 
 #### Smart Contracts
 

@@ -4,25 +4,22 @@
 * [Blockchain](blockchain.md)
 * [Blockchain Features](blockchain-features.md)
 * [Blockchain vs Database](blockchain-vs-database.md)
-* [Types of Blockchains](types-of-blockchains.md)
-* [Blockchain Layers](blockchain-layers/README.md)
-  * [Blockchain Layers: Layer 0](blockchain-layers/blockchain-layers-layer-0.md)
-  * [Blockchain Layers: Layer 1](blockchain-layers/blockchain-layers-layer-1.md)
-  * [Blockchain Layers: Layer 2](blockchain-layers/blockchain-layers-layer-2.md)
-  * [Blockchain Layers: Layer 3](blockchain-layers/blockchain-layers-layer-3.md)
+* [Types of Blockchains](types-of-blockchains/README.md)
+  * [Layer 0 Blockchain Platforms](types-of-blockchains/layer-0-blockchain-platforms.md)
+  * [Layer 1 Blockchain Platforms](types-of-blockchains/layer-1-blockchain-platforms.md)
+  * [Layer 2 Blockchain Platforms](types-of-blockchains/layer-2-blockchain-platforms.md)
+  * [Layer 3 Blockchain Platforms](types-of-blockchains/layer-3-blockchain-platforms.md)
+* [Layers in Blockchain](layers-in-blockchain.md)
 
 ## Blockchain Architecture
 
 * [Block & Chains](blockchain-architecture/block-and-chains.md)
 * [Hash](blockchain-architecture/hash.md)
 * [Public Key Cryptography & Wallets](blockchain-architecture/public-key-cryptography-and-wallets.md)
+* [✅ Blockchain Architecture](blockchain-architecture/blockchain-architecture.md)
 
 ## Blockchain in Business
 
-* [Evolution of Blockchain](blockchain-in-business/evolution-of-blockchain.md)
 * [Blockchain Benefits](blockchain-in-business/blockchain-benefits.md)
 * [Blockchain Use-cases](blockchain-in-business/blockchain-use-cases.md)
-
-***
-
-* [Unsorted](unsorted.md)
+* [Evolution of Blockchain](blockchain-in-business/evolution-of-blockchain.md)

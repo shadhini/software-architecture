@@ -2,7 +2,7 @@
 icon: '2'
 ---
 
-# Blockchain Layers: Layer 2
+# Layer 2 Blockchain Platforms
 
 ## Layer 2 Platforms&#x20;
 
@@ -12,6 +12,8 @@ icon: '2'
 > * aims to solve some of the **usability problems of Layer 1** such as&#x20;
 >   * **high expense**
 >   * **low performance**&#x20;
+>   * **improve scalability**
+>   * **improve transaction speed**
 > * generally made up of&#x20;
 >   * **`state channels`**:  blockchain ledger + off-chain transactional channel for bulk data
 >   * **`sidechains`**: main chain for main data + cheaper, more performant side chain for supporting data

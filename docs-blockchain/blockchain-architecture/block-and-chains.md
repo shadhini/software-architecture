@@ -35,6 +35,8 @@ icon: cube
 > grouping of transactions&#x20;
 >
 > * transaction: information about the assets, and events that happened to them&#x20;
+>
+> data structure of blockchain
 
 metaphor: sheet of paper
 
@@ -51,6 +53,10 @@ metaphor: sheet of paper
 > ╰┈➤ so that any change or alternation made on any block has a _**cascading effect**_ on every block that comes after it in the chain,&#x20;
 >
 > letting any observer know that something has _**likely been tampered**_ with
+
+> **Chains**:
+>
+> blocks are organized sequentially to form a "chain", with each block referencing the previous one
 
 
 
