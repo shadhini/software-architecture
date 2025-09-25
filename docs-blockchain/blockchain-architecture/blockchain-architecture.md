@@ -1,4 +1,4 @@
-# ✅ Blockchain Architecture
+# ✅ \*Blockchain Architecture
 
 mysterious interruptions on blockchain network
 
@@ -39,7 +39,8 @@ consensus mechanism isn't flagging anything — issue isn't a violation of rules
 network layer diagnostics&#x20;
 
 * connections between nodes are lagging — subtle issue  at the network layer
-*
+
+
 
 
 

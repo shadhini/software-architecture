@@ -16,10 +16,12 @@
 * [Block & Chains](blockchain-architecture/block-and-chains.md)
 * [Hash](blockchain-architecture/hash.md)
 * [Public Key Cryptography & Wallets](blockchain-architecture/public-key-cryptography-and-wallets.md)
-* [✅ Blockchain Architecture](blockchain-architecture/blockchain-architecture.md)
+* [✅ \*Blockchain Architecture](blockchain-architecture/blockchain-architecture.md)
 
 ## Blockchain in Business
 
+* [Blockchain: Value Proposition](blockchain-in-business/blockchain-value-proposition.md)
+* [When to use Blockchain?](blockchain-in-business/when-to-use-blockchain.md)
 * [Blockchain Benefits](blockchain-in-business/blockchain-benefits.md)
 * [Blockchain Use-cases](blockchain-in-business/blockchain-use-cases.md)
 * [Evolution of Blockchain](blockchain-in-business/evolution-of-blockchain.md)
