@@ -77,4 +77,9 @@
 ## Glossary
 
 * [Terms Glossary](glossary/terms-glossary.md)
-* [Tech Glossary](glossary/tech-glossary.md)
+* [Page](glossary/page.md)
+* [Tech Glossary](glossary/tech-glossary/README.md)
+  * [Programming Languages](glossary/tech-glossary/programming-languages.md)
+  * [Code Editors, IDEs & Dev Support Tools](glossary/tech-glossary/code-editors-ides-and-dev-support-tools.md)
+  * [Front End Technologies](glossary/tech-glossary/front-end-technologies.md)
+  * [Back End Technologies](glossary/tech-glossary/back-end-technologies.md)

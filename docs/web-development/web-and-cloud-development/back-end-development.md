@@ -76,7 +76,6 @@ icon: send-backward
     * code looks cleaner, beautiful & easier to read
     * arrow functions
     * `...` operator
-    *
 
 
 
