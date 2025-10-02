@@ -1,4 +1,5 @@
 ---
+description: When to use blockchains
 icon: clipboard-check
 ---
 
@@ -6,13 +7,7 @@ icon: clipboard-check
 
 ## Blockchain Use-cases
 
-enables
-
-* recording of transactions
-* tracking of assets within a business network
-* providing a single source of truth
-
-<table><thead><tr><th valign="top">Use case</th><th valign="top">Reason: Contributing Blockchain Feature</th></tr></thead><tbody><tr><td valign="top"><ul><li>cryptocurrencies </li><li>supply chain management</li></ul></td><td valign="top">tamper-proof record </td></tr><tr><td valign="top"><ul><li>finance</li><li>healthcare</li></ul></td><td valign="top">secure transactions — reduced risk of fraud and errors</td></tr><tr><td valign="top"><ul><li>real estate</li><li>voting systems</li></ul></td><td valign="top"></td></tr></tbody></table>
+<table><thead><tr><th width="271.73828125" valign="top">Use case</th><th valign="top">Reason: Contributing Blockchain Feature</th></tr></thead><tbody><tr><td valign="top">Cryptocurrencies </td><td valign="top">tamper-proof record </td></tr><tr><td valign="top">Supply Chain Management</td><td valign="top"><ul><li>data traceability</li><li>tamper-proof record</li></ul></td></tr><tr><td valign="top"><p>Finance</p><ul><li><strong><code>DeFi</code></strong>: Decentralized Finance </li></ul></td><td valign="top">secure transactions — reduced risk of fraud and errors</td></tr><tr><td valign="top">Healthcare</td><td valign="top">secure transactions — reduced risk of fraud</td></tr><tr><td valign="top">Public Voting Systems</td><td valign="top"></td></tr><tr><td valign="top"><p>Real estate</p><p>(property — lands &#x26; buildings )</p></td><td valign="top"></td></tr></tbody></table>
 
 
 
@@ -20,6 +15,8 @@ enables
 
 * transferring corporate bonds
 * triggering travel insurance payouts
+
+
 
 
 
