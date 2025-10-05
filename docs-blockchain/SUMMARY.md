@@ -16,7 +16,7 @@
 * [Block & Chains](blockchain-architecture/block-and-chains.md)
 * [Hash](blockchain-architecture/hash.md)
 * [Public Key Cryptography & Wallets](blockchain-architecture/public-key-cryptography-and-wallets.md)
-* [✅ \*Blockchain Architecture](blockchain-architecture/blockchain-architecture.md)
+* [✅ Blockchain Architecture](blockchain-architecture/blockchain-architecture.md)
 
 ## Blockchain in Business
 
@@ -31,4 +31,13 @@
 * [Blockchain Use-cases](blockchain-in-business/blockchain-use-cases.md)
 * [Blockchain Benefits](blockchain-in-business/blockchain-benefits.md)
 * [Evolution of Blockchain](blockchain-in-business/evolution-of-blockchain.md)
-* [Page](blockchain-in-business/page.md)
+
+## Troubleshooting Blockchain
+
+* [Troubleshooting Blockchain](troubleshooting-blockchain/troubleshooting-blockchain.md)
+* [Troubleshooting: Things to Check](troubleshooting-blockchain/troubleshooting-things-to-check.md)
+* [Possible Issues & Solutions](troubleshooting-blockchain/possible-issues-and-solutions.md)
+
+## Supporting Resources
+
+* [Interesting Demonstrations of Blockchain](supporting-resources/interesting-demonstrations-of-blockchain.md)

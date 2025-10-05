@@ -16,6 +16,10 @@ icon: sack-dollar
 
 ## Blockchain: Value Proposition
 
+{% hint style="success" %}
+**Blockchain’s value isn’t in the data it stores—it’s in the trust it builds.**
+{% endhint %}
+
 **primary value — `accuracy`**
 
 > If I **record a false statement on-chain**,

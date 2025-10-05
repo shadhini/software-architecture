@@ -1,4 +1,5 @@
 ---
+description: When to use Blockchain?  and When to avoid Blockchain?
 icon: calendar-check
 ---
 
@@ -12,11 +13,13 @@ Blockchain technology is appropriate, when
 
 ✅  a decentralized network is preferred
 
-✅  transparency is required
+✅  trust & transparency is required
 
 ✅  need to track history/lifecycle/custody chain of assets
 
-✅ participants do not trust each other — shared resources can't be kept by one party
+✅ when multiple parties need a shared, immutable source of truth
+
+* participants do not trust each other — shared resources can't be kept by one party
 
 ✅ as IT infrastructure — to developing countries where you cannot rely on critical infrastructure being available
 
@@ -32,15 +35,19 @@ Blockchain technology is not appropriate, when
 
 ❌ real-time transaction speed is crucial
 
+❌ data that needs constant updates&#x20;
+
 ❌ **Centralized control** is desired&#x20;
 
 ❌ **Data must be destroyed**, cannot be permanent; data retention & lifecycle requirements&#x20;
 
 ❌ **Data sovereignty** is a concern — you need to be able to determine where data is stored and how
 
-❌ **Speed and performance** are top solution requirements/concerns&#x20;
+❌ **Speed, efficiency and performance** are top solution requirements/concerns&#x20;
 
 ❌ Working with **highly confidential data**, security is a **top concern**  (for the moment — due to short production lifespan of blockchain technology )
+
+
 
 
 
