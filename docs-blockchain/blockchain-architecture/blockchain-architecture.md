@@ -57,3 +57,18 @@ on-chain, off-chain hybrid mashups
     * copy data from blockchain to a database for using existing tools for reporting, analysis, dashboarding
     * no need to worry about keeping database copy of the ledger in sync — we have the implicit guarantee that the original source (blockchain) is never going to change&#x20;
 
+
+
+{% hint style="success" %}
+#### Balancing Act
+
+The adoption of blockchain technology in many sectors required a careful balance between&#x20;
+
+* the benefits of on-chain data for security and immutability and&#x20;
+* the practicality of off-chain solutions for scalability
+
+❗Finding the right balance is critical for successful blockchain integration.
+{% endhint %}
+
+
+
