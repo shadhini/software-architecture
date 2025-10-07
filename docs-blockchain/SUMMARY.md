@@ -9,6 +9,7 @@
   * [Layer 2 Blockchain Platforms](types-of-blockchains/layer-2-blockchain-platforms.md)
   * [Layer 3 Blockchain Platforms](types-of-blockchains/layer-3-blockchain-platforms.md)
 * [Layers in Blockchain](layers-in-blockchain.md)
+* [Layers of Blockchain Application](layers-of-blockchain-application.md)
 * [On-Chain Data vs Off-Chain Data](on-chain-data-vs-off-chain-data.md)
 
 ## Blockchain Architecture
@@ -32,6 +33,17 @@
 * [Blockchain Benefits](blockchain-in-business/blockchain-benefits.md)
 * [Evolution of Blockchain](blockchain-in-business/evolution-of-blockchain.md)
 
+## Blockchain Development
+
+* [Blockchain Development](blockchain-development/blockchain-development.md)
+* [Blockchain Platforms](blockchain-development/blockchain-platforms.md)
+* [Development Languages](blockchain-development/development-languages.md)
+* [Toolsets](blockchain-development/toolsets.md)
+
+## Blockchain Security Attacks
+
+* [Blockchain Attacks](blockchain-security-attacks/blockchain-attacks.md)
+
 ## Troubleshooting Blockchain
 
 * [Troubleshooting Blockchain](troubleshooting-blockchain/troubleshooting-blockchain.md)
@@ -41,3 +53,5 @@
 ## Supporting Resources
 
 * [Interesting Demonstrations of Blockchain](supporting-resources/interesting-demonstrations-of-blockchain.md)
+* [Development Resources, Knowledgebases, and Head-Starts](supporting-resources/development-resources-knowledgebases-and-head-starts.md)
+* [Blockchain Explorers](supporting-resources/blockchain-explorers.md)

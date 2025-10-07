@@ -29,6 +29,16 @@ smart contracts — automated condition-based transactions
 
 
 
+**blockchain application — 3 primary architectural layers**
+
+* top layer — user interface layer
+* middle layer — connect user interface to smart contracts&#x20;
+* bottom layer — smart contracts running on the blockchain network
+
+╰┈➤ thus changing the smart contract layer will result in needing to do corresponding changes to middle layer and top layer too&#x20;
+
+
+
 **Blockchain’s value isn’t in the data it stores—it’s in the trust it builds.**
 
 centralized databases — efficient, data that needs constant updates&#x20;
@@ -48,7 +58,7 @@ Off-chain solutions — deal with scalable, private transactions
 
 
 
-on-chain, off-chain hybrid mashups
+**on-chain, off-chain hybrid mashups**
 
 1. Database —  primar&#x79;**,** Blockchain —  secondary
    * data on database; proofs or markers of that data such as cryptographic hashes on blockchain
@@ -68,6 +78,14 @@ The adoption of blockchain technology in many sectors required a careful balance
 * the practicality of off-chain solutions for scalability
 
 ❗Finding the right balance is critical for successful blockchain integration.
+{% endhint %}
+
+
+
+{% hint style="success" %}
+## Picking the right smart contract language and tools
+
+— the chain chooses the code, not the other way around —&#x20;
 {% endhint %}
 
 
