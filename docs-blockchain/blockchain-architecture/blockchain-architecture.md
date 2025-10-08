@@ -1,5 +1,7 @@
 # ✅ Blockchain Architecture
 
+## Summary: Blockchain Architecture
+
 blockchain — chain of blocks
 
 each block carries
@@ -26,6 +28,14 @@ layers function together
 public/private key architecture
 
 smart contracts — automated condition-based transactions
+
+
+
+{% hint style="warning" %}
+benefits of blockchain; data integrity, security, fault tolerance, failover, redundancy
+
+**come at the expesne of speed, performance, and efficiency**
+{% endhint %}
 
 
 

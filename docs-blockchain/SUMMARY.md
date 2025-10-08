@@ -1,23 +1,34 @@
 # Table of contents
 
-* [Blockchain](README.md)
-* [Blockchain Features](blockchain-features.md)
-* [Blockchain vs Database](blockchain-vs-database.md)
-* [Types of Blockchains](types-of-blockchains/README.md)
-  * [Layer 0 Blockchain Platforms](types-of-blockchains/layer-0-blockchain-platforms.md)
-  * [Layer 1 Blockchain Platforms](types-of-blockchains/layer-1-blockchain-platforms.md)
-  * [Layer 2 Blockchain Platforms](types-of-blockchains/layer-2-blockchain-platforms.md)
-  * [Layer 3 Blockchain Platforms](types-of-blockchains/layer-3-blockchain-platforms.md)
-* [Layers in Blockchain](layers-in-blockchain.md)
-* [Layers of Blockchain Application](layers-of-blockchain-application.md)
-* [On-Chain Data vs Off-Chain Data](on-chain-data-vs-off-chain-data.md)
-
 ## Blockchain Architecture
 
+* [Blockchain](README.md)
 * [Block & Chains](blockchain-architecture/block-and-chains.md)
 * [Hash](blockchain-architecture/hash.md)
 * [Public Key Cryptography & Wallets](blockchain-architecture/public-key-cryptography-and-wallets.md)
+* [Blockchain Features](blockchain-architecture/blockchain-features.md)
+* [Blockchain vs Database](blockchain-architecture/blockchain-vs-database.md)
+* [Types of Blockchains](blockchain-architecture/types-of-blockchains/README.md)
+  * [Layer 0 Blockchain Platforms](blockchain-architecture/types-of-blockchains/layer-0-blockchain-platforms.md)
+  * [Layer 1 Blockchain Platforms](blockchain-architecture/types-of-blockchains/layer-1-blockchain-platforms.md)
+  * [Layer 2 Blockchain Platforms](blockchain-architecture/types-of-blockchains/layer-2-blockchain-platforms.md)
+  * [Layer 3 Blockchain Platforms](blockchain-architecture/types-of-blockchains/layer-3-blockchain-platforms.md)
+* [Layers in Blockchain](blockchain-architecture/layers-in-blockchain.md)
+* [Layers of Blockchain Application](blockchain-architecture/layers-of-blockchain-application.md)
+* [On-Chain Data vs Off-Chain Data](blockchain-architecture/on-chain-data-vs-off-chain-data.md)
 * [✅ Blockchain Architecture](blockchain-architecture/blockchain-architecture.md)
+
+## Consensus
+
+* [Byzantine General's Problem](consensus/byzantine-generals-problem.md)
+* [The Consensus Problem](consensus/the-consensus-problem.md)
+* [Proof of Work](consensus/proof-of-work.md)
+* [Proof of Stake](consensus/proof-of-stake.md)
+* [Delegated Proof of Stake](consensus/delegated-proof-of-stake.md)
+* [Proof of Authority](consensus/proof-of-authority.md)
+* [Summary: Consensus Mechanisms](consensus/summary-consensus-mechanisms/README.md)
+  * [Proof of Work vs Proof of Stake](consensus/summary-consensus-mechanisms/proof-of-work-vs-proof-of-stake.md)
+  * [Proof of Stake vs Delegated Proof of Stake](consensus/summary-consensus-mechanisms/proof-of-stake-vs-delegated-proof-of-stake.md)
 
 ## Blockchain in Business
 
@@ -43,6 +54,7 @@
 ## Blockchain Security Attacks
 
 * [Blockchain Attacks](blockchain-security-attacks/blockchain-attacks.md)
+* [Attack Vectors Based on Consensus Mechanism](blockchain-security-attacks/attack-vectors-based-on-consensus-mechanism.md)
 
 ## Troubleshooting Blockchain
 

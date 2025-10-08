@@ -36,7 +36,7 @@ icon: link-horizontal-slash
 * personal information → lives in a database
 * hash of personal information → stored on-chain permanently&#x20;
 
-<figure><img src=".gitbook/assets/on-chain_off-chain_hybrid-mashup.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/on-chain_off-chain_hybrid-mashup.svg" alt=""><figcaption></figcaption></figure>
 
 
 
