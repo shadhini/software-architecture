@@ -26,9 +26,13 @@
 * [Proof of Stake](consensus/proof-of-stake.md)
 * [Delegated Proof of Stake](consensus/delegated-proof-of-stake.md)
 * [Proof of Authority](consensus/proof-of-authority.md)
-* [Summary: Consensus Mechanisms](consensus/summary-consensus-mechanisms/README.md)
-  * [Proof of Work vs Proof of Stake](consensus/summary-consensus-mechanisms/proof-of-work-vs-proof-of-stake.md)
-  * [Proof of Stake vs Delegated Proof of Stake](consensus/summary-consensus-mechanisms/proof-of-stake-vs-delegated-proof-of-stake.md)
+* [Proof of Space](consensus/proof-of-space.md)
+* [Proof of Importance](consensus/proof-of-importance.md)
+* [Proof of History](consensus/proof-of-history.md)
+* [Proof of Elapsed Time](consensus/proof-of-elapsed-time.md)
+* [Participant Consensus](consensus/participant-consensus.md)
+* [Practical Byzantine Fault Tolerance](consensus/practical-byzantine-fault-tolerance.md)
+* [Summary: Consensus Mechanisms](consensus/summary-consensus-mechanisms.md)
 
 ## Blockchain in Business
 

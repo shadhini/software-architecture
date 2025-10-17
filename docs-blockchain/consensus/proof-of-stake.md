@@ -56,10 +56,3 @@ Has the **validator achieved > 51% agreement**?
 
 
 
-## Benefits of Proof of Stake compared to Proof of Work
-
-* no specialized hardware needed
-* energy-hungry consensus activity removed
-* offers significant performance gains
-  * PoS networks often increase performance by 10X - 100X !
-
