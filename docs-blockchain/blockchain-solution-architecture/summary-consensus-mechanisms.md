@@ -53,7 +53,7 @@ Byzantine Generals Problem — **consensus in a trustless environment**
 
 
 
-## Consensus Mechanisms Attack Vectors, Vulnerabilities & Concerns
+## Consensus Mechanisms Concerns & Benefits
 
 {% hint style="danger" %}
 #### Security Concerns (Potential Risks and Attack Vectors) around different Consensus Mechanisms are different.

@@ -53,3 +53,11 @@ You can build **permissioned solutions on permissionless blockchains**.
 
 
 
+## Blockless Platforms
+
+{% content-ref url="blockless-platforms.md" %}
+[blockless-platforms.md](blockless-platforms.md)
+{% endcontent-ref %}
+
+
+

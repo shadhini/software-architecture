@@ -13,10 +13,11 @@
   * [Layer 1 Blockchain Platforms](blockchain-architecture/types-of-blockchains/layer-1-blockchain-platforms.md)
   * [Layer 2 Blockchain Platforms](blockchain-architecture/types-of-blockchains/layer-2-blockchain-platforms.md)
   * [Layer 3 Blockchain Platforms](blockchain-architecture/types-of-blockchains/layer-3-blockchain-platforms.md)
+  * [Blockless Platforms](blockchain-architecture/types-of-blockchains/blockless-platforms.md)
 * [Layers in Blockchain](blockchain-architecture/layers-in-blockchain.md)
 * [Layers of Blockchain Application](blockchain-architecture/layers-of-blockchain-application.md)
 * [On-Chain Data vs Off-Chain Data](blockchain-architecture/on-chain-data-vs-off-chain-data.md)
-* [✅ Blockchain Architecture](blockchain-architecture/blockchain-architecture.md)
+* [Web 2.5](blockchain-architecture/web-2.5.md)
 
 ## Consensus
 
@@ -32,7 +33,6 @@
 * [Proof of Elapsed Time](consensus/proof-of-elapsed-time.md)
 * [Participant Consensus](consensus/participant-consensus.md)
 * [Practical Byzantine Fault Tolerance](consensus/practical-byzantine-fault-tolerance.md)
-* [Summary: Consensus Mechanisms](consensus/summary-consensus-mechanisms.md)
 
 ## Blockchain in Business
 
@@ -48,6 +48,13 @@
 * [Blockchain Benefits](blockchain-in-business/blockchain-benefits.md)
 * [Evolution of Blockchain](blockchain-in-business/evolution-of-blockchain.md)
 
+## Blockchain Solution Architecture
+
+* [Blockchain Trilemma](blockchain-solution-architecture/blockchain-trilemma/README.md)
+  * [How to address Blockchain Trilemma ?](blockchain-solution-architecture/blockchain-trilemma/how-to-address-blockchain-trilemma.md)
+* [✅ Blockchain Architecture](blockchain-solution-architecture/blockchain-architecture.md)
+* [Summary: Consensus Mechanisms](blockchain-solution-architecture/summary-consensus-mechanisms.md)
+
 ## Blockchain Development
 
 * [Blockchain Development](blockchain-development/blockchain-development.md)
@@ -55,10 +62,10 @@
 * [Development Languages](blockchain-development/development-languages.md)
 * [Toolsets](blockchain-development/toolsets.md)
 
-## Blockchain Security Attacks
+## Blockchain Security
 
-* [Blockchain Attacks](blockchain-security-attacks/blockchain-attacks.md)
-* [Attack Vectors Based on Consensus Mechanism](blockchain-security-attacks/attack-vectors-based-on-consensus-mechanism.md)
+* [Blockchain Attacks](blockchain-security/blockchain-attacks.md)
+* [Attack Vectors Based on Consensus Mechanism](blockchain-security/attack-vectors-based-on-consensus-mechanism.md)
 
 ## Troubleshooting Blockchain
 
