@@ -64,6 +64,7 @@
 
 ## Blockchain Security
 
+* [Blockchain Security Benefits](blockchain-security/blockchain-security-benefits.md)
 * [Blockchain Attacks](blockchain-security/blockchain-attacks.md)
 * [Attack Vectors Based on Consensus Mechanism](blockchain-security/attack-vectors-based-on-consensus-mechanism.md)
 
