@@ -60,5 +60,7 @@ metaphor: sheet of paper
 
 
 
+* Blocks are linked together in a linear sequence, each containing a hash of the previoud block.
+
 &#x20;
 

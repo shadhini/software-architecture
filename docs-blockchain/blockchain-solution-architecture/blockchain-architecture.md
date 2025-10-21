@@ -100,3 +100,4 @@ The adoption of blockchain technology in many sectors required a careful balance
 
 
 
+✅ Governances requires vigilance

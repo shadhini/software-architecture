@@ -52,8 +52,10 @@
 
 * [Blockchain Trilemma](blockchain-solution-architecture/blockchain-trilemma/README.md)
   * [How to address Blockchain Trilemma ?](blockchain-solution-architecture/blockchain-trilemma/how-to-address-blockchain-trilemma.md)
+* [Blockchain Rope](blockchain-solution-architecture/blockchain-rope.md)
 * [✅ Blockchain Architecture](blockchain-solution-architecture/blockchain-architecture.md)
 * [Summary: Consensus Mechanisms](blockchain-solution-architecture/summary-consensus-mechanisms.md)
+* [Security Concerns](blockchain-solution-architecture/security-concerns.md)
 
 ## Blockchain Development
 
@@ -61,12 +63,25 @@
 * [Blockchain Platforms](blockchain-development/blockchain-platforms.md)
 * [Development Languages](blockchain-development/development-languages.md)
 * [Toolsets](blockchain-development/toolsets.md)
+* [Development Recommendations](blockchain-development/development-recommendations.md)
 
 ## Blockchain Security
 
 * [Blockchain Security Benefits](blockchain-security/blockchain-security-benefits.md)
-* [Blockchain Attacks](blockchain-security/blockchain-attacks.md)
+* [Blockchain Security Concerns](blockchain-security/blockchain-security-concerns/README.md)
+  * [Blockchain Attacks](blockchain-security/blockchain-security-concerns/blockchain-attacks.md)
+  * [Protocol Level Vulnerabilities](blockchain-security/blockchain-security-concerns/protocol-level-vulnerabilities.md)
+  * [Network Level Vulnerabilities](blockchain-security/blockchain-security-concerns/network-level-vulnerabilities.md)
+  * [Proof of Stake Attacks](blockchain-security/blockchain-security-concerns/proof-of-stake-attacks.md)
+  * [Smart Contract Vulnerabilities](blockchain-security/blockchain-security-concerns/smart-contract-vulnerabilities.md)
+  * [Decentralization Security Risks](blockchain-security/blockchain-security-concerns/decentralization-security-risks.md)
+  * [Privacy Violations & Regulatory Challenges](blockchain-security/blockchain-security-concerns/privacy-violations-and-regulatory-challenges.md)
+  * [Scalability Issues & Security](blockchain-security/blockchain-security-concerns/scalability-issues-and-security.md)
+  * [Solution Governance](blockchain-security/blockchain-security-concerns/solution-governance.md)
+  * [Key Management](blockchain-security/blockchain-security-concerns/key-management.md)
+  * [Quantum Computing](blockchain-security/blockchain-security-concerns/quantum-computing.md)
 * [Attack Vectors Based on Consensus Mechanism](blockchain-security/attack-vectors-based-on-consensus-mechanism.md)
+* [Mitigating Blockchain Security Concerns](blockchain-security/mitigating-blockchain-security-concerns.md)
 
 ## Troubleshooting Blockchain
 
