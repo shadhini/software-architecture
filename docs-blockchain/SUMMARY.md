@@ -94,3 +94,9 @@
 * [Interesting Demonstrations of Blockchain](supporting-resources/interesting-demonstrations-of-blockchain.md)
 * [Development Resources, Knowledgebases, and Head-Starts](supporting-resources/development-resources-knowledgebases-and-head-starts.md)
 * [Blockchain Explorers](supporting-resources/blockchain-explorers.md)
+
+## Ethereum
+
+* [Ethereum](ethereum/ethereum.md)
+* [How to use Ethereum Network](ethereum/how-to-use-ethereum-network.md)
+* [Ethereum extensions - Layer 2](ethereum/ethereum-extensions-layer-2.md)
