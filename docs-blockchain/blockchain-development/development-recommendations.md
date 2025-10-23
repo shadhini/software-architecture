@@ -28,3 +28,7 @@ icon: comment-check
 
 
 
+✅ Have a plan in place before you go live on how you're going to handle things if it turns out your solution is in much greater demand than you originally anticipate — lesson from `GovernMental` attack
+
+
+

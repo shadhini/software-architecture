@@ -47,7 +47,7 @@ Blockchain technology is not appropriate, when
 
 ❌ Working with **highly confidential data**, security is a **top concern**  (for the moment — due to short production lifespan of blockchain technology )
 
-
+❌ requires exact timing, perfect coordination or exact synchronization
 
 
 

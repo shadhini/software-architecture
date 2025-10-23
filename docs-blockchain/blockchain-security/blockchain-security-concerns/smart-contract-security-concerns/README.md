@@ -2,11 +2,11 @@
 icon: file-lock
 ---
 
-# Smart Contract Vulnerabilities
+# Smart Contract Security Concerns
 
 ## Smart Contract Vulnerabilities
 
-* Smart Contracts can potentially "**break out**" of their execution environment and **gain access to the host**
+* Smart Contract code is **sandboxed** — Smart Contracts can potentially "**break out**" of their execution environment and **gain access to the host**
   * smart contracts have being designed to run in a sandbox environment in the node it is hosted&#x20;
   * in theory it's impossible to break out of this sandbox environment and do any damage outside of it
   * often times, there's significant difference between theory and reality&#x20;
@@ -20,6 +20,53 @@ icon: file-lock
   * **risk** of **getting something wrong** is greater
 * Smart Contracts are **new**
   * **Best practices**, design patterns, and anti-patterns to avoid are **still** **being** **formulated**
+  * new **attack vectors** are **still being discovered**
+
+
+
+## Smart Contract Attack Vectors
+
+#### Reentrancy Attack
+
+{% content-ref url="reentrancy-attack.md" %}
+[reentrancy-attack.md](reentrancy-attack.md)
+{% endcontent-ref %}
+
+#### Front Running
+
+{% content-ref url="front-running.md" %}
+[front-running.md](front-running.md)
+{% endcontent-ref %}
+
+#### Integer Overflow / Underflow
+
+{% content-ref url="integer-overflow-underflow.md" %}
+[integer-overflow-underflow.md](integer-overflow-underflow.md)
+{% endcontent-ref %}
+
+#### Logic Errors
+
+{% content-ref url="logic-errors.md" %}
+[logic-errors.md](logic-errors.md)
+{% endcontent-ref %}
+
+#### Block Gas Limit&#x20;
+
+{% content-ref url="block-gas-limit.md" %}
+[block-gas-limit.md](block-gas-limit.md)
+{% endcontent-ref %}
+
+#### Problem of Default Visibility
+
+{% content-ref url="default-visibility.md" %}
+[default-visibility.md](default-visibility.md)
+{% endcontent-ref %}
+
+#### Timestamp Manipulation
+
+{% content-ref url="timestamp-manipulation.md" %}
+[timestamp-manipulation.md](timestamp-manipulation.md)
+{% endcontent-ref %}
 
 
 

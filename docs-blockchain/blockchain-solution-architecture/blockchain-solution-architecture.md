@@ -1,6 +1,6 @@
-# ✅ Blockchain Architecture
+# ✅ Blockchain Solution Architecture
 
-## Summary: Blockchain Architecture
+## Blockchain Architecture
 
 blockchain — chain of blocks
 
@@ -34,7 +34,7 @@ smart contracts — automated condition-based transactions
 {% hint style="warning" %}
 benefits of blockchain; data integrity, security, fault tolerance, failover, redundancy
 
-**come at the expesne of speed, performance, and efficiency**
+**come at the expense of speed, performance, and efficiency**
 {% endhint %}
 
 
@@ -49,7 +49,11 @@ benefits of blockchain; data integrity, security, fault tolerance, failover, red
 
 
 
+## Designing Blockchain Systems
+
+{% hint style="success" %}
 **Blockchain’s value isn’t in the data it stores—it’s in the trust it builds.**
+{% endhint %}
 
 centralized databases — efficient, data that needs constant updates&#x20;
 
@@ -61,6 +65,16 @@ blockchain — trust, transparency, when multiple parties need a shared, immutab
 * when shared trust is critical — finance, healthcare, supply chain
 
 
+
+✅ Governances requires vigilance
+
+{% content-ref url="../consensus/summary-consensus-mechanisms.md" %}
+[summary-consensus-mechanisms.md](../consensus/summary-consensus-mechanisms.md)
+{% endcontent-ref %}
+
+
+
+## On-chain solutions, Off-chain Solutions & Hybrid Machups
 
 On-chain solutions — handle transparent, immutable transactions
 
@@ -92,12 +106,43 @@ The adoption of blockchain technology in many sectors required a careful balance
 
 
 
+## Blockchain Development
+
 {% hint style="success" %}
 ## Picking the right smart contract language and tools
 
 — the chain chooses the code, not the other way around —&#x20;
 {% endhint %}
 
+{% content-ref url="../blockchain-development/development-recommendations.md" %}
+[development-recommendations.md](../blockchain-development/development-recommendations.md)
+{% endcontent-ref %}
 
 
-✅ Governances requires vigilance
+
+
+
+## Security Concerns
+
+✅ Secure Networks — standard TCP/IP computer network&#x20;
+
+✅ Secure Blockchain Protocol
+
+✅ Secure Middle Layer
+
+✅ Secure Smart Contracts
+
+✅ secure other solution artifacts&#x20;
+
+* user interface
+
+✅ Secure Client / Client Environment
+
+
+
+{% content-ref url="../blockchain-security/mitigating-blockchain-security-risks.md" %}
+[mitigating-blockchain-security-risks.md](../blockchain-security/mitigating-blockchain-security-risks.md)
+{% endcontent-ref %}
+
+
+

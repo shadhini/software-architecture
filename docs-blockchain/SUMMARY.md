@@ -1,8 +1,22 @@
 # Table of contents
 
+## Blockchain in Business
+
+* [Global Marketplace & Blockchain Challenges](README.md)
+* [Blockchain: Value Proposition](blockchain-in-business/blockchain-value-proposition.md)
+* [When to use Blockchain and avoid Blockchain?](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/README.md)
+  * [When to use Blockchain](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/README.md)
+    * [Blockchain as a Shared IT Infrastructure](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/blockchain-as-a-shared-it-infrastructure.md)
+    * [Blockchain to enhance Legacy Systems](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/blockchain-to-enhance-legacy-systems.md)
+    * [When to use Blockchain — Process of Elimination](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/when-to-use-blockchain-process-of-elimination.md)
+  * [When to avoid Blockchain](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-avoid-blockchain.md)
+* [Blockchain Use-cases](blockchain-in-business/blockchain-use-cases.md)
+* [Blockchain Benefits](blockchain-in-business/blockchain-benefits.md)
+* [Evolution of Blockchain](blockchain-in-business/evolution-of-blockchain.md)
+
 ## Blockchain Architecture
 
-* [Blockchain](README.md)
+* [Blockchain](<README (1).md>)
 * [Block & Chains](blockchain-architecture/block-and-chains.md)
 * [Hash](blockchain-architecture/hash.md)
 * [Public Key Cryptography & Wallets](blockchain-architecture/public-key-cryptography-and-wallets.md)
@@ -33,29 +47,14 @@
 * [Proof of Elapsed Time](consensus/proof-of-elapsed-time.md)
 * [Participant Consensus](consensus/participant-consensus.md)
 * [Practical Byzantine Fault Tolerance](consensus/practical-byzantine-fault-tolerance.md)
-
-## Blockchain in Business
-
-* [Global Marketplace & Blockchain Challenges](blockchain-in-business/global-marketplace-and-blockchain-challenges.md)
-* [Blockchain: Value Proposition](blockchain-in-business/blockchain-value-proposition.md)
-* [When to use Blockchain and avoid Blockchain?](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/README.md)
-  * [When to use Blockchain](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/README.md)
-    * [Blockchain as a Shared IT Infrastructure](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/blockchain-as-a-shared-it-infrastructure.md)
-    * [Blockchain to enhance Legacy Systems](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/blockchain-to-enhance-legacy-systems.md)
-    * [When to use Blockchain — Process of Elimination](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/when-to-use-blockchain-process-of-elimination.md)
-  * [When to avoid Blockchain](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-avoid-blockchain.md)
-* [Blockchain Use-cases](blockchain-in-business/blockchain-use-cases.md)
-* [Blockchain Benefits](blockchain-in-business/blockchain-benefits.md)
-* [Evolution of Blockchain](blockchain-in-business/evolution-of-blockchain.md)
+* [Summary: Consensus Mechanisms](consensus/summary-consensus-mechanisms.md)
 
 ## Blockchain Solution Architecture
 
 * [Blockchain Trilemma](blockchain-solution-architecture/blockchain-trilemma/README.md)
   * [How to address Blockchain Trilemma ?](blockchain-solution-architecture/blockchain-trilemma/how-to-address-blockchain-trilemma.md)
 * [Blockchain Rope](blockchain-solution-architecture/blockchain-rope.md)
-* [✅ Blockchain Architecture](blockchain-solution-architecture/blockchain-architecture.md)
-* [Summary: Consensus Mechanisms](blockchain-solution-architecture/summary-consensus-mechanisms.md)
-* [Security Concerns](blockchain-solution-architecture/security-concerns.md)
+* [✅ Blockchain Solution Architecture](blockchain-solution-architecture/blockchain-solution-architecture.md)
 
 ## Blockchain Development
 
@@ -64,16 +63,24 @@
 * [Development Languages](blockchain-development/development-languages.md)
 * [Toolsets](blockchain-development/toolsets.md)
 * [Development Recommendations](blockchain-development/development-recommendations.md)
+* [✅ \[Best Practices\] Smart Contract Development](blockchain-development/best-practices-smart-contract-development.md)
 
 ## Blockchain Security
 
 * [Blockchain Security Benefits](blockchain-security/blockchain-security-benefits.md)
 * [Blockchain Security Concerns](blockchain-security/blockchain-security-concerns/README.md)
+  * [Smart Contract Security Concerns](blockchain-security/blockchain-security-concerns/smart-contract-security-concerns/README.md)
+    * [Reentrancy Attack](blockchain-security/blockchain-security-concerns/smart-contract-security-concerns/reentrancy-attack.md)
+    * [Front Running](blockchain-security/blockchain-security-concerns/smart-contract-security-concerns/front-running.md)
+    * [Integer Overflow / Underflow](blockchain-security/blockchain-security-concerns/smart-contract-security-concerns/integer-overflow-underflow.md)
+    * [Logic Errors](blockchain-security/blockchain-security-concerns/smart-contract-security-concerns/logic-errors.md)
+    * [Block Gas Limit](blockchain-security/blockchain-security-concerns/smart-contract-security-concerns/block-gas-limit.md)
+    * [Default Visibility](blockchain-security/blockchain-security-concerns/smart-contract-security-concerns/default-visibility.md)
+    * [Timestamp Manipulation](blockchain-security/blockchain-security-concerns/smart-contract-security-concerns/timestamp-manipulation.md)
   * [Blockchain Attacks](blockchain-security/blockchain-security-concerns/blockchain-attacks.md)
   * [Protocol Level Vulnerabilities](blockchain-security/blockchain-security-concerns/protocol-level-vulnerabilities.md)
   * [Network Level Vulnerabilities](blockchain-security/blockchain-security-concerns/network-level-vulnerabilities.md)
   * [Proof of Stake Attacks](blockchain-security/blockchain-security-concerns/proof-of-stake-attacks.md)
-  * [Smart Contract Vulnerabilities](blockchain-security/blockchain-security-concerns/smart-contract-vulnerabilities.md)
   * [Decentralization Security Risks](blockchain-security/blockchain-security-concerns/decentralization-security-risks.md)
   * [Privacy Violations & Regulatory Challenges](blockchain-security/blockchain-security-concerns/privacy-violations-and-regulatory-challenges.md)
   * [Scalability Issues & Security](blockchain-security/blockchain-security-concerns/scalability-issues-and-security.md)
@@ -81,7 +88,7 @@
   * [Key Management](blockchain-security/blockchain-security-concerns/key-management.md)
   * [Quantum Computing](blockchain-security/blockchain-security-concerns/quantum-computing.md)
 * [Attack Vectors Based on Consensus Mechanism](blockchain-security/attack-vectors-based-on-consensus-mechanism.md)
-* [Mitigating Blockchain Security Concerns](blockchain-security/mitigating-blockchain-security-concerns.md)
+* [Mitigating Blockchain Security Risks](blockchain-security/mitigating-blockchain-security-risks.md)
 
 ## Troubleshooting Blockchain
 
