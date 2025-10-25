@@ -1,16 +1,10 @@
 ---
-icon: globe-wifi
+icon: line-columns
 ---
 
-# Network Level Vulnerabilities
+# Eclipse Attack
 
-## Network Level Vulnerabilities
-
-* Network communications and pathways can be manipulated to facilitate an attack
-
-
-
-### Eclipse Attack
+## Eclipse Attack
 
 > Eclipse the network into 2 different components
 
@@ -35,6 +29,3 @@ attack version 2
 * end the network attack
   * when the ledger rejoins, the 60% version will be the "correct" one
   * the spend will be removed from the ledger&#x20;
-
-
-

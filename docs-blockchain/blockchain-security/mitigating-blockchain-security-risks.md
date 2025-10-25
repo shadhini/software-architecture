@@ -172,6 +172,15 @@ Avoid Timestamp Manipulation
 
 
 
+### Protocol Level
+
+* Make sure you understand the strengths and **weaknesses/vulnerabilities** **of a platform** before building on it&#x20;
+* Consider creating a **private test network** instance that you can use to **test upgrades, patches, and new versions** before applying them to production or `Mainnet` nodes
+
+
+
+
+
 
 
 

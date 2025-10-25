@@ -27,18 +27,33 @@ icon: triangle-exclamation
 
 
 
+* every blockchain solution running smart contracts is running on top of a **blockchain protocol**; a **network protocol** being run on the network
+* and that protocol is running on a standard **TCP/IP computer network**&#x20;
+* this means that there may be vulnerabilities that exist below your **smart contract**;&#x20;
+  * either the **protocol layer** or **network layer** as well
+
+
+
+#### Smart Contract Security Vulnerabilities & Attack Vectors
+
+{% content-ref url="smart-contract-security-concerns/" %}
+[smart-contract-security-concerns](smart-contract-security-concerns/)
+{% endcontent-ref %}
+
+
+
 #### Protocol Level Vulnerabilities
 
-{% content-ref url="protocol-level-vulnerabilities.md" %}
-[protocol-level-vulnerabilities.md](protocol-level-vulnerabilities.md)
+{% content-ref url="protocol-level-security-concerns/" %}
+[protocol-level-security-concerns](protocol-level-security-concerns/)
 {% endcontent-ref %}
 
 
 
 #### Network Level Vulnerabilities
 
-{% content-ref url="network-level-vulnerabilities.md" %}
-[network-level-vulnerabilities.md](network-level-vulnerabilities.md)
+{% content-ref url="network-level-security-concerns/" %}
+[network-level-security-concerns](network-level-security-concerns/)
 {% endcontent-ref %}
 
 
