@@ -1,4 +1,4 @@
-# ✅ Blockchain Solution Architecture
+# 🌹 Blockchain Solution Architecture
 
 ## Blockchain Architecture
 
@@ -26,6 +26,8 @@ layers function together
 * protocol layer
 
 public/private key architecture
+
+* private keys — ensures transaction integrity
 
 smart contracts — automated condition-based transactions
 
@@ -71,6 +73,8 @@ blockchain — trust, transparency, when multiple parties need a shared, immutab
 {% content-ref url="../consensus/summary-consensus-mechanisms.md" %}
 [summary-consensus-mechanisms.md](../consensus/summary-consensus-mechanisms.md)
 {% endcontent-ref %}
+
+
 
 
 
@@ -124,13 +128,71 @@ The adoption of blockchain technology in many sectors required a careful balance
 
 ## Security Concerns
 
-✅ Secure Networks — standard TCP/IP computer network&#x20;
+{% hint style="success" %}
+#### Security Goals: Integrity, Availability, Anonymity
+
+**Prioritize integrity, availability, or anonymity?**
+
+Cannot have it all&#x20;
+{% endhint %}
+
+✅ Secure Networks — standard TCP/IP computer network &#x20;
+
+* DDoS — Transaction Flooding
+  * squeeze out some legitimate transactions
+  * drive up the gas price
+  * manipulate the block difficulty on `PoW` networks&#x20;
+  * DDoS on Next Block Validator
+  * DDoS against Centralized Components — Permissioned Blockchains
+    * MSP in Hyperledger
+* Eclipse Attacks — isolate node/group of nodes
+  * manipulating difficulty levels
+  * 51% attacks
+  * double-spend with less than 51% control on a `PoW` network
+* Replay Attacks — resubmit signed transactions
+* Sybil Attacks — fake nodes
 
 ✅ Secure Blockchain Protocol
+
+* PoW
+  * 51% attack&#x20;
+    * double spends
+  * selfish mining — withholds newly found blocks
+    * used in conjunction with 51% attack — double spends
+  * physical attacks — power cuts
+    * 51% attacks — double spends
+* PoS
+  * XX% attack — depends on PoS network configurations
+    * double-spends&#x20;
+    * `[theory]` protected against by the theory of supply and demand
+  * long-range attack — stake bleeding; do nothing on main chain; do not validate blocks when selected
+    * double spend — by mining longer divergent chain
+  * PoS time-bomb — rich gets richer; higher stake — higher reward
+    * higher control over time
+    * limiting maximum block reward — easily circumvented
+    * slows down the network
+  * consensus centralization
+  * PoS block forger attacks&#x20;
+    * long-range attack
+    * block timestamp manipulation
 
 ✅ Secure Middle Layer
 
 ✅ Secure Smart Contracts
+
+* attacker breaking out of sandboxed environment of smart contract and attacking the host
+* smart contract permanence — attackers gain extra information for potential attacks
+* reentrancy — re enter functions before first execution completes and drain funds
+* front running — submits transactions with a higher priority (fee) while stealing other's answers&#x20;
+* integer overflow / underflow — Unsigned integer/numeric variables&#x20;
+  * overflow to zero&#x20;
+  * underflow to their maximum value
+* logic errors
+* block gas limit problem — limit on the maximum amount of gas a block allowed to consume
+  * larger arrays,  excessive looping&#x20;
+  * supports DDoS attacks
+* default visibility — smart contract functions are public by default
+* timestamp manipulation — deliberately tampers with the timestamps of blocks
 
 ✅ secure other solution artifacts&#x20;
 
@@ -139,6 +201,32 @@ The adoption of blockchain technology in many sectors required a careful balance
 ✅ Secure Client / Client Environment
 
 
+
+❗ Private Key Management&#x20;
+
+* non-negotiable
+
+❗ Decentralization Security risks
+
+❗ Privacy violation & Regulatory challenges
+
+❗ Scalability issues & Security
+
+❗ Solution Governance
+
+❗ Quantum Computing
+
+
+
+{% hint style="success" %}
+A blockchain system should be **harden against every known attack vector**.
+{% endhint %}
+
+{% hint style="success" %}
+#### In blockchain, **trust isn’t given—it’s earned**.&#x20;
+
+And every layer has to pull its weight.
+{% endhint %}
 
 {% content-ref url="../blockchain-security/mitigating-blockchain-security-risks.md" %}
 [mitigating-blockchain-security-risks.md](../blockchain-security/mitigating-blockchain-security-risks.md)

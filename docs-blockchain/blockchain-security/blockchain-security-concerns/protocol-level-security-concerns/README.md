@@ -32,11 +32,3 @@ icon: nfc-lock
 
 
 
-#### Permissioned Blockchains — Protocol Security Concerns
-
-{% content-ref url="protocol-concerns-permissioned-blockchains/" %}
-[protocol-concerns-permissioned-blockchains](protocol-concerns-permissioned-blockchains/)
-{% endcontent-ref %}
-
-
-

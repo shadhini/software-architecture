@@ -49,6 +49,8 @@ icon: shield-check
 * Keep your nodes up to date!
   * Be sure to stay current on platform updates and new versions
   * Ensure node update procedures are included in your governance model and it's well documented and every participant is informed about it, agrees and executes it
+* Automated security analyzers — to identify and flag potential security vulnerabilities
+  * e.g: for `Ethereum` smart contracts
 
 
 
@@ -62,6 +64,7 @@ To avoid
   * by doing so, you can ensure that all the code you are invoking has gone through your QA standards/ review standards/ test & documentation standards/ etc..&#x20;
 * Use a `reentrancy guard`&#x20;
   * use a simple Boolean variable to set a value when a critical code is being executed and then to release or flip that bit/flag when critical code execution is done — if someone tries to re-enter or invoke this method a second time, they would see that default Boolean value showing that critical code execution is taking place&#x20;
+* Use the **`Checks-Effects-Interactions`** pattern
 
 {% hint style="success" %}
 #### Reentrancy Guard
@@ -177,6 +180,28 @@ Avoid Timestamp Manipulation
 * Make sure you understand the strengths and **weaknesses/vulnerabilities** **of a platform** before building on it&#x20;
 * Consider creating a **private test network** instance that you can use to **test upgrades, patches, and new versions** before applying them to production or `Mainnet` nodes
 
+#### PoS Time-bomb
+
+* **limit the maximum block reward** that's payable&#x20;
+  * can be **easily** [**circumvented**](#user-content-fn-1)[^1] by just setting up multiple nodes or wallets or accounts&#x20;
+
+
+
+### Network Level&#x20;
+
+* consider **bringing** **network security expertise** to your project team — to analyze attack vectors when running blockchain on TCP/IP networks&#x20;
+
+#### Eclipse Attacks
+
+* make sure your **nodes** are **secure** and **malware/virus free**
+* can run **anti-virus**, **anti-malware** protection algorithms
+
+
+
+#### Replay Attacks
+
+* Replay attacks can be mitigated at the **protocol level** by **forcing** the **inclusion of unique** transaction **data**&#x20;
+  * this piece of unique data is often called the **`"block nonce"`** — this is NOT the same as the nonce miners compete to find during validation
 
 
 
@@ -185,3 +210,9 @@ Avoid Timestamp Manipulation
 
 
 
+
+
+
+
+
+[^1]: find a way around an obstacle/problem — often by using cleverness or deceit

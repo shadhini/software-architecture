@@ -6,6 +6,10 @@ icon: pickaxe
 
 ## Selfish Mining
 
+{% hint style="info" %}
+Primarily affects the **consensus mechanism**.
+{% endhint %}
+
 > A consensus-layer strategy where a miner/pool **withholds newly found blocks**,&#x20;
 >
 > builds a private fork, and selectively publishes it to gain a disproportionate share of rewards.
@@ -13,8 +17,6 @@ icon: pickaxe
 >
 >
 > selfish mining is often **used in conjunction with 51% attack** to attack a blockchain network&#x20;
-
-
 
 
 

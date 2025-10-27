@@ -35,6 +35,10 @@ designed to allow a network of equally privileged peers to come to agreement on 
 Even the slight change to block data or nonce will change the hash and will break the hash relationship.
 {% endhint %}
 
+{% hint style="success" %}
+In terms of security, PoW consensus **ensures data integrity**.
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/pow_block.svg" alt="" width="375"><figcaption></figcaption></figure>
 
 ### How it Works

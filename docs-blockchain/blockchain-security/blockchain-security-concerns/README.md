@@ -6,6 +6,17 @@ icon: triangle-exclamation
 
 ## Blockchain Security Concerns
 
+***
+
+* every blockchain solution running smart contracts is running on top of a **blockchain protocol**; a **network protocol** being run on the network
+* and that protocol is running on a standard **TCP/IP computer network**&#x20;
+* this means that there may be vulnerabilities that exist below your **smart contract**;&#x20;
+  * either the **protocol layer** or **network layer** as well
+
+***
+
+
+
 ✅ application running on Secure Networks
 
 * blockchain protocol is running on a standard TCP/IP computer network&#x20;
@@ -15,6 +26,10 @@ icon: triangle-exclamation
 ✅ Secure Middle Layer
 
 ✅ Secure Smart Contracts
+
+✅ Private Key Management
+
+* non-negotiable
 
 ✅ other solution artifacts secure
 
@@ -27,10 +42,17 @@ icon: triangle-exclamation
 
 
 
-* every blockchain solution running smart contracts is running on top of a **blockchain protocol**; a **network protocol** being run on the network
-* and that protocol is running on a standard **TCP/IP computer network**&#x20;
-* this means that there may be vulnerabilities that exist below your **smart contract**;&#x20;
-  * either the **protocol layer** or **network layer** as well
+❗ Private Key Management&#x20;
+
+❗ Decentralization Security risks
+
+❗ Privacy violation & Regulatory challenges
+
+❗ Scalability issues & Security
+
+❗ Solution Governance
+
+❗ Quantum Computing
 
 
 
@@ -57,6 +79,32 @@ icon: triangle-exclamation
 {% endcontent-ref %}
 
 
+
+#### Other Security Concerns
+
+{% content-ref url="key-management.md" %}
+[key-management.md](key-management.md)
+{% endcontent-ref %}
+
+{% content-ref url="decentralization-security-risks.md" %}
+[decentralization-security-risks.md](decentralization-security-risks.md)
+{% endcontent-ref %}
+
+{% content-ref url="privacy-violations-and-regulatory-challenges.md" %}
+[privacy-violations-and-regulatory-challenges.md](privacy-violations-and-regulatory-challenges.md)
+{% endcontent-ref %}
+
+{% content-ref url="scalability-issues-and-security.md" %}
+[scalability-issues-and-security.md](scalability-issues-and-security.md)
+{% endcontent-ref %}
+
+{% content-ref url="solution-governance.md" %}
+[solution-governance.md](solution-governance.md)
+{% endcontent-ref %}
+
+{% content-ref url="quantum-computing.md" %}
+[quantum-computing.md](quantum-computing.md)
+{% endcontent-ref %}
 
 
 

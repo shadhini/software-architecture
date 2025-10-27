@@ -30,12 +30,6 @@ icon: hands-holding-dollar
 [consensus-centralization.md](consensus-centralization.md)
 {% endcontent-ref %}
 
-#### Attack on Block Forger
-
-{% content-ref url="attack-on-block-forger.md" %}
-[attack-on-block-forger.md](attack-on-block-forger.md)
-{% endcontent-ref %}
-
 #### PoS Block Forger Attacks
 
 {% content-ref url="pos-block-forger-attacks.md" %}

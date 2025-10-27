@@ -15,6 +15,7 @@ icon: bomb
 * if this happens long enough, eventually that one single user is going to control most of the coins on the network — and then that use gains a disproportionate amount of control
 * some blockchains attempt to **limit the maximum block reward** that's payable in order to avoid this
   * however, this check can be **easily** [**circumvented**](#user-content-fn-1)[^1] by just setting up multiple nodes or wallets or accounts&#x20;
+* this can cause the network to **slow down** significantly&#x20;
 
 {% hint style="info" %}
 We don't really have a good answer to this Proof of Stake Time-bomb problem yet.
