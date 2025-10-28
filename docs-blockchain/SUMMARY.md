@@ -102,13 +102,20 @@
   * [Solution Governance](blockchain-security/blockchain-security-concerns/solution-governance.md)
   * [Quantum Computing](blockchain-security/blockchain-security-concerns/quantum-computing.md)
 * [Attack Vectors Based on Consensus Mechanism](blockchain-security/attack-vectors-based-on-consensus-mechanism.md)
-* [Mitigating Blockchain Security Risks](blockchain-security/mitigating-blockchain-security-risks.md)
+* [Mitigating Blockchain Security Risks](blockchain-security/mitigating-blockchain-security-risks/README.md)
+  * [Mitigating Security Risks in Smart Contracts](blockchain-security/mitigating-blockchain-security-risks/mitigating-security-risks-in-smart-contracts.md)
+  * [Mitigating Protocol Level Security Risks](blockchain-security/mitigating-blockchain-security-risks/mitigating-protocol-level-security-risks.md)
+  * [Mitigating Network Level Security Risks](blockchain-security/mitigating-blockchain-security-risks/mitigating-network-level-security-risks.md)
 
 ## Troubleshooting Blockchain
 
 * [Troubleshooting Blockchain](troubleshooting-blockchain/troubleshooting-blockchain.md)
 * [Troubleshooting: Things to Check](troubleshooting-blockchain/troubleshooting-things-to-check.md)
 * [Possible Issues & Solutions](troubleshooting-blockchain/possible-issues-and-solutions.md)
+
+## Regulatory Landscape
+
+* [Blockchain Regulations](regulatory-landscape/blockchain-regulations.md)
 
 ## Supporting Resources
 

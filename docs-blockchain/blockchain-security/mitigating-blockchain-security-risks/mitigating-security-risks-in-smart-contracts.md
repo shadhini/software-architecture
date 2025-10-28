@@ -1,46 +1,10 @@
 ---
-icon: shield-check
+icon: file-signature
 ---
 
-# Mitigating Blockchain Security Risks
+# Mitigating Security Risks in Smart Contracts
 
-## Mitigating Blockchain Security Concerns
-
-{% hint style="success" %}
-#### Trust the math, but never stop questioning the people.
-{% endhint %}
-
-{% hint style="success" %}
-#### **chain isn't breaking — it's evolving**
-{% endhint %}
-
-
-
-#### Sybil Attacks
-
-* `Consensus mechanisms` like proof of stake, ensures only trusted nodes participate
-
-
-
-#### 51% Attack
-
-* `sharding` and `sidechains` reduces the risk of concentrated power
-
-
-
-#### Double Spending
-
-* `Consensus` prevent double spending — each **transaction** is **validated** by the network
-
-
-
-#### Man-in-the-middle Attacks
-
-* `Encryption` safeguards communication
-
-
-
-### Smart Contracts
+## Mitigating Security Risks in Smart Contracts
 
 * Stay **up-to-date** on vulnerabilities and security best practices!
 * Motivate hacked could potential break out of the sandboxed environment of smart contract and attack the host
@@ -64,7 +28,7 @@ To avoid
   * by doing so, you can ensure that all the code you are invoking has gone through your QA standards/ review standards/ test & documentation standards/ etc..&#x20;
 * Use a `reentrancy guard`&#x20;
   * use a simple Boolean variable to set a value when a critical code is being executed and then to release or flip that bit/flag when critical code execution is done — if someone tries to re-enter or invoke this method a second time, they would see that default Boolean value showing that critical code execution is taking place&#x20;
-* Use the **`Checks-Effects-Interactions`** pattern
+* Use the <mark style="color:$success;">**Checks-Effects-Interactions**</mark> pattern
 
 {% hint style="success" %}
 #### Reentrancy Guard
@@ -90,7 +54,7 @@ To avoid front-running
   * limit the maximum amount a user can pay for a unit of gas in your solution
 * Consider **non-blockchain solution** components — centralized components
   * if you want to synchronize activities or have activities occur on a very exact or precise schedule &#x20;
-* Consider implementing a <mark style="color:$danger;">**Commit-Reveal scheme**</mark>
+* Consider implementing a <mark style="color:$success;">**Commit-Reveal scheme**</mark>
   * proof of an answer is first committed to the ledger and then the answer is revealed later by the user who submitted it&#x20;
   * first transaction from user is a hashed version of their answer — <mark style="color:$success;">**commit**</mark>
   * once first transaction is mined, user can send unencrypted data — <mark style="color:$success;">**reveal**</mark>
@@ -128,8 +92,8 @@ avoid overflows/underflows
 * good, comprehensive test cases
 * involve end users in testing and QA activities
 
-{% content-ref url="../blockchain-development/best-practices-smart-contract-development.md" %}
-[best-practices-smart-contract-development.md](../blockchain-development/best-practices-smart-contract-development.md)
+{% content-ref url="../../blockchain-development/best-practices-smart-contract-development.md" %}
+[best-practices-smart-contract-development.md](../../blockchain-development/best-practices-smart-contract-development.md)
 {% endcontent-ref %}
 
 
@@ -175,44 +139,3 @@ Avoid Timestamp Manipulation
 
 
 
-### Protocol Level
-
-* Make sure you understand the strengths and **weaknesses/vulnerabilities** **of a platform** before building on it&#x20;
-* Consider creating a **private test network** instance that you can use to **test upgrades, patches, and new versions** before applying them to production or `Mainnet` nodes
-
-#### PoS Time-bomb
-
-* **limit the maximum block reward** that's payable&#x20;
-  * can be **easily** [**circumvented**](#user-content-fn-1)[^1] by just setting up multiple nodes or wallets or accounts&#x20;
-
-
-
-### Network Level&#x20;
-
-* consider **bringing** **network security expertise** to your project team — to analyze attack vectors when running blockchain on TCP/IP networks&#x20;
-
-#### Eclipse Attacks
-
-* make sure your **nodes** are **secure** and **malware/virus free**
-* can run **anti-virus**, **anti-malware** protection algorithms
-
-
-
-#### Replay Attacks
-
-* Replay attacks can be mitigated at the **protocol level** by **forcing** the **inclusion of unique** transaction **data**&#x20;
-  * this piece of unique data is often called the **`"block nonce"`** — this is NOT the same as the nonce miners compete to find during validation
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^1]: find a way around an obstacle/problem — often by using cleverness or deceit

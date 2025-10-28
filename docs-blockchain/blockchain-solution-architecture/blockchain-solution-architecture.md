@@ -122,6 +122,10 @@ The adoption of blockchain technology in many sectors required a careful balance
 [development-recommendations.md](../blockchain-development/development-recommendations.md)
 {% endcontent-ref %}
 
+{% content-ref url="../blockchain-development/best-practices-smart-contract-development.md" %}
+[best-practices-smart-contract-development.md](../blockchain-development/best-practices-smart-contract-development.md)
+{% endcontent-ref %}
+
 
 
 
@@ -228,8 +232,8 @@ A blockchain system should be **harden against every known attack vector**.
 And every layer has to pull its weight.
 {% endhint %}
 
-{% content-ref url="../blockchain-security/mitigating-blockchain-security-risks.md" %}
-[mitigating-blockchain-security-risks.md](../blockchain-security/mitigating-blockchain-security-risks.md)
+{% content-ref url="../blockchain-security/mitigating-blockchain-security-risks/" %}
+[mitigating-blockchain-security-risks](../blockchain-security/mitigating-blockchain-security-risks/)
 {% endcontent-ref %}
 
 

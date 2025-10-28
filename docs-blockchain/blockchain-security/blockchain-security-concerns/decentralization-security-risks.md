@@ -17,5 +17,5 @@ icon: circle-nodes
     * things like backward compatibility may not be guaranteed on blockchain platforms
 * building on blockchain requires a **new way of thinking**
   * "Safe" activities on client-server networks can be catastrophic on peer-to-peer networks
-  * problems like **deterministic concurrency** and **phantom queries** can be very difficult for developers to avoid, because thee are patterns which present absolutely no problem when implemented in a client-server environment&#x20;
+  * problems like **deterministic concurrency** and **phantom queries** can be very difficult for developers to avoid, because these are patterns which present absolutely no problem when implemented in a client-server environment&#x20;
 
