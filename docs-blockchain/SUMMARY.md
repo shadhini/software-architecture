@@ -115,7 +115,20 @@
 
 ## Regulatory Landscape
 
-* [Blockchain Regulations](regulatory-landscape/blockchain-regulations.md)
+* [Blockchain Regulations](regulatory-landscape/blockchain-regulations/README.md)
+  * [Types of Blockchain Regulations & Impact](regulatory-landscape/blockchain-regulations/types-of-blockchain-regulations-and-impact.md)
+  * [Legal Issues](regulatory-landscape/blockchain-regulations/legal-issues.md)
+  * [Looking Forwad](regulatory-landscape/blockchain-regulations/looking-forwad.md)
+* [🇺🇸 Blockchain Regulations: United States](regulatory-landscape/blockchain-regulations-united-states.md)
+* [🇪🇺 Blockchain Regulations: European Union](regulatory-landscape/blockchain-regulations-european-union.md)
+* [🇦🇪 Blockchain Regulations: UAE](regulatory-landscape/blockchain-regulations-uae.md)
+* [🇨🇳 Blockchain Regulations: China](regulatory-landscape/blockchain-regulations-china.md)
+* [🇧🇾 Blockchain Regulations: Belarus](regulatory-landscape/blockchain-regulations-belarus.md)
+* [🇲🇹 Blockchain Regulations: Malta](regulatory-landscape/blockchain-regulations-malta.md)
+* [🇯🇵 Blockchain Regulations: Japan](regulatory-landscape/blockchain-regulations-japan.md)
+* [🇰🇷 Blockchain Regulations: South Korea](regulatory-landscape/blockchain-regulations-south-korea.md)
+* [🇸🇬 Blockchain Regulations: Singapore](regulatory-landscape/blockchain-regulations-singapore.md)
+* [🇮🇳 Blockchain Regulations: India](regulatory-landscape/blockchain-regulations-india.md)
 
 ## Supporting Resources
 

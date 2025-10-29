@@ -56,7 +56,10 @@ If the regulator has Alice's personal data, then it can recreate the hash and fi
 In a **Hybrid Mashup**...
 
 * **On-chain** solutions handle **transparent, immutable transactions**,&#x20;
+  * transaction hashes or proofs of existence
 * while **Off-chain** solutions deal with **scalable, private transactions**.
+  * sensitive information
+  * bulk/large data
 {% endhint %}
 
 1. **Database** as **primary**, Blockchain as secondary

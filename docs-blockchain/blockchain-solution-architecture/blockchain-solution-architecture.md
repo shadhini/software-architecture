@@ -78,7 +78,7 @@ blockchain — trust, transparency, when multiple parties need a shared, immutab
 
 
 
-## On-chain solutions, Off-chain Solutions & Hybrid Machups
+## On-chain solutions, Off-chain Solutions & Hybrid Mashups
 
 On-chain solutions — handle transparent, immutable transactions
 
@@ -90,6 +90,7 @@ Off-chain solutions — deal with scalable, private transactions
 
 1. Database —  primar&#x79;**,** Blockchain —  secondary
    * data on database; proofs or markers of that data such as cryptographic hashes on blockchain
+   * sensitive data on database; transaction hashes or proofs of existence on blockchain
 2.  Blockchain —  primary, database —  secondary
 
     * copy data from blockchain to a database for using existing tools for reporting, analysis, dashboarding

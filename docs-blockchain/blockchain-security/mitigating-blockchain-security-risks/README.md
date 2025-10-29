@@ -62,6 +62,7 @@ icon: shield-check
   * if you are not sure, you need to **consult experts in the field**
 * consider **hiring a legal professional** who specializes in this area — specially for addressing indirect regulations
 * **Watching** the **regulatory landscape unfold in other regions** may hep you understand what to expect in your area
+* required to consider the implications of **cross-border** activities
 
 #### Scalability Issues & Security
 

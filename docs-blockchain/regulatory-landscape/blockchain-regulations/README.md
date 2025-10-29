@@ -26,7 +26,11 @@ icon: building-columns
 [https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.pdf](https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.pdf)&#x20;
 {% endhint %}
 
+{% hint style="warning" %}
+#### Regulatory developments in one region can have global implications.
 
+as blockchain is inherently borderless
+{% endhint %}
 
 
 
@@ -46,6 +50,22 @@ icon: building-columns
   * consider **hiring a legal professional** who specializes in this area
 
 
+
+
+
+## Types of Blockchain Regulations & Impact
+
+{% content-ref url="types-of-blockchain-regulations-and-impact.md" %}
+[types-of-blockchain-regulations-and-impact.md](types-of-blockchain-regulations-and-impact.md)
+{% endcontent-ref %}
+
+
+
+## Legal Issues
+
+{% content-ref url="legal-issues.md" %}
+[legal-issues.md](legal-issues.md)
+{% endcontent-ref %}
 
 
 
