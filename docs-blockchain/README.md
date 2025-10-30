@@ -1,6 +1,6 @@
 ---
 description: Crisis of Global Marketplace & Blockchain Challenges
-icon: arrow-trend-up
+icon: money-bill-trend-up
 ---
 
 # Global Marketplace & Blockchain Challenges

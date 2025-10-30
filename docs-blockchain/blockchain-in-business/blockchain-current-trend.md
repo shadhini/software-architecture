@@ -1,0 +1,94 @@
+---
+icon: arrow-trend-up
+---
+
+# Blockchain Current Trend
+
+## Blockchain Current Trend
+
+### `DeFi`: Decentralized Finance
+
+> **`DeFi`**&#x20;
+>
+> — use of blockchain technology to create **decentralized financial applications** —&#x20;
+>
+> offering services without the need for traditional intermediaries like banks
+>
+> * lending
+> * borrowing
+> * trading&#x20;
+> * yield farming&#x20;
+
+DeFi sector&#x20;
+
+* has grown significantly
+* a multitude of new projects and protocols offering innovative financial services
+
+Challenges&#x20;
+
+* regulatory scrutiny &#x20;
+* security concerns
+
+Potential
+
+* potential for greater financial inclusion &#x20;
+* potential for a more open financial ecosystem&#x20;
+
+
+
+### `NFTs`: Non-Fungible Tokens
+
+> **`NFTs`**&#x20;
+>
+> — unique digital assets that **represent ownership** of a specific item or piece of content —&#x20;
+>
+> often used for&#x20;
+>
+> * digital art
+> * collectibles&#x20;
+> * virtual real estate
+
+NFTs popularity
+
+* popularity has surged, with artists, musicians, and even traditional brands exploring their utility&#x20;
+* NFTs offer creators a new way to monetize their work and engage with their audiences
+
+The market&#x20;
+
+* remarkable sales&#x20;
+* debates about sustainability and copyright issues
+
+
+
+### `CBDCs`: Central Bank Digital Currencies &#x20;
+
+> development of digital versions of Central banks' national currencies
+
+CBDCs could &#x20;
+
+* offer more efficient payment systems
+* enhance financial inclusion&#x20;
+
+Digital Currencies
+
+* provide central banks with better tools for monetary policy
+
+The concept
+
+* still in the experimental phase in many regions
+
+Challenges with transition to CBDCs&#x20;
+
+* addressing complex issues related to&#x20;
+  * privacy
+  * security&#x20;
+  * financial stability
+
+
+
+
+
+
+
+
+

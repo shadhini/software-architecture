@@ -63,8 +63,8 @@ as blockchain is inherently borderless
 
 ## Legal Issues
 
-{% content-ref url="legal-issues.md" %}
-[legal-issues.md](legal-issues.md)
+{% content-ref url="../legal-issues/" %}
+[legal-issues](../legal-issues/)
 {% endcontent-ref %}
 
 

@@ -76,22 +76,25 @@ blockchain — trust, transparency, when multiple parties need a shared, immutab
 
 
 
-
-
-## On-chain solutions, Off-chain Solutions & Hybrid Mashups
+### On-chain solutions, Off-chain Solutions & Hybrid Mashups
 
 On-chain solutions — handle transparent, immutable transactions
 
+* transaction hashes or proofs of existence
+
 Off-chain solutions — deal with scalable, private transactions
+
+* sensitive information
+* bulk/large data
 
 
 
 **on-chain, off-chain hybrid mashups**
 
-1. Database —  primar&#x79;**,** Blockchain —  secondary
+1. `Database —  primary` | `Blockchain —  secondary`
    * data on database; proofs or markers of that data such as cryptographic hashes on blockchain
    * sensitive data on database; transaction hashes or proofs of existence on blockchain
-2.  Blockchain —  primary, database —  secondary
+2.  `Blockchain —  primary` | `Database —  secondary`
 
     * copy data from blockchain to a database for using existing tools for reporting, analysis, dashboarding
     * no need to worry about keeping database copy of the ledger in sync — we have the implicit guarantee that the original source (blockchain) is never going to change&#x20;
@@ -108,6 +111,89 @@ The adoption of blockchain technology in many sectors required a careful balance
 
 ❗Finding the right balance is critical for successful blockchain integration.
 {% endhint %}
+
+
+
+### Data Privacy related Considerations
+
+📌 <mark style="color:$primary;">**Private and Public Blockchains**</mark>
+
+📌 <mark style="color:$primary;">**Encryption**</mark>
+
+📌 <mark style="color:$primary;">**Off-Chain Data**</mark>
+
+* sensitive information — stored off-chain
+* blockchain — record only transaction hashes or proofs of existence
+
+📌 <mark style="color:$primary;">**Zero-Knowledge Proofs**</mark>
+
+* enable one party to prove that they possess specific information without revealing the information itself
+
+📌 <mark style="color:$primary;">**Consent and Control**</mark>
+
+* interfaces to manage data sharing preferences
+
+📌 <mark style="color:$primary;">**Data Minimization**</mark>
+
+* collect and store only the data necessary for the intended purpose
+
+📌 <mark style="color:$primary;">**Regulatory Compliance**</mark>
+
+* `GDPR` in EU  &#x20;
+* `HIPAA` in US
+
+📌 <mark style="color:$primary;">**Immutable Records**</mark>
+
+* how to handle incorrect or outdated data
+
+📌 <mark style="color:$primary;">**Smart Contracts**</mark>
+
+* to automate data-sharing agreements &#x20;
+* to enforce privacy rules (who has access to what data under what conditions) on the blockchain
+
+
+
+### Legal Considerations
+
+{% hint style="warning" %}
+#### Designing a compliant cross-border system — understanding different nations priorities and planning for future changes
+
+* US — prioritizes innovation freedom
+* EU — focuses on user protection and data privacy
+* UAE's Central Bank — emphasizes financial stability
+{% endhint %}
+
+{% hint style="info" %}
+#### Don’t just react — But anticipate
+
+Consider all the legal issues upfront and design with flexibility for the unknown
+
+* Intellectual property and Patents
+* Data privacy
+* Custody rules
+* Regulations: GDPR, AML, KYC
+{% endhint %}
+
+* Smart Contract Enforceability
+* Cross-Border Legal Issues
+* Token Classification
+* Consumer Protection
+* Taxation
+* Fraud and Scams
+
+{% hint style="success" %}
+In blockchain, the only constant is uncertainty.&#x20;
+
+**Stay ahead of the rules, or get left behind.**
+{% endhint %}
+
+#### Good Practices
+
+✅ modular compliance layers
+
+✅ jurisdiction-specific adjustments
+
+✅ a self-regulatory code of conduct for DeFi operations
 
 
 

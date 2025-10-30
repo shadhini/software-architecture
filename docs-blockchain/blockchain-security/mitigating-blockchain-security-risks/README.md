@@ -60,7 +60,8 @@ icon: shield-check
 * **future-proof** your solutions&#x20;
   * solution would be complaint with future regulatory/legal requirements &#x20;
   * if you are not sure, you need to **consult experts in the field**
-* consider **hiring a legal professional** who specializes in this area — specially for addressing indirect regulations
+* consider **hiring a legal professional** who specializes in this area; regulatory & legal landscape&#x20;
+* hiring an **advisor** well-versed in **`IP`**: Intellectual Property and copyright **patent** law
 * **Watching** the **regulatory landscape unfold in other regions** may hep you understand what to expect in your area
 * required to consider the implications of **cross-border** activities
 

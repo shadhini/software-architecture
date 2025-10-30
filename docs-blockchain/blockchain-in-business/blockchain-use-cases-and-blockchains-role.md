@@ -3,9 +3,9 @@ description: When to use blockchains
 icon: clipboard-check
 ---
 
-# Blockchain Use-cases
+# Blockchain Use-cases & Blockchain's Role
 
-## Blockchain Use-cases
+## Blockchain Use-cases&#x20;
 
 blockchain enables
 
@@ -32,6 +32,10 @@ The adoption of blockchain technology in many sectors required a careful balance
 * triggering travel insurance payouts
 
 
+
+## Blockchain's Role
+
+<table><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top"><strong>Supply Chain Management</strong></td><td valign="top">----------</td><td valign="top">----------</td></tr><tr><td valign="top">record every transaction and movement of goods on an immutable ledger</td><td valign="top"><p>enhance </p><ul><li>transparency</li><li>traceability </li><li>efficiency </li></ul><p>prevent  </p><ul><li>fraud</li><li>counterfeiting </li><li>inefficiencies</li></ul></td><td valign="top"><p>offers consumers assurance about the origin and authenticity of products </p><p>→ make supply chains more trustworthy</p></td></tr><tr><td valign="top"><strong>Voting Systems</strong></td><td valign="top">----------</td><td valign="top">----------</td></tr><tr><td valign="top">tamper-proof, auditable records</td><td valign="top"><p>enhance  </p><ul><li>security</li><li>transparency</li></ul><p></p><ul><li>eliminate voter fraud  </li><li>provide real-time results</li></ul></td><td valign="top"><ul><li>potentially improve voter participation</li><li>streamline election processes</li><li>ensure the integrity of democratic systems</li></ul></td></tr><tr><td valign="top"><strong>Financial Inclusion</strong></td><td valign="top">----------</td><td valign="top">----------</td></tr><tr><td valign="top">decentralized finance (<code>DeFi</code>) applications and digital currencies</td><td valign="top"><ul><li>potential to provide financial services to the unbanked and underbanked populations globally</li><li>people can access banking services, loans, and savings options without traditional financial intermediaries</li></ul></td><td valign="top"><ul><li>significantly enhance financial inclusion</li><li>reduce the economic disparities experienced by marginalized communities</li></ul></td></tr></tbody></table>
 
 
 
