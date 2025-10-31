@@ -55,6 +55,7 @@
 * [Blockchain Trilemma](blockchain-solution-architecture/blockchain-trilemma/README.md)
   * [How to address Blockchain Trilemma ?](blockchain-solution-architecture/blockchain-trilemma/how-to-address-blockchain-trilemma.md)
 * [Blockchain Rope](blockchain-solution-architecture/blockchain-rope.md)
+* [Design Options & Considerations](blockchain-solution-architecture/design-options-and-considerations.md)
 * [🌹 Blockchain Solution Architecture](blockchain-solution-architecture/blockchain-solution-architecture.md)
 
 ## Blockchain Development
@@ -108,12 +109,6 @@
   * [Mitigating Protocol Level Security Risks](blockchain-security/mitigating-blockchain-security-risks/mitigating-protocol-level-security-risks.md)
   * [Mitigating Network Level Security Risks](blockchain-security/mitigating-blockchain-security-risks/mitigating-network-level-security-risks.md)
 
-## Troubleshooting Blockchain
-
-* [Troubleshooting Blockchain](troubleshooting-blockchain/troubleshooting-blockchain.md)
-* [Troubleshooting: Things to Check](troubleshooting-blockchain/troubleshooting-things-to-check.md)
-* [Possible Issues & Solutions](troubleshooting-blockchain/possible-issues-and-solutions.md)
-
 ## Regulatory Landscape
 
 * [Blockchain Regulations](regulatory-landscape/blockchain-regulations/README.md)
@@ -133,6 +128,18 @@
   * [AML/KYC Compliance](regulatory-landscape/legal-issues/aml-kyc-compliance.md)
   * [Digital Asset Custody](regulatory-landscape/legal-issues/digital-asset-custody.md)
 * [Looking Forward: Regulatory Landscape](regulatory-landscape/looking-forward-regulatory-landscape.md)
+
+## Risk Management
+
+* [Enterprise Risk](risk-management/enterprise-risk.md)
+* [Geopolitical Risk](risk-management/geopolitical-risk.md)
+* [Addressing Risks](risk-management/addressing-risks.md)
+
+## Troubleshooting Blockchain
+
+* [Troubleshooting Blockchain](troubleshooting-blockchain/troubleshooting-blockchain.md)
+* [Troubleshooting: Things to Check](troubleshooting-blockchain/troubleshooting-things-to-check.md)
+* [Possible Issues & Solutions](troubleshooting-blockchain/possible-issues-and-solutions.md)
 
 ## Supporting Resources
 
