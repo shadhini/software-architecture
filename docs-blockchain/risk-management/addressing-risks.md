@@ -6,7 +6,7 @@ icon: circle-exclamation-check
 
 ## Addressing Risks
 
-### Enterprise Risk
+### Enterprise/Market Risks
 
 ✅ thorough understanding of the technology
 
@@ -15,13 +15,13 @@ icon: circle-exclamation-check
 * 📌 good <mark style="color:$success;">**dispute resolution plan**</mark> in solution governance guide
 * economic model and incentives — must ensure participation and alignment of stakeholders' interests
 
-✅ engagement with stakeholders
+✅ active engagement with stakeholders, regulator, public
 
 ✅ continuous monitoring and adaptation as the technology evolves
 
 📌 <mark style="color:$success;">**comprehensive risk assessment**</mark>&#x20;
 
-
+✅  adapting strategies to address emerging challenges
 
 ### Geopolitical Risk
 
@@ -36,6 +36,19 @@ icon: circle-exclamation-check
 * vendors
 * providers&#x20;
 * geo political regions&#x20;
+
+### Reputational Risk
+
+✅ proactive communication
+
+* should clearly communicate the benefits, risks, and limitations of blockchain solutions to stakeholders
+* actively work to mitigate potential negative impacts
+
+✅ transparency
+
+✅  responsible practices
+
+✅ understanding of the broader social and ethical context
 
 
 

@@ -133,6 +133,9 @@
 
 * [Enterprise Risk](risk-management/enterprise-risk.md)
 * [Geopolitical Risk](risk-management/geopolitical-risk.md)
+* [Market Risk](risk-management/market-risk.md)
+* [Reputational Risk](risk-management/reputational-risk.md)
+* [Ethical Considerations](risk-management/ethical-considerations.md)
 * [Addressing Risks](risk-management/addressing-risks.md)
 
 ## Troubleshooting Blockchain

@@ -29,12 +29,15 @@ icon: list-ol
 
 ### Mashups
 
+seamless communication between different platforms&#x20;
+
 * public & private blockchains — different blockchain platforms
-* blockchain and legacy system integration
+* blockchain and legacy system integration&#x20;
   * legacy: client-server
   * blockchain: peer-to-peer
 * on-chain & off-chain solutions
-*
+
+
 
 ### Scalability
 
@@ -42,6 +45,7 @@ icon: list-ol
   * transaction throughput
   * transaction latency
 * do not fall victim to your own success — The `GovernMental` Attack
+* transactions/participants increase — slower transaction speed, higher cost
 
 
 
