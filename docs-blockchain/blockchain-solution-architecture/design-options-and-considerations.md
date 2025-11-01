@@ -25,6 +25,8 @@ icon: list-ol
 
 
 
+
+
 ## Design Considerations
 
 ### Mashups
@@ -53,3 +55,19 @@ seamless communication between different platforms&#x20;
 
 * economic model and incentives — must ensure participation and alignment of stakeholders' interests
 
+
+
+## Risk Mitigation
+
+* Fire-Drill Model
+  * Have a plan in place for how you're going to deal with issues such as data breaches, attacks, regulation compliance checks, etc.. before they happen
+*
+
+
+
+
+
+## Balances Required
+
+* decentralization & the need for control and governance
+*
