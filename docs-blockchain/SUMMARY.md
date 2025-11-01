@@ -137,7 +137,7 @@
 * [Reputational Risk](risk-management/reputational-risk.md)
 * [Ethical Considerations](risk-management/ethical-considerations.md)
 * [Compliance Risk](risk-management/compliance-risk.md)
-* [Addressing Risks](risk-management/addressing-risks.md)
+* [Risk Management](risk-management/risk-management.md)
 
 ## Troubleshooting Blockchain
 
