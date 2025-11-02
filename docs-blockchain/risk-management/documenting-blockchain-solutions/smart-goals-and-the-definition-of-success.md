@@ -4,7 +4,15 @@ icon: bullseye-arrow
 
 # SMART Goals and the Definition of "Success"
 
-## Definition of "`Success`"
+
+
+## Desired Outcomes
+
+> **SMART**(Specific, Measurable, Achievable, Relevant, Time-bound) **objectives**&#x20;
+>
+> &#x20;        that **outline the project's desired outcomes**
+
+### Definition of "`Success`"
 
 {% hint style="warning" %}
 #### Leaving stakeholders to define success subjectively is a recipe for disaster!
@@ -25,15 +33,15 @@ All definitions of success have to be **measurable objectively**.
 * helps to remove the subjectivity
 {% endhint %}
 
-## Defining "`Success`" using SMART Goals
+### Defining "`Success`" using SMART Goals
 
 > **SMART** **goals**:
 >
-> framework for setting well-defined objective goals
+> framework for setting **well-defined objective goals**
 >
-> * set by whom: project designers & stakeholders
-> * when: before construction starts
-> * benefits:&#x20;
+> * `set by whom`: project designers & stakeholders
+> * `when`: before construction starts
+> * `benefits`:&#x20;
 >   * can set clear, motivating, concise goals
 >   * that are conducive to successful planning, execution, and evaluation
 >   * removes the ambiguity about the success of your efforts at the end of the project

@@ -143,6 +143,8 @@
   * [Executive Overview](risk-management/documenting-blockchain-solutions/executive-overview.md)
   * [Problem Statement](risk-management/documenting-blockchain-solutions/problem-statement.md)
   * [SMART Goals and the Definition of "Success"](risk-management/documenting-blockchain-solutions/smart-goals-and-the-definition-of-success.md)
+  * [Guiding Principles](risk-management/documenting-blockchain-solutions/guiding-principles.md)
+  * [Solution Design & Architecture](risk-management/documenting-blockchain-solutions/solution-design-and-architecture.md)
 
 ## Troubleshooting Blockchain
 

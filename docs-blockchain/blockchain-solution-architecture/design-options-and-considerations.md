@@ -6,7 +6,7 @@ icon: list-ol
 
 ## Design Options
 
-### ﻿﻿Public vs. Private Blockchain
+### ﻿﻿Public vs. Private vs. Hybrid Blockchain
 
 ✅ need to strike the right balance between private and public blockchains&#x20;
 
@@ -33,7 +33,7 @@ icon: list-ol
 
 seamless communication between different platforms&#x20;
 
-* public & private blockchains — different blockchain platforms
+* public, private & hybrid blockchains — different blockchain platforms
 * blockchain and legacy system integration&#x20;
   * legacy: client-server
   * blockchain: peer-to-peer

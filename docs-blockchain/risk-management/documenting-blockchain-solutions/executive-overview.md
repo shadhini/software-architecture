@@ -10,7 +10,11 @@ icon: file-signature
 
 `[3-5 paragraphs]`
 
-**audience**: `non-technical busy executive — few minutes read`&#x20;
+**audience**:&#x20;
+
+`non-technical busy executives: stakeholders and decision makers`
+
+`few minutes read`&#x20;
 
 #### Content
 

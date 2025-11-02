@@ -6,9 +6,9 @@ icon: circle-exclamation
 
 ## Problem Statement
 
-> **provide a clear understanding of the problems** (issues / challenges)&#x20;
+> **clear description of the problems** (issues / challenges)&#x20;
 >
-> **that need to be solved**; the proposed solution aims to address
+> &#x20;      **the proposed solution aims to address**
 >
 > — subtle try to sell the value of the proposed solution by showing how problematic things are now —&#x20;
 
