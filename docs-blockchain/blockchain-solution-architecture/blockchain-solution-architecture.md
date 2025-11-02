@@ -325,3 +325,11 @@ And every layer has to pull its weight.
 
 
 
+## Risk Management
+
+{% content-ref url="../risk-management/risk-management.md" %}
+[risk-management.md](../risk-management/risk-management.md)
+{% endcontent-ref %}
+
+
+

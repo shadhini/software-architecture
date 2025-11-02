@@ -138,6 +138,11 @@
 * [Ethical Considerations](risk-management/ethical-considerations.md)
 * [Compliance Risk](risk-management/compliance-risk.md)
 * [Risk Management](risk-management/risk-management.md)
+* Documenting Blockchain Solutions
+  * [Solution Design Document](risk-management/documenting-blockchain-solutions/solution-design-document.md)
+  * [Executive Overview](risk-management/documenting-blockchain-solutions/executive-overview.md)
+  * [Problem Statement](risk-management/documenting-blockchain-solutions/problem-statement.md)
+  * [SMART Goals and the Definition of "Success"](risk-management/documenting-blockchain-solutions/smart-goals-and-the-definition-of-success.md)
 
 ## Troubleshooting Blockchain
 
