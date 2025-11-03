@@ -10,7 +10,7 @@ icon: stars
 >
 > **— how do we intend to provide value to our end users —**&#x20;
 >
-> <mark style="background-color:blue;">the fundamental values, beliefs, ethical & philosophical foundation or guidelines that steer decision-making and actions throughout the project</mark>
+> <mark style="background-color:blue;">the fundamental values, beliefs, operational norms, ethical & philosophical foundation or guidelines that steer decision-making and actions throughout the project</mark>
 >
 > * allows to define a **North Star** for the project
 >   * something that you can look at through every phase of design & development to ask yourself whether you are sill on track

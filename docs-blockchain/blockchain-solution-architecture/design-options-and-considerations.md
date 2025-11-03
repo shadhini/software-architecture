@@ -23,11 +23,17 @@ icon: list-ol
 * on-chain:
   * immutable
 
+### Guiding Principles
 
+* Feature-Heavy vs Feature-Light
+* Security vs Collaboration
+* Consistent vs Custom User Experience
 
 
 
 ## Design Considerations
+
+decide assets, participants, transactions, queries & events of the system
 
 ### Mashups
 
@@ -65,9 +71,18 @@ seamless communication between different platforms&#x20;
 
 
 
-
-
 ## Balances Required
 
 * decentralization & the need for control and governance
-*
+
+
+
+
+
+## Deployment
+
+**Go-Live**&#x20;
+
+* do we go live all at once
+* do we roll this solution out in phases
+

@@ -215,6 +215,35 @@ In blockchain, the only constant is uncertainty.&#x20;
 
 
 
+#### System Development: Order of Events
+
+* **Project Kickoff**&#x20;
+* Preparation Phase
+  * **Requirements Gathering** — requirements will be collected from stakeholders
+  * **Feasibility Study** — feasibility assessments, risk analysis, technical evaluations&#x20;
+* ﻿﻿Planning Phase
+  * **Project Planning** — scope, schedule, resources, budget
+  * ﻿﻿**Design and Architecture** — technical design, architecture, solution blueprint&#x20;
+* Development Phase
+  * **Backend Development** — backend components, databases, infrastructure
+  * **Frontend Development** — user interfaces, client-facing components&#x20;
+  * ﻿﻿**Integration** — modules, components, systems&#x20;
+* Testing Phase
+  * **Unit Testing** — test individual components & modules for functionality
+  * **Integration Testing** —  test integrated parts to ensure proper communication & functionality
+  * **`UAT`**: **User Acceptance Testing** — end-users test to ensure it meets their requirements
+  * **Bug Fixing and Iteration** — address identified issues, iterative improvements&#x20;
+* Deployment Phase
+  * **Staging Deployment** — deploy solution to a staging environment for final testing
+  * **Production Deployment** — roll out solution to the live production environment
+* **Training and Documentation** — training materials, user documentation&#x20;
+* **Go-Live**
+* Post-Implementation Activities
+  * **Monitoring and Support** — ongoing monitoring, support activities&#x20;
+  * **Performance Tuning and Optimization** — evaluate system's performance & optimize based on usage patterns
+  * **User Feedback and Iteration** — collect & analyze user feedback to make iterative improvements
+* **Project Closure**
+
 
 
 ## Security Concerns
@@ -327,9 +356,19 @@ And every layer has to pull its weight.
 
 ## Risk Management
 
+risk remediation strategies
+
 {% content-ref url="../risk-management/risk-management.md" %}
 [risk-management.md](../risk-management/risk-management.md)
 {% endcontent-ref %}
+
+
+
+## Documentation
+
+{% hint style="success" %}
+In blockchain, the difference between chaos and clarity is <mark style="color:$success;">**a well-written blueprint**</mark>.
+{% endhint %}
 
 
 

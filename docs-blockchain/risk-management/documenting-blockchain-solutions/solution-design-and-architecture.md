@@ -6,7 +6,17 @@ icon: pen-ruler
 
 ## Solution Design & Architecture
 
+> **— a blueprint for the project's functionality, ensuring alignment with objectives —**&#x20;
+>
+> A detailed description of how the blockchain system will work
+>
+> * architecture
+> * key features&#x20;
+> * functionality
 
+
+
+### Content
 
 #### Platform Selection Criteria and Concerns
 
@@ -80,6 +90,10 @@ On a whiteboard,&#x20;
     * If so, you've found a <mark style="color:$success;">**transaction**</mark>!
 * any **orphaned assets or participants** should be **removed** from your design
 
+{% hint style="info" %}
+Whiteboard method to brainstorm assets, participants & transactions provide **means to involve non technical stakeholder** at early stages of solution design.
+{% endhint %}
+
 
 
 #### Example: Auto manufacturer is looking at using blockchain to keep track of their  assets
@@ -93,8 +107,6 @@ Auto manufacturer: Ford Motor Company
 **✅ Sanity Checks**
 
 * 1️⃣ Try and read from right to left — see whether you can form a valid sentence ?
-
-
 
 
 

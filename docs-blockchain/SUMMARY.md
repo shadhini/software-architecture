@@ -33,6 +33,7 @@
 * [Layers of Blockchain Application](blockchain-architecture/layers-of-blockchain-application.md)
 * [On-Chain Data vs Off-Chain Data](blockchain-architecture/on-chain-data-vs-off-chain-data.md)
 * [Web 2.5](blockchain-architecture/web-2.5.md)
+* [Merkle Tree](blockchain-architecture/merkle-tree.md)
 
 ## Consensus
 
@@ -145,6 +146,9 @@
   * [SMART Goals and the Definition of "Success"](risk-management/documenting-blockchain-solutions/smart-goals-and-the-definition-of-success.md)
   * [Guiding Principles](risk-management/documenting-blockchain-solutions/guiding-principles.md)
   * [Solution Design & Architecture](risk-management/documenting-blockchain-solutions/solution-design-and-architecture.md)
+  * [General Timeline of Events](risk-management/documenting-blockchain-solutions/general-timeline-of-events.md)
+  * [Potential Risks](risk-management/documenting-blockchain-solutions/potential-risks.md)
+  * [Data Dictionary](risk-management/documenting-blockchain-solutions/data-dictionary.md)
 
 ## Troubleshooting Blockchain
 
