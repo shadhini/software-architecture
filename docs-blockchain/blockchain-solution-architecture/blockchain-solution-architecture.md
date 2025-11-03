@@ -248,6 +248,12 @@ In blockchain, the only constant is uncertainty.&#x20;
 
 ## Security Concerns
 
+{% hint style="warning" %}
+#### **A chain is only as strong as its weakest link**&#x20;
+
+Don't inherit security vulnerabilities from someone else!
+{% endhint %}
+
 {% hint style="success" %}
 #### Security Goals: Integrity, Availability, Anonymity
 

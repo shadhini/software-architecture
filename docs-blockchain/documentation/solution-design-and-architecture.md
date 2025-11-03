@@ -100,7 +100,7 @@ Whiteboard method to brainstorm assets, participants & transactions provide **me
 
 Auto manufacturer: Ford Motor Company
 
-<figure><img src="../../.gitbook/assets/identify-assets-participants-transactions.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/identify-assets-participants-transactions.svg" alt=""><figcaption></figcaption></figure>
 
 
 

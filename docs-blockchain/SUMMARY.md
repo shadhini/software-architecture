@@ -1,23 +1,8 @@
 # Table of contents
 
-## Blockchain in Business
-
-* [Global Marketplace & Blockchain Challenges](README.md)
-* [Blockchain Current Trend](blockchain-in-business/blockchain-current-trend.md)
-* [Blockchain: Value Proposition](blockchain-in-business/blockchain-value-proposition.md)
-* [When to use Blockchain and avoid Blockchain?](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/README.md)
-  * [When to use Blockchain](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/README.md)
-    * [Blockchain as a Shared IT Infrastructure](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/blockchain-as-a-shared-it-infrastructure.md)
-    * [Blockchain to enhance Legacy Systems](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/blockchain-to-enhance-legacy-systems.md)
-    * [When to use Blockchain — Process of Elimination](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/when-to-use-blockchain-process-of-elimination.md)
-  * [When to avoid Blockchain](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-avoid-blockchain.md)
-* [Blockchain Use-cases & Blockchain's Role](blockchain-in-business/blockchain-use-cases-and-blockchains-role.md)
-* [Blockchain Benefits](blockchain-in-business/blockchain-benefits.md)
-* [Evolution of Blockchain](blockchain-in-business/evolution-of-blockchain.md)
-
 ## Blockchain Architecture
 
-* [Blockchain](<README (1).md>)
+* [Blockchain](README.md)
 * [Block & Chains](blockchain-architecture/block-and-chains.md)
 * [Hash](blockchain-architecture/hash.md)
 * [Public Key Cryptography & Wallets](blockchain-architecture/public-key-cryptography-and-wallets.md)
@@ -50,23 +35,6 @@
 * [Participant Consensus](consensus/participant-consensus.md)
 * [Practical Byzantine Fault Tolerance](consensus/practical-byzantine-fault-tolerance.md)
 * [Summary: Consensus Mechanisms](consensus/summary-consensus-mechanisms.md)
-
-## Blockchain Solution Architecture
-
-* [Blockchain Trilemma](blockchain-solution-architecture/blockchain-trilemma/README.md)
-  * [How to address Blockchain Trilemma ?](blockchain-solution-architecture/blockchain-trilemma/how-to-address-blockchain-trilemma.md)
-* [Blockchain Rope](blockchain-solution-architecture/blockchain-rope.md)
-* [Design Options & Considerations](blockchain-solution-architecture/design-options-and-considerations.md)
-* [🌹 Blockchain Solution Architecture](blockchain-solution-architecture/blockchain-solution-architecture.md)
-
-## Blockchain Development
-
-* [Blockchain Development](blockchain-development/blockchain-development.md)
-* [Blockchain Platforms](blockchain-development/blockchain-platforms.md)
-* [Development Languages](blockchain-development/development-languages.md)
-* [Toolsets](blockchain-development/toolsets.md)
-* [Development Recommendations](blockchain-development/development-recommendations.md)
-* [✅ \[Best Practices\] Smart Contract Development](blockchain-development/best-practices-smart-contract-development.md)
 
 ## Blockchain Security
 
@@ -110,6 +78,29 @@
   * [Mitigating Protocol Level Security Risks](blockchain-security/mitigating-blockchain-security-risks/mitigating-protocol-level-security-risks.md)
   * [Mitigating Network Level Security Risks](blockchain-security/mitigating-blockchain-security-risks/mitigating-network-level-security-risks.md)
 
+## Blockchain Solution Architecture
+
+* [Blockchain Trilemma](blockchain-solution-architecture/blockchain-trilemma/README.md)
+  * [How to address Blockchain Trilemma ?](blockchain-solution-architecture/blockchain-trilemma/how-to-address-blockchain-trilemma.md)
+* [Blockchain Rope](blockchain-solution-architecture/blockchain-rope.md)
+* [Design Options & Considerations](blockchain-solution-architecture/design-options-and-considerations.md)
+* [🌹 Blockchain Solution Architecture](blockchain-solution-architecture/blockchain-solution-architecture.md)
+
+## Blockchain Development
+
+* [Blockchain Development](blockchain-development/blockchain-development.md)
+* [Blockchain Platforms](blockchain-development/blockchain-platforms.md)
+* [Development Languages](blockchain-development/development-languages.md)
+* [Toolsets](blockchain-development/toolsets.md)
+* [Development Recommendations](blockchain-development/development-recommendations.md)
+* [✅ \[Best Practices\] Smart Contract Development](blockchain-development/best-practices-smart-contract-development.md)
+
+## Troubleshooting Blockchain
+
+* [Troubleshooting Blockchain](troubleshooting-blockchain/troubleshooting-blockchain.md)
+* [Troubleshooting: Things to Check](troubleshooting-blockchain/troubleshooting-things-to-check.md)
+* [Possible Issues & Solutions](troubleshooting-blockchain/possible-issues-and-solutions.md)
+
 ## Regulatory Landscape
 
 * [Blockchain Regulations](regulatory-landscape/blockchain-regulations/README.md)
@@ -139,22 +130,37 @@
 * [Ethical Considerations](risk-management/ethical-considerations.md)
 * [Compliance Risk](risk-management/compliance-risk.md)
 * [Risk Management](risk-management/risk-management.md)
-* Documenting Blockchain Solutions
-  * [Solution Design Document](risk-management/documenting-blockchain-solutions/solution-design-document.md)
-  * [Executive Overview](risk-management/documenting-blockchain-solutions/executive-overview.md)
-  * [Problem Statement](risk-management/documenting-blockchain-solutions/problem-statement.md)
-  * [SMART Goals and the Definition of "Success"](risk-management/documenting-blockchain-solutions/smart-goals-and-the-definition-of-success.md)
-  * [Guiding Principles](risk-management/documenting-blockchain-solutions/guiding-principles.md)
-  * [Solution Design & Architecture](risk-management/documenting-blockchain-solutions/solution-design-and-architecture.md)
-  * [General Timeline of Events](risk-management/documenting-blockchain-solutions/general-timeline-of-events.md)
-  * [Potential Risks](risk-management/documenting-blockchain-solutions/potential-risks.md)
-  * [Data Dictionary](risk-management/documenting-blockchain-solutions/data-dictionary.md)
 
-## Troubleshooting Blockchain
+## Documentation
 
-* [Troubleshooting Blockchain](troubleshooting-blockchain/troubleshooting-blockchain.md)
-* [Troubleshooting: Things to Check](troubleshooting-blockchain/troubleshooting-things-to-check.md)
-* [Possible Issues & Solutions](troubleshooting-blockchain/possible-issues-and-solutions.md)
+* [Solution Design Document](documentation/solution-design-document.md)
+* [Executive Overview](documentation/executive-overview.md)
+* [Problem Statement](documentation/problem-statement.md)
+* [SMART Goals and the Definition of "Success"](documentation/smart-goals-and-the-definition-of-success.md)
+* [Guiding Principles](documentation/guiding-principles.md)
+* [Solution Design & Architecture](documentation/solution-design-and-architecture.md)
+* [General Timeline of Events](documentation/general-timeline-of-events.md)
+* [Potential Risks](documentation/potential-risks.md)
+* [Data Dictionary](documentation/data-dictionary.md)
+
+## Blockchain in Business
+
+* [Global Marketplace & Blockchain Challenges](<README (1).md>)
+* [Blockchain Current Trend](blockchain-in-business/blockchain-current-trend.md)
+* [Blockchain: Value Proposition](blockchain-in-business/blockchain-value-proposition.md)
+* [When to use Blockchain and avoid Blockchain?](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/README.md)
+  * [When to use Blockchain](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/README.md)
+    * [Blockchain as a Shared IT Infrastructure](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/blockchain-as-a-shared-it-infrastructure.md)
+    * [Blockchain to enhance Legacy Systems](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/blockchain-to-enhance-legacy-systems.md)
+    * [When to use Blockchain — Process of Elimination](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/when-to-use-blockchain-process-of-elimination.md)
+  * [When to avoid Blockchain](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-avoid-blockchain.md)
+* [Blockchain Use-cases & Blockchain's Role](blockchain-in-business/blockchain-use-cases-and-blockchains-role.md)
+* [Blockchain Benefits](blockchain-in-business/blockchain-benefits.md)
+* [Evolution of Blockchain](blockchain-in-business/evolution-of-blockchain.md)
+
+## Governance
+
+* [Governing Shared IT Infrastructure](governance/governing-shared-it-infrastructure.md)
 
 ## Supporting Resources
 
