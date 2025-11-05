@@ -160,7 +160,10 @@
 
 ## Governance
 
-* [Governing Shared IT Infrastructure](governance/governing-shared-it-infrastructure.md)
+* [Blockchain Governance](governance/blockchain-governance.md)
+* [Concerns related to Governing Shared IT Infrastructure](governance/concerns-related-to-governing-shared-it-infrastructure.md)
+* [Blockchain-Specific Governance Concerns](governance/blockchain-specific-governance-concerns.md)
+* [DAO: Decentralized Autonomous Organization](governance/dao-decentralized-autonomous-organization.md)
 
 ## Supporting Resources
 

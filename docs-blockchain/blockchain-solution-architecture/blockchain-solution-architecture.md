@@ -378,3 +378,36 @@ In blockchain, the difference between chaos and clarity is <mark style="color:$s
 
 
 
+## Governance&#x20;
+
+{% hint style="success" %}
+Remember - Obtaining alignment from all solution owners / participants is critical to success!
+{% endhint %}
+
+{% hint style="success" %}
+#### Role of smart contracts in blockchain governance...
+
+facilitate transparent voting
+{% endhint %}
+
+
+
+Blockchain specific governance concerns
+
+* Decentralization vs. Centralization
+* handling protocol upgrades and hard/soft forks
+* Token Holder Influence
+* Participation and Voter Apathy
+* Cultural and Ideological Differences
+* Network Security and Attack Resistance
+* Funding and Sustainability
+* Security and Consensus Mechanisms
+* Governance Attacks
+* Transparency and Accountability
+* Evolving Ecosystem
+* User Experience
+* Social Dynamics
+*   Interoperability
+
+
+
