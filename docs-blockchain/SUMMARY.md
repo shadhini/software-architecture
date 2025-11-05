@@ -78,6 +78,13 @@
   * [Mitigating Protocol Level Security Risks](blockchain-security/mitigating-blockchain-security-risks/mitigating-protocol-level-security-risks.md)
   * [Mitigating Network Level Security Risks](blockchain-security/mitigating-blockchain-security-risks/mitigating-network-level-security-risks.md)
 
+## Governance
+
+* [Concerns related to Governing Shared IT Infrastructure](governance/concerns-related-to-governing-shared-it-infrastructure.md)
+* [Blockchain-Specific Governance Concerns](governance/blockchain-specific-governance-concerns.md)
+* [Blockchain Governance Models](governance/blockchain-governance-models.md)
+* [DAOs: Decentralized Autonomous Organizations](governance/daos-decentralized-autonomous-organizations.md)
+
 ## Blockchain Solution Architecture
 
 * [Blockchain Trilemma](blockchain-solution-architecture/blockchain-trilemma/README.md)
@@ -157,13 +164,6 @@
 * [Blockchain Use-cases & Blockchain's Role](blockchain-in-business/blockchain-use-cases-and-blockchains-role.md)
 * [Blockchain Benefits](blockchain-in-business/blockchain-benefits.md)
 * [Evolution of Blockchain](blockchain-in-business/evolution-of-blockchain.md)
-
-## Governance
-
-* [Blockchain Governance](governance/blockchain-governance.md)
-* [Concerns related to Governing Shared IT Infrastructure](governance/concerns-related-to-governing-shared-it-infrastructure.md)
-* [Blockchain-Specific Governance Concerns](governance/blockchain-specific-governance-concerns.md)
-* [DAO: Decentralized Autonomous Organization](governance/dao-decentralized-autonomous-organization.md)
 
 ## Supporting Resources
 

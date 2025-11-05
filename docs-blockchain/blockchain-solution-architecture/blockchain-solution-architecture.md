@@ -57,60 +57,17 @@ benefits of blockchain; data integrity, security, fault tolerance, failover, red
 **Blockchain’s value isn’t in the data it stores—it’s in the trust it builds.**
 {% endhint %}
 
-centralized databases — efficient, data that needs constant updates&#x20;
-
-* coffee shop loyalty program
-
-blockchain — trust, transparency, when multiple parties need a shared, immutable source of truth
-
-* medical histories(healthcare), deed ownerships (real estate) — hybrid models with off-chain storage keep it scalable
-* when shared trust is critical — finance, healthcare, supply chain
 
 
-
-✅ Governances requires vigilance
+{% content-ref url="design-options-and-considerations.md" %}
+[design-options-and-considerations.md](design-options-and-considerations.md)
+{% endcontent-ref %}
 
 {% content-ref url="../consensus/summary-consensus-mechanisms.md" %}
 [summary-consensus-mechanisms.md](../consensus/summary-consensus-mechanisms.md)
 {% endcontent-ref %}
 
 
-
-### On-chain solutions, Off-chain Solutions & Hybrid Mashups
-
-On-chain solutions — handle transparent, immutable transactions
-
-* transaction hashes or proofs of existence
-
-Off-chain solutions — deal with scalable, private transactions
-
-* sensitive information
-* bulk/large data
-
-
-
-**on-chain, off-chain hybrid mashups**
-
-1. `Database —  primary` | `Blockchain —  secondary`
-   * data on database; proofs or markers of that data such as cryptographic hashes on blockchain
-   * sensitive data on database; transaction hashes or proofs of existence on blockchain
-2.  `Blockchain —  primary` | `Database —  secondary`
-
-    * copy data from blockchain to a database for using existing tools for reporting, analysis, dashboarding
-    * no need to worry about keeping database copy of the ledger in sync — we have the implicit guarantee that the original source (blockchain) is never going to change&#x20;
-
-
-
-{% hint style="success" %}
-#### Balancing Act
-
-The adoption of blockchain technology in many sectors required a careful balance between&#x20;
-
-* the benefits of on-chain data for security and immutability and&#x20;
-* the practicality of off-chain solutions for scalability
-
-❗Finding the right balance is critical for successful blockchain integration.
-{% endhint %}
 
 
 
@@ -120,36 +77,64 @@ The adoption of blockchain technology in many sectors required a careful balance
 
 📌 <mark style="color:$primary;">**Encryption**</mark>
 
-📌 <mark style="color:$primary;">**Off-Chain Data**</mark>
+📌 <mark style="color:$primary;">**Off-Chain Data**</mark>: sensitive information — stored off-chain | blockchain — record only transaction hashes or proofs of existence
 
-* sensitive information — stored off-chain
-* blockchain — record only transaction hashes or proofs of existence
+📌 <mark style="color:$primary;">**Zero-Knowledge Proofs**</mark>: enable one party to prove that they possess specific information without revealing the information itself
 
-📌 <mark style="color:$primary;">**Zero-Knowledge Proofs**</mark>
+📌 <mark style="color:$primary;">**Consent and Control**</mark>: interfaces to manage data sharing preferences
 
-* enable one party to prove that they possess specific information without revealing the information itself
+📌 <mark style="color:$primary;">**Data Minimization**</mark>: collect and store only the data necessary for the intended purpose
 
-📌 <mark style="color:$primary;">**Consent and Control**</mark>
+📌 <mark style="color:$primary;">**Regulatory Compliance**</mark>: `GDPR` in EU | `HIPAA` in US
 
-* interfaces to manage data sharing preferences
+📌 <mark style="color:$primary;">**Immutable Records**</mark>: how to handle incorrect or outdated data
 
-📌 <mark style="color:$primary;">**Data Minimization**</mark>
+📌 <mark style="color:$primary;">**Smart Contracts**</mark>: to automate data-sharing agreements;  to enforce privacy rules (who has access to what data under what conditions) on the blockchain
 
-* collect and store only the data necessary for the intended purpose
+### Governance&#x20;
 
-📌 <mark style="color:$primary;">**Regulatory Compliance**</mark>
+✅ Governances requires vigilance
 
-* `GDPR` in EU  &#x20;
-* `HIPAA` in US
+{% hint style="success" %}
+Remember - Obtaining alignment from all solution owners / participants is critical to success!
+{% endhint %}
 
-📌 <mark style="color:$primary;">**Immutable Records**</mark>
+{% hint style="success" %}
+#### Role of smart contracts in blockchain governance...
 
-* how to handle incorrect or outdated data
+facilitate transparent voting
+{% endhint %}
 
-📌 <mark style="color:$primary;">**Smart Contracts**</mark>
+{% hint style="success" %}
+In blockchain, the chain is only as strong as its leaders—and its followers.
+{% endhint %}
 
-* to automate data-sharing agreements &#x20;
-* to enforce privacy rules (who has access to what data under what conditions) on the blockchain
+
+
+**Blockchain specific governance concerns**
+
+Decentralization vs. Centralization, handling protocol upgrades and hard/soft forks
+
+Participation and Voter Apathy, Cultural and Ideological Differences
+
+Network Security and Attack Resistance, Security and Consensus Mechanisms
+
+Funding and Sustainability, Evolving Ecosystem, Interoperability
+
+Governance Attacks, Token Holder Influence, Transparency and Accountability
+
+User Experience, Social Dynamics
+
+
+
+{% content-ref url="../governance/daos-decentralized-autonomous-organizations.md" %}
+[daos-decentralized-autonomous-organizations.md](../governance/daos-decentralized-autonomous-organizations.md)
+{% endcontent-ref %}
+
+#### Implementing Governance Framework
+
+1. establish guiding principles for governance—ethical norms, operational rules, a fallback plan for forks
+2. implement smart contract mechanisms to automate critical governance decisions
 
 
 
@@ -194,6 +179,8 @@ In blockchain, the only constant is uncertainty.&#x20;
 ✅ jurisdiction-specific adjustments
 
 ✅ a self-regulatory code of conduct for DeFi operations
+
+
 
 
 
@@ -360,6 +347,8 @@ And every layer has to pull its weight.
 
 
 
+
+
 ## Risk Management
 
 risk remediation strategies
@@ -370,44 +359,17 @@ risk remediation strategies
 
 
 
+
+
 ## Documentation
 
 {% hint style="success" %}
 In blockchain, the difference between chaos and clarity is <mark style="color:$success;">**a well-written blueprint**</mark>.
 {% endhint %}
 
-
-
-## Governance&#x20;
-
-{% hint style="success" %}
-Remember - Obtaining alignment from all solution owners / participants is critical to success!
-{% endhint %}
-
-{% hint style="success" %}
-#### Role of smart contracts in blockchain governance...
-
-facilitate transparent voting
-{% endhint %}
-
-
-
-Blockchain specific governance concerns
-
-* Decentralization vs. Centralization
-* handling protocol upgrades and hard/soft forks
-* Token Holder Influence
-* Participation and Voter Apathy
-* Cultural and Ideological Differences
-* Network Security and Attack Resistance
-* Funding and Sustainability
-* Security and Consensus Mechanisms
-* Governance Attacks
-* Transparency and Accountability
-* Evolving Ecosystem
-* User Experience
-* Social Dynamics
-*   Interoperability
+{% content-ref url="../documentation/solution-design-document.md" %}
+[solution-design-document.md](../documentation/solution-design-document.md)
+{% endcontent-ref %}
 
 
 
