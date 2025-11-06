@@ -78,7 +78,8 @@ seamless communication between different platforms&#x20;
 * decentralization & the need for control and centralized governance&#x20;
   * too much centralization → control by a few entities
   * excessive decentralization → inefficiencies, lack of accountability
-* on-chain & off-chain data
+* on-chain & off-chain data — transparency & scalability
+  * right balance between transparency & scalability
 
 {% hint style="success" %}
 #### Balancing Act

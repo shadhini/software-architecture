@@ -17,18 +17,53 @@ Blockchain enables
 
 ### Supply Chain Management
 
-Desirable Attributes of Blockchain:&#x20;
+**Desirable Attributes of Blockchain:**&#x20;
 
 * transparency
 * traceability
+* immutable ledger
+* security
+* smart contracts
 
-Application:
+**Nature of Use-case:**
+
+* shared trust is critical
+
+**Role of Blockchain & Value Added:**
+
+✅ record every transaction and movement of goods on an immutable ledger
+
+* an immutable ledger of transactions and events
+* brings transparency, traceability, increased efficiency
+* reduce fraud, errors, and delays&#x20;
+* prevent counterfeiting
+* enables real-time tracking of goods&#x20;
+* provides a tamper-proof record of every step in the supply chain&#x20;
+*   offers consumers assurance about the origin and authenticity of products&#x20;
+
+    → enhance trust among participants&#x20;
+* offer immense potential to streamline operations, improve accountability, and reduce costs for businesses
+
+**When to Avoid Blockchain:**
+
+* when the existing processes are straightforward and don't involve a multitude of parties or complex interactions
+* if the cost and complexity of implementing blockchain technology outweigh the potential benefits
+* if the supply chain primarily operates within a closed ecosystem where trust is already well-established&#x20;
+
+**When to Use Blockchain:**
+
+* there is a need for increased transparency, trust, and traceability among multiple stakeholders, such as manufacturers, suppliers, distributors, and consumers
+* when the supply chain involves complex, global networks, and there is a desire to reduce fraud, errors and inefficiencies while ensuring the integrity of product information and transaction data throughout the entire process
+
+**Application:**
 
 * rich, detailed, audit trails to verify the authenticity of products
   * diamonds, expensive jewellery, seafood, electronics
 * logs of what happened&#x20;
+* **on-chain vs off-chain**
+  * finding the right balance between transparency & scalability
 
-Platforms:&#x20;
+**Platforms:**&#x20;
 
 {% content-ref url="blockchain-based-supply-chain-solutions.md" %}
 [blockchain-based-supply-chain-solutions.md](blockchain-based-supply-chain-solutions.md)
@@ -52,15 +87,54 @@ Platforms:
 
 
 
-### Cross Border Payments&#x20;
+### `DeFi`: Decentralized Finance & Cross Border Payments&#x20;
 
-Application:
+**Desirable Attributes of Blockchain:**
 
-* cross-border payments
+* transparency
+* immutable ledger
+* smart contracts
+* decentralized nature — borderless
+
+**Nature of Use-case:**
+
+* shared trust is critical
+
+**Role of Blockchain & Value Added:**
+
+✅️ streamlines cross-border transactions and reduced fraud
+
+* secure, transparent, immutable ledger for financial transactions
+* reduce the need for intermediaries: people can access banking services, loans, and savings options without traditional financial intermediaries
 * push financial inclusion to the next level — access + usage + quality
+  * reduce the economic disparities experienced by marginalized communities
   * individuals and businesses — especially those that are poor, rural, women, or otherwise underserved — can access and effectively use affordable, appropriate financial services (payments, savings, credit, insurance, pensions) when they need them
+* minimizes fraud — reduced risk of fraud and errors
+* enable faster, more cost-effective cross-border payments and settlements
+* ultimately improve efficiency and trust in financial processes
 
-Platforms:&#x20;
+**When to Avoid Blockchain:**
+
+* existing systems are already highly efficient&#x20;
+* costs and complexities associated with blockchain implementation outweigh the potential benefits
+* if a financial institution primarily operates in a closed and centralized environment where trust is well-established
+* if regulatory compliance issues pose insurmountable challenges
+
+**When to Use Blockchain:**
+
+* there is a need for enhanced security, transparency, and efficiency in financial transactions, particularly in cross-border payments and settlements
+* when the existing financial systems are burdened by intermediaries and complex reconciliation processes
+  * as blockchain can streamline these operations and reduce costs while maintaining the integrity of financial data
+
+**Application:**
+
+* **`DeFi`**: Decentralized applications &#x20;
+* digital currencies
+* cross-border payments
+* **on-chain vs off-chain**
+  * finding the right balance between transparency & scalability
+
+**Platforms:**&#x20;
 
 {% content-ref url="blockchain-based-cross-border-payments-solutions.md" %}
 [blockchain-based-cross-border-payments-solutions.md](blockchain-based-cross-border-payments-solutions.md)
@@ -96,19 +170,55 @@ Platforms:&#x20;
 
 ### Healthcare
 
-Desirable Attributes of Blockchain:
+**Desirable Attributes of Blockchain:**
 
 * facilitate secure sharing of data&#x20;
+* immutable ledger&#x20;
+* decentralized nature
 
-Application:
+**Nature of Use-case:**
+
+* medical histories
+* shared trust is critical
+
+**Role of Blockchain & Value Added:**
+
+✅️ enhances security, integrity and interoperability of patient data
+
+* enables secure sharing of medical records
+* ensure patient privacy&#x20;
+* ensures patient consent management
+* ensure data accuracy
+* improve accessibility
+* simplifies administrative processes
+* leads to improved patient care
+* reduced costs&#x20;
+
+**When to Avoid Blockchain:**
+
+* when the current data management systems are highly effective &#x20;
+* the costs and complexities of adopting  blockchain outweigh the expected improvements
+* if a healthcare organization primarily operates in a an isolated ecosystem where data sharing and interoperability are not critical concerns&#x20;
+* if regulatory and compliance challenges cannot be adequately addressed
+
+**When to Use Blockchain:**
+
+* when there's a pressing need for secure, interoperable, and patient-centric health data management
+* when improving data sharing among healthcare providers, enhancing patient consent management, and ensuring the integrity of medical records
+* ultimately leads to better patient care, streamlined processes, and reduced medical errors
+
+**Application:**
 
 * facilitate secure & interoperable sharing of healthcare data among different providers&#x20;
 * empower patients to control their own health records&#x20;
-* ensure patient privacy&#x20;
-* ensure data accuracy
-* improve accessibility
+* **on-chain vs off-chain**
+  * ✅️ hybrid models with off-chain storage to keep it scalable
+    * on-chain health data — ensures integrity and trust&#x20;
+    * off-chain methods — help manage the complexity of healthcare system and regulations
+    * facilitate secure exchange of patient information leading to more efficient and patient-centered healthcare
+  * striking a balance between data security and interoperability
 
-Platforms:&#x20;
+**Platforms:**&#x20;
 
 {% content-ref url="blockchain-based-healthcare-data-sharing-platforms.md" %}
 [blockchain-based-healthcare-data-sharing-platforms.md](blockchain-based-healthcare-data-sharing-platforms.md)
@@ -156,7 +266,7 @@ Platforms:
 
 ## Blockchain Use-cases&#x20;
 
-<table><thead><tr><th width="185.1171875" valign="top">Use case</th><th valign="top">Value Added, When to use &#x26; avoid Blockchain, On-chain vs Off-chain solutions</th></tr></thead><tbody><tr><td valign="top">Cryptocurrencies </td><td valign="top"><ul><li>tamper-proof record </li></ul></td></tr><tr><td valign="top"><p>Finance</p><ul><li><strong><code>DeFi</code></strong>: Decentralized Finance</li><li>shared trust is critical </li></ul></td><td valign="top"><p>✅️ streamlines cross-border transactions and reduced fraud</p><p><strong>value added</strong></p><ul><li>secure, transparent, immutable ledger for financial transactions</li><li>reduce the need for intermediaries</li><li>minimizes fraud — reduced risk of fraud and errors</li><li>enable faster, more cost-effective cross-border payments and settlements</li><li>ultimately improve efficiency and trust in financial processes</li></ul><p><strong>when to avoid blockchain</strong> </p><ul><li>existing systems are already highly efficient </li><li>costs and complexities associated with blockchain implementation outweigh the potential benefits</li><li>if a financial institution primarily operates in a closed and centralized environment where trust is well-established</li><li>if regulatory compliance issues pose insurmountable challenges</li></ul><p><strong>when to use blockchain</strong></p><ul><li>there is a need for enhanced security, transparency, and efficiency in financial transactions, particularly in cross-border payments and settlements</li><li><p>when the existing financial systems are burdened by intermediaries and complex reconciliation processes</p><ul><li>as blockchain can streamline these operations and reduce costs while maintaining the integrity of financial data</li></ul></li></ul><p><strong>on-chain vs off-chain</strong></p><ul><li>finding the right balance between transparency &#x26; scalability</li></ul></td></tr><tr><td valign="top"><p>Supply Chain Management</p><ul><li>shared trust is critical</li></ul></td><td valign="top"><p>✅️ </p><p><strong>value added</strong></p><ul><li>an immutable ledger of transactions and events</li><li>brings transparency, traceability, increased efficiency</li><li>reduce fraud, errors, and delays </li><li>enhance trust among participants </li><li>enables real-time tracking of goods </li><li>provides a tamper-proof record of every step in the supply chain </li><li>offer immense potential to streamline operations, improve accountability, and reduce costs for businesses</li></ul><p><strong>when to avoid blockchain</strong> </p><ul><li>when the existing processes are straightforward and don't involve a multitude of parties or complex interactions</li><li>if the cost and complexity of implementing blockchain technology outweigh the potential benefits</li><li>if the supply chain primarily operates within a closed ecosystem where trust is already well-established </li></ul><p><strong>when to use blockchain</strong></p><ul><li>there is a need for increased transparency, trust, and traceability among multiple stakeholders, such as manufacturers, suppliers, distributors, and consumers</li><li>when the supply chain involves complex, global networks, and there is a desire to reduce fraud, errors and inefficiencies while ensuring the integrity of product information and transaction data throughout the entire process</li></ul><p><strong>on-chain vs off-chain</strong></p><ul><li>finding the right balance between transparency &#x26; scalability</li></ul></td></tr><tr><td valign="top"><p>Healthcare </p><ul><li>medical histories</li><li>shared trust is critical</li></ul></td><td valign="top"><p>✅️ enahances patirnt data security and interoperability</p><p><strong>value added</strong></p><ul><li>enhance security, integrity, and interoperability of patient data</li><li>enables secure sharing of medical records</li><li>simplifies administrative processes</li><li>ensures patient consent management</li><li>leads to improved patient care</li><li>reduced costs </li><li>increased data accuracy</li></ul><p><strong>when to avoid blockchain</strong> </p><ul><li>when the current data management systems are highly effective  </li><li>the costs and complexities of adopting  blockchain outweigh the expected improvements</li><li>if a healthcare organization primarily operates in a an isolated ecosystem where data sharing and interoperability are not critical concerns </li><li>if regulatory and compliance challenges cannot be adequately addressed</li></ul><p><strong>when to use blockchain</strong></p><ul><li>when there's a pressing need for secure, interoperable, and patient-centric health data management</li><li>when improving data sharing among healthcare providers, enhancing patient consent management, and ensuring the integrity of medical records</li><li>ultimately leads to better patient care, streamlined processes, and reduced medical errors</li></ul><p><strong>on-chain vs off-chain</strong></p><ul><li><p>✅️ hybrid models with off-chain storage to keep it scalable</p><ul><li>on-chain health data — ensures integrity and trust </li><li>off-chain methods — help manage the complexity of healthcare system and regulations</li><li>facilitate secure exchange of patient information leading to more efficient and patient-centered healthcare</li></ul></li><li>striking a balance between data security and interoperability</li></ul></td></tr><tr><td valign="top"><p>Real estate</p><p>(property — lands &#x26; buildings )</p><ul><li>deed ownerships</li></ul></td><td valign="top"><p>✅️ improves transparency and reduces fraud risks</p><p><strong>value added</strong></p><ul><li>provide a tamper-proof and transparent ledger for property transactions </li><li>simplifies the buying and selling process</li><li>reduces fraud</li><li>increases trust among parties</li><li>ultimately leads to more efficient and secure real estate transactions</li></ul><p><strong>when to avoid blockchain</strong> </p><ul><li>when there is little need for increased transparency, trust , and efficiency in property transactions — especially in regions with well-established and efficient land registries and real estate processes</li><li>if the costs of implementing blockchain technology, including potential resistance to change from traditional stakeholders, outweigh the expected benefits in terms of fraud reduction and process streamlining</li></ul><p><strong>when to use blockchain</strong></p><ul><li>when there is a need for increased transparency, reduced fraud, and simplified property transactions, especially in complex real estate ecosystems</li><li>when enhancing the efficiency of land registries, property sales, and lease agreements as the immutable and secure ledger provided by blockchain for these processes can lead to streamlined operations and improved trust among stakeholders</li></ul><p><strong>on-chain vs off-chain</strong></p><ul><li>✅️ hybrid models with off-chain storage to keep it scalable</li><li><p>optimizing transparency and scalability </p><ul><li>on-chain property transactions ensure a secure and immutable ledger for trust and fraud prevention</li><li>off-chain methods can help manage the intricacies of real estate operations, enhancing efficiency and reducing costs , particularly in regions with well-established property systems </li></ul></li></ul></td></tr><tr><td valign="top">Public Voting Systems</td><td valign="top"><ul><li>secure transactions — reduced risk of fraud</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="185.1171875" valign="top">Use case</th><th valign="top">Value Added, When to use &#x26; avoid Blockchain, On-chain vs Off-chain solutions</th></tr></thead><tbody><tr><td valign="top">Cryptocurrencies </td><td valign="top"><ul><li>tamper-proof record </li></ul></td></tr><tr><td valign="top"><p>Real estate</p><p>(property — lands &#x26; buildings )</p><ul><li>deed ownerships</li></ul></td><td valign="top"><p>✅️ improves transparency and reduces fraud risks</p><p><strong>value added</strong></p><ul><li>provide a tamper-proof and transparent ledger for property transactions </li><li>simplifies the buying and selling process</li><li>reduces fraud</li><li>increases trust among parties</li><li>ultimately leads to more efficient and secure real estate transactions</li></ul><p><strong>when to avoid blockchain</strong> </p><ul><li>when there is little need for increased transparency, trust , and efficiency in property transactions — especially in regions with well-established and efficient land registries and real estate processes</li><li>if the costs of implementing blockchain technology, including potential resistance to change from traditional stakeholders, outweigh the expected benefits in terms of fraud reduction and process streamlining</li></ul><p><strong>when to use blockchain</strong></p><ul><li>when there is a need for increased transparency, reduced fraud, and simplified property transactions, especially in complex real estate ecosystems</li><li>when enhancing the efficiency of land registries, property sales, and lease agreements as the immutable and secure ledger provided by blockchain for these processes can lead to streamlined operations and improved trust among stakeholders</li></ul><p><strong>on-chain vs off-chain</strong></p><ul><li>✅️ hybrid models with off-chain storage to keep it scalable</li><li><p>optimizing transparency and scalability </p><ul><li>on-chain property transactions ensure a secure and immutable ledger for trust and fraud prevention</li><li>off-chain methods can help manage the intricacies of real estate operations, enhancing efficiency and reducing costs , particularly in regions with well-established property systems </li></ul></li></ul></td></tr><tr><td valign="top">Public Voting Systems</td><td valign="top"><ul><li>secure transactions — reduced risk of fraud</li></ul></td></tr></tbody></table>
 
 
 
@@ -169,7 +279,7 @@ Platforms:
 
 ## Blockchain's Role
 
-<table><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top"><strong>Supply Chain Management</strong></td><td valign="top">----------</td><td valign="top">----------</td></tr><tr><td valign="top">record every transaction and movement of goods on an immutable ledger</td><td valign="top"><p>enhance </p><ul><li>transparency</li><li>traceability </li><li>efficiency </li></ul><p>prevent  </p><ul><li>fraud</li><li>counterfeiting </li><li>inefficiencies</li></ul></td><td valign="top"><p>offers consumers assurance about the origin and authenticity of products </p><p>→ make supply chains more trustworthy</p></td></tr><tr><td valign="top"><strong>Voting Systems</strong></td><td valign="top">----------</td><td valign="top">----------</td></tr><tr><td valign="top">tamper-proof, auditable records</td><td valign="top"><p>enhance  </p><ul><li>security</li><li>transparency</li></ul><p></p><ul><li>eliminate voter fraud  </li><li>provide real-time results</li></ul></td><td valign="top"><ul><li>potentially improve voter participation</li><li>streamline election processes</li><li>ensure the integrity of democratic systems</li></ul></td></tr><tr><td valign="top"><strong>Financial Inclusion</strong></td><td valign="top">----------</td><td valign="top">----------</td></tr><tr><td valign="top">decentralized finance (<code>DeFi</code>) applications and digital currencies</td><td valign="top"><ul><li>potential to provide financial services to the unbanked and underbanked populations globally</li><li>people can access banking services, loans, and savings options without traditional financial intermediaries</li></ul></td><td valign="top"><ul><li>significantly enhance financial inclusion</li><li>reduce the economic disparities experienced by marginalized communities</li></ul></td></tr></tbody></table>
+<table><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top"><strong>Voting Systems</strong></td><td valign="top">----------</td><td valign="top">----------</td></tr><tr><td valign="top">tamper-proof, auditable records</td><td valign="top"><p>enhance  </p><ul><li>security</li><li>transparency</li></ul><p></p><ul><li>eliminate voter fraud  </li><li>provide real-time results</li></ul></td><td valign="top"><ul><li>potentially improve voter participation</li><li>streamline election processes</li><li>ensure the integrity of democratic systems</li></ul></td></tr></tbody></table>
 
 
 
