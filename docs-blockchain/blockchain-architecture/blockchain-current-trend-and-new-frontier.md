@@ -2,7 +2,7 @@
 icon: arrow-trend-up
 ---
 
-# Blockchain Current Trend
+# Blockchain Current Trend & New Frontier
 
 ## Blockchain Current Trend
 
@@ -102,6 +102,22 @@ in **`SSI`**, you're in custody of your own identity.&#x20;
 Current Trend:
 
 * merge of the idea SSI: Self Sovereign Identity with personal medical data management
+
+
+
+## New Frontiers
+
+* Interoperability between Blockchains
+* Quantum computing threats&#x20;
+  * could break today’s cryptography
+  * post-quantum cryptography
+* Modular chains — advanced architectures
+  * modular architectures — allow blockchains to specialize → solve the scalability trilemma in ways we couldn’t dream of a year ago
+* zk-SNARKS
+  * zero knowledge proofs — privacy layers we could add while still enabling verification
+  * industries could adopt blockchain without risking sensitive data
+
+
 
 
 

@@ -79,7 +79,9 @@ Blockchain projects without **clear governance** or **realistic goals** have col
 [summary-consensus-mechanisms.md](../consensus/summary-consensus-mechanisms.md)
 {% endcontent-ref %}
 
-
+{% hint style="info" %}
+<mark style="color:$info;">**The impossible is where innovation begins.**</mark>&#x20;
+{% endhint %}
 
 
 
@@ -374,6 +376,8 @@ risk remediation strategies
 
 
 ## Documentation
+
+❗ Documentation has significant importance in **gaining approval** & ensuring project success.
 
 {% hint style="success" %}
 In blockchain, the difference between chaos and clarity is <mark style="color:$success;">**a well-written blueprint**</mark>.

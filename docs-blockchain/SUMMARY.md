@@ -20,6 +20,9 @@
 * [Web 2.5](blockchain-architecture/web-2.5.md)
 * [Merkle Tree](blockchain-architecture/merkle-tree.md)
 * [Fork](blockchain-architecture/fork.md)
+* [Mempool](blockchain-architecture/mempool.md)
+* [ZKPs: Zero Knowledge Proofs](blockchain-architecture/zkps-zero-knowledge-proofs.md)
+* [Blockchain Current Trend & New Frontier](blockchain-architecture/blockchain-current-trend-and-new-frontier.md)
 
 ## Consensus
 
@@ -154,7 +157,6 @@
 ## Blockchain in Business
 
 * [Global Marketplace & Blockchain Challenges](<README (1).md>)
-* [Blockchain Current Trend](blockchain-in-business/blockchain-current-trend.md)
 * [Blockchain: Value Proposition](blockchain-in-business/blockchain-value-proposition.md)
 * [Blockchain Benefits](blockchain-in-business/blockchain-benefits.md)
 * [When to use Blockchain and avoid Blockchain?](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/README.md)
