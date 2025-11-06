@@ -20,7 +20,7 @@ enables patients to have control over their health records, granting access to h
 
 #### `Hashed Health`:
 
-An organization working to create blockchain solutions for healthcare challenges, including interoperability, claims processing, and provider credentialing
+An organization working to create blockchain solutions for healthcare challenges, including legacy system interoperability, claims processing, and provider credentialing
 
 {% embed url="https://www.hashedhealth.com/" %}
 
@@ -38,13 +38,15 @@ Collaborating with governments and healthcare providers, `Guardtime` uses blockc
 
 #### `Clinicall`:
 
-A mobile app and platform that allows users to manage their medical data securely, facilitating communication with healthcare providers
+A mobile app and platform that allows users to manage their medical data securely, facilitating communication & data sharing with healthcare providers
 
 {% embed url="https://www.clinicall.com/" %}
 
 #### `Nebula Genomics`:
 
 uses blockchain to enable individuals to control and monetize their genomic data while maintaining privacy and security
+
+* people can monetize their DNA data&#x20;
 
 {% embed url="https://nebula.org/" %}
 

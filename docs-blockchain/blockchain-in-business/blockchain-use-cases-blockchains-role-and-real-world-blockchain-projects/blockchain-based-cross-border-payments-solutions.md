@@ -10,13 +10,13 @@ icon: money-check
 
 Ripple — blockchain company that provides solutions for cross-border payments
 
-**`RippleNet`** platform aims to facilitate fast and low-cost international transactions for financial institutions using the **`XRP`** cryptocurrency as a bridge currency
+**`RippleNet`** platform aims to facilitate fast and low-cost international transactions for financial institutions using their **`XRP`** cryptocurrency as a bridge currency
 
 {% embed url="https://ripple.com/xrp/" %}
 
 #### `XLM`: `Stellar`&#x20;
 
-blockchain network focused on cross-border payments; enables the issuance and transfer of digital assets, including fiat-backed tokens, across borders with the goal of increasing financial inclusion
+blockchain network focused on cross-border payments; enables the issuance and transfer of digital assets, including **fiat-backed tokens**, across borders with the goal of increasing financial inclusion
 
 {% embed url="https://www.stellar.org/" %}
 

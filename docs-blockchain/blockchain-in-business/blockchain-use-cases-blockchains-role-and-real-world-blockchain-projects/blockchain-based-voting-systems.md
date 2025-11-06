@@ -34,7 +34,7 @@ South Korea has explored blockchain for voting in several municipalities to test
 
 #### `Sierra Leone`:
 
-In 2018, Sierra Leone used a blockchain-based voting solution developed by **`Agora`** to help verify votes in its presidential elections, aiming to enhance transparency and reduce fraud concerns
+In 2018, `Sierra Leone` used a blockchain-based voting solution developed by **`Agora`** to help verify votes in its presidential elections, aiming to enhance transparency and reduce fraud concerns
 
 {% embed url="https://www.pcmag.com/news/blockchain-startup-runs-voting-trial-during-sierra-leone-election" %}
 
@@ -46,7 +46,7 @@ In 2018, Sierra Leone used a blockchain-based voting solution developed by **`Ag
 
 #### `Brazil`:
 
-The Brazilian city of Moscow used a blockchain-based platform called **`Voatz`** to ..... citizens to participate in a public referendum
+The Brazilian city of Moscow used a blockchain-based platform called **`Voatz`** to allow their citizens to participate in a public referendum
 
 {% embed url="https://en.cryptonomist.ch/2022/08/09/brazil-voting-blockchain-future/" %}
 

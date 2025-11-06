@@ -13,6 +13,11 @@ Blockchain enables
 * providing a single source of truth
 {% endhint %}
 
+## Smart Contract Use-cases
+
+* transferring corporate bonds
+* triggering travel insurance payouts
+
 ## Blockchain in Different Sectors
 
 ### Supply Chain Management
@@ -73,13 +78,13 @@ Blockchain enables
 
 ### Digital Identity
 
-Application:
+**Application:**
 
-* identity verification
-* DID: decentralized identity
+* digital identity verification
+* **`DID`**: decentralized identity
 * **`SSI`**: Self-Sovereign Identity is a model for digital identity where individuals have full control over their data, managing it in a decentralized way without relying on a central authority
 
-Platforms:
+**Platforms:**
 
 {% content-ref url="blockchain-based-digital-identity-solutions.md" %}
 [blockchain-based-digital-identity-solutions.md](blockchain-based-digital-identity-solutions.md)
@@ -92,7 +97,7 @@ Platforms:
 **Desirable Attributes of Blockchain:**
 
 * transparency
-* immutable ledger
+* immutable ledger — tamper-proof record
 * smart contracts
 * decentralized nature — borderless
 
@@ -129,6 +134,7 @@ Platforms:
 **Application:**
 
 * **`DeFi`**: Decentralized applications &#x20;
+* cryptocurrency
 * digital currencies
 * cross-border payments
 * **on-chain vs off-chain**
@@ -144,23 +150,34 @@ Platforms:
 
 ### Civic Governance & Voting Systems&#x20;
 
-Desirable Attributes of Blockchain:
+**Desirable Attributes of Blockchain:**
 
 * transparency&#x20;
 * decentralized nature — no central control
 * security
 
-Application:
+**Role of Blockchain & Value Added:**
+
+✅ tamper-proof, auditable records
+
+* enhance security, transparency — secure transactions — reduced risk of fraud
+* eliminate voter fraud &#x20;
+* provide real-time results
+* potentially improve voter participation
+* streamline election processes
+* ensure the integrity of democratic systems
+
+**Application:**
 
 * municipal elections
-* trust in the democratic process
+* enhance trust in the democratic process/systems
 * identity verification
 
-Benefits:
+**Benefits:**
 
 * enhance transparency & security in elections
 
-Platforms:&#x20;
+**Platforms:**&#x20;
 
 {% content-ref url="blockchain-based-voting-systems.md" %}
 [blockchain-based-voting-systems.md](blockchain-based-voting-systems.md)
@@ -183,7 +200,7 @@ Platforms:&#x20;
 
 **Role of Blockchain & Value Added:**
 
-✅️ enhances security, integrity and interoperability of patient data
+✅️ enhances security, integrity and interoperability of patient data sharing among different healthcare providers
 
 * enables secure sharing of medical records
 * ensure patient privacy&#x20;
@@ -191,7 +208,7 @@ Platforms:&#x20;
 * ensure data accuracy
 * improve accessibility
 * simplifies administrative processes
-* leads to improved patient care
+* leads to improved patient care — patients can be more confident about the treatments they are receiving
 * reduced costs&#x20;
 
 **When to Avoid Blockchain:**
@@ -228,21 +245,52 @@ Platforms:&#x20;
 
 ### Real Estate
 
-Desirable Attributes of Blockchain:
+**Desirable Attributes of Blockchain:**
 
 * immutable record
-* transparency
+* transparency — audit-ability
+* security
 
-Application:
+**Nature of Use-case:**
+
+* real estate: property, lands & buildings&#x20;
+* deed ownerships
+
+**Role of Blockchain & Value Added:**
+
+✅️ ensure transparency and reduces fraud risks
+
+* provide immutable record of ownership
+* provide a tamper-proof and transparent ledger for property transactions&#x20;
+* simplifies the buying and selling process
+* reduce paperwork
+* reduces fraud
+* increases trust among parties
+* ultimately leads to more efficient and secure real estate transactions
+
+**When to Avoid Blockchain:**
+
+* when there is little need for increased transparency, trust , and efficiency in property transactions — especially in regions with well-established and efficient land registries and real estate processes
+* if the costs of implementing blockchain technology, including potential resistance to change from traditional stakeholders, outweigh the expected benefits in terms of fraud reduction and process streamlining
+
+**When to Use Blockchain:**
+
+* when there is a need for increased transparency, reduced fraud, and simplified property transactions, especially in complex real estate ecosystems
+* when enhancing the efficiency of land registries, property sales, and lease agreements as the immutable and secure ledger provided by blockchain for these processes can lead to streamlined operations and improved trust among stakeholders
+
+**Application:**
 
 * tokenizing properties — turning them into digital assets
 * provide investors, a global access to real estate markets
 * streamline transactions
 * provide immutable record of ownership
-* reduce paperwork
-* ensure transparency
+* **on-chain vs off-chain**
+  * ✅️ hybrid models with off-chain storage to keep it scalable
+  * optimizing transparency and scalability&#x20;
+    * on-chain property transactions ensure a secure and immutable ledger for trust and fraud prevention
+    * off-chain methods can help manage the intricacies of real estate operations, enhancing efficiency and reducing costs , particularly in regions with well-established property systems&#x20;
 
-Platforms:&#x20;
+**Platforms:**&#x20;
 
 {% content-ref url="blockchain-based-real-estate-transactions-solutions.md" %}
 [blockchain-based-real-estate-transactions-solutions.md](blockchain-based-real-estate-transactions-solutions.md)
@@ -252,11 +300,11 @@ Platforms:&#x20;
 
 ### Intellectual Property Protection
 
-Application:
+**Application:**
 
 * help creators protect their intellectual property rights by time-stamping and verifying their work's ownership and provenance
 
-Platforms:
+**Platforms:**
 
 {% content-ref url="blockchain-based-intellectual-property-protection-solutions.md" %}
 [blockchain-based-intellectual-property-protection-solutions.md](blockchain-based-intellectual-property-protection-solutions.md)
@@ -264,22 +312,15 @@ Platforms:
 
 
 
-## Blockchain Use-cases&#x20;
-
-<table><thead><tr><th width="185.1171875" valign="top">Use case</th><th valign="top">Value Added, When to use &#x26; avoid Blockchain, On-chain vs Off-chain solutions</th></tr></thead><tbody><tr><td valign="top">Cryptocurrencies </td><td valign="top"><ul><li>tamper-proof record </li></ul></td></tr><tr><td valign="top"><p>Real estate</p><p>(property — lands &#x26; buildings )</p><ul><li>deed ownerships</li></ul></td><td valign="top"><p>✅️ improves transparency and reduces fraud risks</p><p><strong>value added</strong></p><ul><li>provide a tamper-proof and transparent ledger for property transactions </li><li>simplifies the buying and selling process</li><li>reduces fraud</li><li>increases trust among parties</li><li>ultimately leads to more efficient and secure real estate transactions</li></ul><p><strong>when to avoid blockchain</strong> </p><ul><li>when there is little need for increased transparency, trust , and efficiency in property transactions — especially in regions with well-established and efficient land registries and real estate processes</li><li>if the costs of implementing blockchain technology, including potential resistance to change from traditional stakeholders, outweigh the expected benefits in terms of fraud reduction and process streamlining</li></ul><p><strong>when to use blockchain</strong></p><ul><li>when there is a need for increased transparency, reduced fraud, and simplified property transactions, especially in complex real estate ecosystems</li><li>when enhancing the efficiency of land registries, property sales, and lease agreements as the immutable and secure ledger provided by blockchain for these processes can lead to streamlined operations and improved trust among stakeholders</li></ul><p><strong>on-chain vs off-chain</strong></p><ul><li>✅️ hybrid models with off-chain storage to keep it scalable</li><li><p>optimizing transparency and scalability </p><ul><li>on-chain property transactions ensure a secure and immutable ledger for trust and fraud prevention</li><li>off-chain methods can help manage the intricacies of real estate operations, enhancing efficiency and reducing costs , particularly in regions with well-established property systems </li></ul></li></ul></td></tr><tr><td valign="top">Public Voting Systems</td><td valign="top"><ul><li>secure transactions — reduced risk of fraud</li></ul></td></tr></tbody></table>
 
 
 
-## Smart Contract Use-cases
-
-* transferring corporate bonds
-* triggering travel insurance payouts
 
 
 
-## Blockchain's Role
 
-<table><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top"><strong>Voting Systems</strong></td><td valign="top">----------</td><td valign="top">----------</td></tr><tr><td valign="top">tamper-proof, auditable records</td><td valign="top"><p>enhance  </p><ul><li>security</li><li>transparency</li></ul><p></p><ul><li>eliminate voter fraud  </li><li>provide real-time results</li></ul></td><td valign="top"><ul><li>potentially improve voter participation</li><li>streamline election processes</li><li>ensure the integrity of democratic systems</li></ul></td></tr></tbody></table>
+
+
 
 
 

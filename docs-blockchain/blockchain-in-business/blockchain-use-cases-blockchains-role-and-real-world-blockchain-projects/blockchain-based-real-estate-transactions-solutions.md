@@ -16,7 +16,7 @@ real estate platform that aims to simplify international real estate transaction
 
 #### `Deedcoin`:
 
-offers a platform that uses blockchain to reduce the cost of the estate agent commissions by connecting buyers and sellers directly with..... estate professionals
+offers a platform that uses blockchain to reduce the cost of the estate agent commissions by connecting buyers and sellers directly without involving real estate professionals
 
 {% embed url="https://deedcoin.com/" %}
 

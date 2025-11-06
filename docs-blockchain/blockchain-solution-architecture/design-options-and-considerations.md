@@ -30,6 +30,7 @@ icon: list-ol
     * when shared trust is critical — finance, healthcare, supply chain
   * immutable
   * transparent
+  * secure
   * transaction hashes as proofs of existence
 * **on-chain, off-chain hybrid mashups**
   1. `Database —  primary` | `Blockchain —  secondary`
@@ -78,15 +79,16 @@ seamless communication between different platforms&#x20;
 * decentralization & the need for control and centralized governance&#x20;
   * too much centralization → control by a few entities
   * excessive decentralization → inefficiencies, lack of accountability
-* on-chain & off-chain data — transparency & scalability
+* on-chain & off-chain data — transparency & scalability — data security & interoperability
   * right balance between transparency & scalability
+  * right balance between data security & interoperability
 
 {% hint style="success" %}
 #### Balancing Act
 
 The adoption of blockchain technology in many sectors required a careful balance between&#x20;
 
-* the benefits of on-chain data for security and immutability and&#x20;
+* the benefits of on-chain data for security, immutability, transparency and&#x20;
 * the practicality of off-chain solutions for scalability
 
 ❗Finding the right balance is critical for successful blockchain integration.

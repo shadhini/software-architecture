@@ -32,7 +32,7 @@ a **self-sovereign identity system** built on the `Ethereum` blockchain, enablin
 
 #### `Sovrin` Foundation:
 
-Sovrin Network — a decentralized platform for creating and managing **self-sovereign identities**, allowing individuals to control their personal data and share it selectively
+`Sovrin Network` — a decentralized platform for creating and managing **self-sovereign identities**, allowing individuals to control their personal data and share it selectively
 
 {% embed url="https://sovrin.org/" %}
 
