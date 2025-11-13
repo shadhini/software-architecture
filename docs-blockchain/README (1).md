@@ -58,3 +58,17 @@ Implications
 
 
 
+#### Fractures in Blockchain: Repairing Blockchain for a Sustainable Future
+
+* energy consumption&#x20;
+  * carbon footprints of mining operations
+* eWaste from hardware turnover
+* geopolitical tensions over cryptocurrencies&#x20;
+  * threaten financial stability
+* fragmented networks
+  * fail to communicate across ecosystems
+* quantum computing breakthroughs threatening cryptographic security
+*   ecosystems disconnected&#x20;
+
+
+

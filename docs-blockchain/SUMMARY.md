@@ -94,6 +94,8 @@
 * [Blockchain Trilemma](blockchain-solution-architecture/blockchain-trilemma/README.md)
   * [How to address Blockchain Trilemma ?](blockchain-solution-architecture/blockchain-trilemma/how-to-address-blockchain-trilemma.md)
 * [Blockchain Rope](blockchain-solution-architecture/blockchain-rope.md)
+* [Lifecycle: Blockchain Solution](blockchain-solution-architecture/lifecycle-blockchain-solution/README.md)
+  * [Needs Analysis](blockchain-solution-architecture/lifecycle-blockchain-solution/needs-analysis.md)
 * [Design Options & Considerations](blockchain-solution-architecture/design-options-and-considerations.md)
 * [🌹 Blockchain Solution Architecture](blockchain-solution-architecture/blockchain-solution-architecture.md)
 
