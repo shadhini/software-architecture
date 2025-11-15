@@ -3,6 +3,7 @@
 * [Software Architecture vs Solution Architecture](README.md)
 * [Software Engineering](software-engineering.md)
 * [SDLC: Software Development Life Cycle](sdlc-software-development-life-cycle.md)
+* [PoC vs Prototype vs MVP](poc-vs-prototype-vs-mvp.md)
 * [Software Engineering Processes](software-engineering-processes/README.md)
   * [Requirements Gathering](software-engineering-processes/requirements-gathering.md)
   * [Software Design](software-engineering-processes/software-design.md)
