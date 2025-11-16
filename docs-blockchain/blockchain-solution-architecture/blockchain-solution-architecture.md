@@ -2,16 +2,17 @@
 
 ## Blockchain Architecture
 
-blockchain — chain of blocks
+blockchain — **distributed database**; stored across multiple nodes with each holding a full copy
+
+<kbd>**blockchain — chain of blocks**</kbd>
 
 each block carries
 
-* transaction data&#x20;
+* transaction data  — set of transactions
 * a hash — immutable unless someone has breached the system&#x20;
+* a reference to the previous block —  hash of the previous block&#x20;
 
-blockchain — **distributed database**; stored across multiple nodes with each holding a full copy
-
-cryptographic hash —  hash relationship
+**cryptographic hash —  hash relationship**
 
 * core security feature of blockchain&#x20;
 * every block contains the hash of the previous block
@@ -41,13 +42,15 @@ benefits of blockchain; data integrity, security, fault tolerance, failover, red
 
 
 
-**blockchain application — 3 primary architectural layers**
+#### **blockchain application — 3 primary architectural layers**
 
 * top layer — user interface layer
 * middle layer — connect user interface to smart contracts&#x20;
 * bottom layer — smart contracts running on the blockchain network
 
 ╰┈➤ thus changing the smart contract layer will result in needing to do corresponding changes to middle layer and top layer too&#x20;
+
+&#x20;
 
 
 
@@ -69,7 +72,13 @@ Blockchain projects without **clear governance** or **realistic goals** have col
 🌹 **Success** depends on understanding the unique challenges of each industry
 {% endhint %}
 
+{% hint style="success" %}
+Every great blockchain solution starts with a foundation built on&#x20;
 
+* needs,&#x20;
+* clarity, and&#x20;
+* alignment.
+{% endhint %}
 
 {% content-ref url="design-options-and-considerations.md" %}
 [design-options-and-considerations.md](design-options-and-considerations.md)

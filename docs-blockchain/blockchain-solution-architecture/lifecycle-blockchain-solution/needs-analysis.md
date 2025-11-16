@@ -6,14 +6,42 @@ icon: magnifying-glass-chart
 
 ## Needs Analysis
 
-> Working on&#x20;
+> identifying & understanding the&#x20;
 >
-> * understanding the business impact emerging technologies such as Blockchain, Al, Augmented/Virtual Reality, and Data Science will have
->   * on their business network
->   * on their industry
->   * on the world at large&#x20;
+> * specific requirements
+> * objectives&#x20;
+> * pain points
+> * challenges
+> * opportunities&#x20;
+> * goals&#x20;
+> * key drivers (improving transparency / enhancing security / streamlining processes)
 >
-> **‼** plan is needed, but one is not yet in place
+> of a project&#x20;
+>
+> to determine how blockchain technology can effectively address them
+
+> **understanding the business impact emerging technologies such as Blockchain, Al, Augmented/Virtual Reality, and Data Science will have**
+>
+> * on their business network
+> * on their industry
+> * on the world at large&#x20;
+>
+> **‼ plan is needed, but one is not yet in place**
+
+**Involve**
+
+* in-depth discussions with stakeholders —  clients, end-users, technical teams
+* feasibility studies &#x20;
+* assessing the technical, regulatory, operational aspects that impact the project's success
+
+**Helps to**&#x20;
+
+* set clear goals and expectations — establishing a solid foundation for the entire project
+* move forward with a well-defined roadmap for the blockchain solution
+
+**@ the end of this phase**
+
+* the development team should have a comprehensive understanding of the project's scope, objectives, and constraints
 
 {% hint style="info" %}
 In many cases, **Blockchain** serves **as a foundational layer for** the use of these **other** **emerging** **technologies**.
@@ -28,15 +56,12 @@ In many cases, **Blockchain** serves **as a foundational layer for** the use of 
 
 ### Goals of Needs Analysis Phase
 
-<mark style="background-color:green;">**Goal**</mark>: to determine answers to the following questions:
+<mark style="background-color:green;">**Goal**</mark>:&#x20;
 
-* ﻿﻿Do we **understand** **blockchain** technology?
-  * ✅️ Basic understanding of Blockchain technology, and how it works
-* ﻿﻿Do we understand the **potential benefits** to our organization?
-* ﻿﻿Do we understand the **potential risks** to our organization?
-* ﻿﻿How does blockchain **align** with and support our **short, medium, and long-term business objectives**?
-  * ✅️ Short, medium, and long-term business objectives
-  * ✅️ How blockchain will support or enhance these business objectives
+* ✅️ **understand** **blockchain** technology
+* ✅️  understand the **potential benefits, risks** to the organization & SWOT analysis
+* ✅️ Short, medium, and long-term **non-technical business objectives**
+* ✅️ How blockchain will support or enhance these business objectives
 
 {% hint style="success" %}
 #### Blockchain is just an option, not a requirement!
@@ -48,7 +73,7 @@ In many cases, **Blockchain** serves **as a foundational layer for** the use of 
 
 #### **1️⃣ Review / Define business objectives**&#x20;
 
-* define/review business objectives; non-technical definitions of our goals
+* **define/review business objectives; non-technical definitions of our goals**
   * things we want to achieve in a given timeframe
   * think about ways that blockchain technology might be used to help support those objectives
 * share them with all the relevant stakeholders
@@ -70,7 +95,7 @@ Clearly define business objectives beforehand; in the absence of any technical c
 Any technology you have on your plan that can not directly or indirectly support business objectives is likely one that isn't going to provide value to the organization.
 {% endhint %}
 
-<table><thead><tr><th width="170.890625" valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top"><p><strong>Short-term</strong></p><p>business objectives</p></td><td valign="top"><ul><li>usually things we want to try to do in the immediate term</li><li>typically in the next 6-12 months</li></ul></td></tr><tr><td valign="top"><p><strong>Mid-term</strong></p><p>business objectives</p></td><td valign="top"><ul><li>usually things we want to accomplish soon, but not immediately</li><li>typically somewhere in the next 12-36 months</li></ul></td></tr><tr><td valign="top"><p><strong>Long-term</strong> </p><p>business objectives</p></td><td valign="top"><ul><li>things we want to accomplish further on the horizon</li><li>somewhere in the 36-60 month range</li></ul></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="170.890625" valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top"><p><strong>Short-term</strong></p><p>business objectives</p></td><td valign="top"><ul><li>usually things we want to try to do in the immediate term</li><li>typically in the next 6-12 months</li></ul></td></tr><tr><td valign="top"><p><strong>Mid-term</strong></p><p>business objectives</p></td><td valign="top"><ul><li>usually things we want to accomplish soon, but not immediately</li><li>typically somewhere in the next 12-36 months</li></ul></td></tr><tr><td valign="top"><p><strong>Long-term</strong> </p><p>business objectives</p></td><td valign="top"><ul><li>things we want to accomplish further on the horizon</li><li>somewhere in the 36-60 month range</li></ul></td></tr></tbody></table>
 
 
 

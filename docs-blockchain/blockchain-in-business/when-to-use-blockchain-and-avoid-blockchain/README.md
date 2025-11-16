@@ -13,13 +13,16 @@ Blockchain technology is appropriate, when
 
 ✅  a decentralized network is preferred
 
+* no single participant should have disproportional authority / power
+
 ✅  trust & transparency is required
 
-✅  need to track history/lifecycle/custody chain of assets
+✅  need to track history/lifecycle/custody chain of assets — **rich & detailed audit trails**
 
-✅ when multiple parties need a shared, immutable source of truth
+✅ when multiple parties need a shared, immutable source of truth — **systems integration — large cross-organizational audience**
 
 * participants do not trust each other — shared resources can't be kept by one party
+* integrate disparate line of business (LoB) systems across organizational boundaries — persist state across LoB applications
 
 ✅ as IT infrastructure — to developing countries where you cannot rely on critical infrastructure being available
 
@@ -28,6 +31,9 @@ Blockchain technology is appropriate, when
 ✅ connect legacy systems with a shared, permanent, decentralized audit trail
 
 ✅ all other solution possibilities other than blockchain have been ruled out
+
+* technical limitations
+* non technical (human) barriers around control, authority, power
 
 
 
@@ -48,6 +54,12 @@ Blockchain technology is not appropriate, when
 ❌ Working with **highly confidential data**, security is a **top concern**  (for the moment — due to short production lifespan of blockchain technology )
 
 ❌ requires exact timing, perfect coordination or exact synchronization
+
+❌ prefer closed-source software, tooling, components
+
+❌ solution to be used internally by a single organization
+
+❌ objectives can be achieved using conventional (pre-blockchain) technology
 
 
 
