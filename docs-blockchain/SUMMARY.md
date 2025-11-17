@@ -185,6 +185,10 @@
   * [Blockchain-Based Healthcare Data Sharing Platforms](blockchain-in-business/blockchain-use-cases-blockchains-role-and-real-world-blockchain-projects/blockchain-based-healthcare-data-sharing-platforms.md)
   * [Blockchain-Based Real Estate Transactions Solutions](blockchain-in-business/blockchain-use-cases-blockchains-role-and-real-world-blockchain-projects/blockchain-based-real-estate-transactions-solutions.md)
   * [Blockchain-Based Intellectual Property Protection Solutions](blockchain-in-business/blockchain-use-cases-blockchains-role-and-real-world-blockchain-projects/blockchain-based-intellectual-property-protection-solutions.md)
+* [Consumer vs Enterprise Blockchain Use and Adoption](blockchain-in-business/consumer-vs-enterprise-blockchain-use-and-adoption/README.md)
+  * [Blockchain Iceberg](blockchain-in-business/consumer-vs-enterprise-blockchain-use-and-adoption/blockchain-iceberg.md)
+  * [Consumer Applications](blockchain-in-business/consumer-vs-enterprise-blockchain-use-and-adoption/consumer-applications.md)
+  * [Enterprise Use Cases](blockchain-in-business/consumer-vs-enterprise-blockchain-use-and-adoption/enterprise-use-cases.md)
 
 ## Supporting Resources
 

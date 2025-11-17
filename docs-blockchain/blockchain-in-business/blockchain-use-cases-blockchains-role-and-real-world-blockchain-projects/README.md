@@ -83,6 +83,7 @@ Blockchain enables
 * digital identity verification
 * **`DID`**: decentralized identity
 * **`SSI`**: Self-Sovereign Identity is a model for digital identity where individuals have full control over their data, managing it in a decentralized way without relying on a central authority
+* credentialing — blockchain offers  transparency and security&#x20;
 
 **Platforms:**
 
@@ -139,6 +140,7 @@ Blockchain enables
 * cross-border payments
 * **on-chain vs off-chain**
   * finding the right balance between transparency & scalability
+* tokenized asset frameworks
 
 **Platforms:**&#x20;
 
