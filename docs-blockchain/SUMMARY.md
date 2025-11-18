@@ -22,6 +22,7 @@
 * [Fork](blockchain-architecture/fork.md)
 * [Mempool](blockchain-architecture/mempool.md)
 * [ZKPs: Zero Knowledge Proofs](blockchain-architecture/zkps-zero-knowledge-proofs.md)
+* [SSI: Self-Sovereign Identity](blockchain-architecture/ssi-self-sovereign-identity.md)
 * [Blockchain Current Trend & New Frontier](blockchain-architecture/blockchain-current-trend-and-new-frontier.md)
 
 ## Consensus
@@ -194,6 +195,7 @@
 
 * [Interesting Demonstrations of Blockchain](supporting-resources/interesting-demonstrations-of-blockchain.md)
 * [Development Resources, Knowledgebases, and Head-Starts](supporting-resources/development-resources-knowledgebases-and-head-starts.md)
+* [SSI: Self Sovereign Identity related Resources](supporting-resources/ssi-self-sovereign-identity-related-resources.md)
 * [Blockchain Explorers](supporting-resources/blockchain-explorers.md)
 
 ## Ethereum

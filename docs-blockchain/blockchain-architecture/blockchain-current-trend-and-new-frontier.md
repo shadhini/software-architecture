@@ -88,16 +88,9 @@ Challenges with transition to CBDCs&#x20;
 
 ### **`SSI`**: Self-Sovereign Identity
 
-**`SSI`**: Self-Sovereign Identity is a model for digital identity where individuals have full control over their data, managing it in a decentralized way without relying on a central authority
-
-* If `A` launch a social media platform and if `B` go sign up for an account there, then `A` create a user identify for `B` and in `A`'s system and `A` manages `B`'s identity
-* Unless `A` 's primary offering is identity management, `A` has to deal with something else outside his main offering&#x20;
-
-in **`SSI`**, you're in custody of your own identity.&#x20;
-
-* i.e: in the above example, `A` doesn't have to worry about `B` s identity. `B` can mange it's own identity by himself.
-
-
+{% content-ref url="ssi-self-sovereign-identity.md" %}
+[ssi-self-sovereign-identity.md](ssi-self-sovereign-identity.md)
+{% endcontent-ref %}
 
 Current Trend:
 
