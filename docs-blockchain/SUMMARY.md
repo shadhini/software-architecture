@@ -108,6 +108,7 @@
   * [PoC Design and Construction](blockchain-solution-architecture/lifecycle-blockchain-solution/poc-design-and-construction.md)
   * [Moving from PoC to MVP](blockchain-solution-architecture/lifecycle-blockchain-solution/moving-from-poc-to-mvp.md)
 * [Blockchain Network Building Blocks](blockchain-solution-architecture/blockchain-network-building-blocks.md)
+* [Blockchain Interoperability](blockchain-solution-architecture/blockchain-interoperability.md)
 * [Design Options & Considerations](blockchain-solution-architecture/design-options-and-considerations.md)
 * [🌹 Blockchain Solution Architecture](blockchain-solution-architecture/blockchain-solution-architecture.md)
 

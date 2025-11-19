@@ -84,6 +84,7 @@ icon: question
 
 * "**bookmark**" transactions or **zero knowledge proofs** are periodically left on a blockchain ledger
 * all transactions between the bookmarks (intermediary transactions) are recorded on **another blockchain/side chain**
+* main purpos&#x65;**: fscilitating interoperability**
 * e.g: `Bitcoin Lightning`
 
 

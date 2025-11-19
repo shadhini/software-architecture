@@ -71,6 +71,14 @@ icon: globe-pointer
 \
 
 
+#### The Evolution of the Internet
+
+{% content-ref url="../../blockchain-in-business/the-evolution-of-the-internet.md" %}
+[the-evolution-of-the-internet.md](../../blockchain-in-business/the-evolution-of-the-internet.md)
+{% endcontent-ref %}
+
+
+
 #### Web 2.0
 
 {% content-ref url="web-2.0.md" %}
