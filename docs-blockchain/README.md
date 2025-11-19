@@ -61,11 +61,14 @@ Consensus Mechanisms:
 
 #### Smart Contracts
 
-* **code** that is invoked when an event occurs which affects an asset we're tracking
+* self-executing: **code** that is invoked when an event occurs which affects an asset we're tracking
 * code **stored on a blockchain** that are **automatically executed** when predetermined terms and conditions are met
+  * terms directly written into code
 *   **`a class / object definition`**
 
 
+
+&#x20;
 
 
 
