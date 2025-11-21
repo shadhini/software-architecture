@@ -196,6 +196,15 @@
   * [Consumer Applications](blockchain-in-business/consumer-vs-enterprise-blockchain-use-and-adoption/consumer-applications.md)
   * [Enterprise Use Cases](blockchain-in-business/consumer-vs-enterprise-blockchain-use-and-adoption/enterprise-use-cases.md)
 
+## Blockchain Sustainability
+
+* [Blockchain Sustainability](blockchain-sustainability/blockchain-sustainability.md)
+* [Carbon Footprint](blockchain-sustainability/carbon-footprint.md)
+* [eWaste](blockchain-sustainability/ewaste.md)
+* [Geopolitical Sustainability Issues](blockchain-sustainability/geopolitical-sustainability-issues.md)
+* [Quantum Computing Threats](blockchain-sustainability/quantum-computing-threats.md)
+* [Blockchain as Currency](blockchain-sustainability/blockchain-as-currency.md)
+
 ## Supporting Resources
 
 * [Interesting Demonstrations of Blockchain](supporting-resources/interesting-demonstrations-of-blockchain.md)
