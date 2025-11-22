@@ -45,6 +45,7 @@ similar to **digital town square** — buzzing, dynamic, interactive
 Characteristics
 
 * "<kbd>**Read-Write Web**</kbd>": users could consume & produce content both
+* user-generated content, interactivity, collaboration
 
 Key Features
 
@@ -115,4 +116,8 @@ Use Cases
 * **`DAOs`**: Decentralized autonomous organizations
 {% endstep %}
 {% endstepper %}
+
+
+
+
 

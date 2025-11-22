@@ -6,72 +6,87 @@ icon: globe-pointer
 
 ## Web 2.5
 
-> **Use centralized and decentralized components together**
+> **Integrating the best of Web 2.0 with the promise of Web 3.0**
 >
-> Mashup between&#x20;
+> Use centralized and decentralized components together
 >
-> 1. centralized or web 2 technologies — Web2 UX
-> 2. decentralized or web 3 technologies
+> **Mashup** between&#x20;
+>
+> 1. \[current internet 2025] centralized or web 2 technologies&#x20;
+>    * centralized control
+>    * user-centric features, interactivity
+>    * familiar Web2 tools, Web2 UX
+> 2. \[future internet] decentralized or web 3 technologies
+>    * web 3 primitives, blockchain, decentralization
+>    * information-focused
+>    * user-driven ecosystems: user empowerment
+>    * decentralized data management, enhanced data control/security/integrity
+>    * digital signing
 >
 > **Pragmatic hybrid**: accelerate Web3 adoption while keeping Web2 usability
 
+
+
+#### Role
+
 **Web 2.5: bridge Web 2.0 → Web 3.0**
 
-{% hint style="info" %}
-**Web 2.5**
+* Intermediate / transition stage
+  * acknowledge evolving role of information and recognizes the need for new information management principals/approaches
 
-* moving from centralized control to user-driven ecosystems
-* integrating the best of Web 2.0 with the promise of Web 3.0
-* build a future that’s more secure, private, and user-focused
-{% endhint %}
+#### Goal
 
-* Role
-  * Intermediate / transition stage
+* Smooth progression to Web3
   * Gradual shift from Web2 → Web3
-  * Combines Web2 interactivity + Web3 decentralization
-    * Web2: user-centric interactivity&#x20;
-    * Web3:  decentralized, information-focused&#x20;
-  * Underlying Web3 tech integration (primitives, decentralization, blockchain, decentralized data management, digital signing)
-* Primary Goal
-  * Smooth progression to Web3
   * Stepping stone → full Web3 features
-  * Manageable, accessible evolution for users & businesses
-* Core Characteristics
-  * Hybrid architecture
-  * Progressive integration (phased adoption)
-  * Familiar Web2 tools + Web3 data/control/security
-  * Emphasis: information management, decentralization, privacy
-* User & Creator Benefits
-  * Creator empowerment: IP control, digital-asset ownership
-  * New monetization options/paths for creators
-  * Enhanced data control, privacy, secure provenance
-  * Minimal UX disruption; familiar navigation
-* Business / Brand Benefits
-  * Audience engagement boost
-  * Community building & retention
-  * IP monetization & new revenue streams
-  * Gradual adaptation → lower adoption risk
-  * Maintain Web2 familiarity while experimenting with Web3
-* Strategic Value
-  * Leverages existing Web2 infrastructure
-  * Acknowledges rising importance: data ownership, decentralization
-  * Lowers migration friction to Web3
-* Information, Security & Governance
-  * Decentralized data management
-  * Data ownership, privacy-first models
-  * Digital signing / provenance / tamper-evidence
-  * Information governance & secure identity
-* Potential Challenges & Risks
-  * Cultural shifts required (mindset change)
-  * Education & popularization of new concepts
-  * Legal / regulatory uncertainty (asset ownership, compliance)
-  * Interoperability & technical complexity
-  * Adoption friction / migration costs
+* Manageable, accessible evolution for users & businesses
 
-\
+#### Core Characteristics
 
+* Hybrid architecture
+* Progressive integration (phased adoption)
+* Familiar Web2 tools + Web3 data/control/security
+* Emphasis: information management, decentralization, privacy, user-focused, **user empowerment**
 
-#### The Evolution of the Internet
+#### User & Creator Benefits
+
+* Content Creator empowerment:  Intellectual Property control, digital-asset ownership
+* New monetization options/paths for creators
+* Enhanced data control, privacy, secure provenance
+* Minimal UX disruption; familiar navigation
+
+#### Business / Brand Benefits
+
+* Audience engagement boost
+* Community building & retention
+* IP monetization & new revenue streams
+* Gradual adaptation → lower adoption risk
+* Maintain Web2 familiarity while experimenting with Web3
+
+#### Strategic Value
+
+* Leverages existing Web2 infrastructure
+* Acknowledges rising importance: data ownership, decentralization
+* Lowers migration friction to Web3
+
+#### Information, Security & Governance
+
+* Decentralized data management
+* Data ownership, privacy-first models
+* Digital signing / provenance / tamper-evidence
+* Information governance & secure identity
+
+#### Potential Challenges & Risks
+
+* Cultural shifts required (mindset/preference change)
+* Education & popularization of new concepts
+* Legal / regulatory uncertainty (asset ownership, compliance)
+* Interoperability & technical complexity
+* Adoption friction / migration costs
+
+<br>
+
+## The Evolution of the Internet
 
 {% content-ref url="../../blockchain-in-business/the-evolution-of-the-internet.md" %}
 [the-evolution-of-the-internet.md](../../blockchain-in-business/the-evolution-of-the-internet.md)
@@ -79,7 +94,7 @@ icon: globe-pointer
 
 
 
-#### Web 2.0
+## Web 2.0
 
 {% content-ref url="web-2.0.md" %}
 [web-2.0.md](web-2.0.md)
@@ -87,7 +102,7 @@ icon: globe-pointer
 
 
 
-#### Web 3.0
+## Web 3.0
 
 {% content-ref url="web-3.0.md" %}
 [web-3.0.md](web-3.0.md)

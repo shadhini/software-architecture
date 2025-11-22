@@ -91,7 +91,7 @@ Web 3.0 envisions a future where **data** is&#x20;
 
 **`WASM`**| **Web Assembly:**
 
-* **`WASM`**: a technology that allows high-performance code to be executed securely across different platforms and browsers
+* **`WASM`**: a technology that allows high-performance code to be executed securely across different platforms and browsers and environments
 * ﻿﻿plays a role in making Web 3.0 applications more efficient and versatile
 
 

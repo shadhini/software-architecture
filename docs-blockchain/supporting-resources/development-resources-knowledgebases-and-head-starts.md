@@ -4,6 +4,125 @@ icon: rectangle-code
 
 # Development Resources, Knowledgebases, and Head-Starts
 
+## Blockchain Offering currently provided by Cloud Providers
+
+﻿﻿**Microsoft**
+
+Get started with blockchain development
+
+{% embed url="https://www.classcentral.com/course/microsoft-learn-get-started-with-blockchain-development-62401" %}
+
+﻿﻿**IBM**
+
+Get started with blockchain
+
+{% embed url="https://developer.ibm.com/learningpaths/get-started-blockchain/" %}
+
+**Amazon**
+
+Getting Started with Amazon Managed Blockchain
+
+* ﻿﻿Build a supply chain traceability solution
+* Build an NFT marketplace
+
+{% embed url="https://aws.amazon.com/managed-blockchain/getting-started/" %}
+
+## Popular Layer 0 Platforms:
+
+**Polkadot**
+
+Build on Polkadot
+
+{% embed url="https://www.polkadot.network/development/build/" %}
+
+﻿﻿**Avalanche**
+
+Avalanche Dev Docs
+
+{% embed url="https://docs.avax.network/" %}
+
+**Cardano**
+
+Cardano Developer Portal
+
+{% embed url="https://developers.cardano.org/" %}
+
+Getting Started
+
+{% embed url="https://developers.cardano.org/docs/get-started/" %}
+
+Cosmos
+
+Developer Portal
+
+{% embed url="https://tutorials.cosmos.network/" %}
+
+## Popular Layer 1 Platforms:
+
+**Ethereum - Learn By Coding**
+
+{% embed url="https://ethereum.org/en/developers/learning-tools" %}
+
+{% embed url="https://ethereum.org/en/developers/docs/" %}
+
+{% embed url="https://ethereum.org/en/developers/tutorials/" %}
+
+﻿﻿**Hyperledger Foundation Learning Resources**
+
+{% embed url="https://www.hyperledger.org/learn" %}
+
+**Hyperledger Foundation Training and Certification**
+
+{% embed url="https://www.hyperledger.org/learn/training" %}
+
+﻿﻿**Solana**
+
+Solana Development Overview
+
+{% embed url="https://solana.com/news/getting-started-with-solana-development" %}
+
+﻿﻿Developer Resources
+
+{% embed url="https://solana.com/developers" %}
+
+﻿﻿Intro to Solana for Developers
+
+{% embed url="https://www.soldev.app/course" %}
+
+Official Documentation
+
+{% embed url="https://docs.solana.com/" %}
+
+## Popular Layer 2 Platforms:
+
+**Optimism**
+
+Optimism Documents
+
+{% embed url="https://community.optimism.io/" %}
+
+﻿﻿**Arbitrum**
+
+A gentle introduction to Arbitrum
+
+{% embed url="https://docs.arbitrum.io/intro/" %}
+
+**Polygon**
+
+Polygon Developer Resources
+
+{% embed url="https://polygon.technology/developers" %}
+
+﻿﻿**Lightning Network**
+
+Lightning Development Kit
+
+{% embed url="https://lightningdevkit.org/introduction/" %}
+
+
+
+## Other
+
 #### Alchemy NFT API
 
 {% embed url="https://www.alchemy.com/nft-api" %}

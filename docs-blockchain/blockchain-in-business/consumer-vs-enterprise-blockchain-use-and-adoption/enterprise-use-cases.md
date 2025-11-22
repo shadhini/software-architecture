@@ -10,7 +10,8 @@ icon: city
 * Need for transparency between participants
 * Highly regulated / audited business processes
   * ﻿﻿Data consumption needs to be an auditable activity
-* ﻿﻿A consortium or trade group already exists
+* ﻿﻿A consortium or trade group already exists&#x20;
+  * key concern for enterprise blockchain adoption: **governance**
 * ﻿﻿Desire to automate business processes that cross organizational boundaries
 * Need for tokenized asset ownership framework
 * ﻿﻿Reduction in data redundancy
@@ -22,7 +23,7 @@ icon: city
 
 **Intercompany accounting**
 
-* Intercompany clearance and settlement often involves multiple legacy systems and many disparate data sources
+* Intercompany clearance and settlement often involves multiple legacy systems and many disparate/unconnected data sources
 * Reconciliation is frequently delayed after the transaction is complete
   * Especially for large global organizations or those with numerous legal entities
 * Blockchain can improve traceability, transparency, and auditability of intercompany transfers

@@ -18,6 +18,7 @@ icon: circle-sterling
 > * **regulation & legal framework**
 >   * clear & supportive regulations → stability
 >   * overly restrictive/uncertain regulations → hinder adoption & sustainability
+> * **long term viability concerns for crypto assets**: market saturation, regulatory measures, adoption rates
 
 {% hint style="warning" %}
 Cryptocurrencies offer growing benefits and adoption but face significant challenges that limit mainstream use, so weigh pros vs cons before using as investment or everyday currency.
@@ -32,6 +33,8 @@ Cryptocurrencies offer growing benefits and adoption but face significant challe
 * perception of cryptocurrencies as investment assets rather than currency: speculative demand → instability
 * Poor store-of-value suitability: not stable stores of value
 * Hindrance to everyday use
+
+
 
 
 

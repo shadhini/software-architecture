@@ -34,10 +34,13 @@ icon: list-ol
   * transaction hashes as proofs of existence
 * **on-chain, off-chain hybrid mashups**
   1. `Database —  primary` | `Blockchain —  secondary`
-     * data on database; proofs or markers of that data such as cryptographic hashes on blockchain
-     * sensitive data on database; transaction hashes or proofs of existence on blockchain
+     * centralized database: bulk data, sensitive data
+     * blockchain:&#x20;
+       * proofs/markers/proofs of existence/zero knowledge hash proofs of that data such as transaction hashes, cryptographic hashes
+       * use blockchain for other specific specialized transactions, verifications, queries&#x20;
+       * can be used to confirm that data hasn't been changed since it's initial commitment&#x20;
   2. `Blockchain —  primary` | `Database —  secondary`
-     * copy data from blockchain to a database for using existing tools for reporting, analysis, dashboarding
+     * copy data from blockchain to a database for using existing tools for reporting, analysis, dashboarding, query analysis cubes&#x20;
      * no need to worry about keeping database copy of the ledger in sync — we have the implicit guarantee that the original source (blockchain) is never going to change
 
 ### Guiding Principles
@@ -79,6 +82,12 @@ seamless communication between different platforms&#x20;
 * decentralization & the need for control and centralized governance&#x20;
   * too much centralization → control by a few entities
   * excessive decentralization → inefficiencies, lack of accountability
+
+{% hint style="warning" %}
+- **Centralized** components always have an **owner/administrator** with more power.
+- **Blockchain** components **do not**.
+{% endhint %}
+
 * on-chain & off-chain data — transparency & scalability — data security & interoperability
   * right balance between transparency & scalability
   * right balance between data security & interoperability

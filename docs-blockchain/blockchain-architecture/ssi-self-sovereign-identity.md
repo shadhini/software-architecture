@@ -9,6 +9,8 @@ icon: face-viewfinder
 
 > **`SSI`**: Self-Sovereign Identity is a model for digital identity where individuals have full control over their data, managing it in a decentralized way without relying on a third party central authority.
 >
+> * SSI decentralizes identity management.
+>
 > **primary goal**: digital identity verification
 
 
@@ -20,7 +22,7 @@ icon: face-viewfinder
 
 **In `SSI`, you're in custody of your own identity.**&#x20;
 
-* i.e: in the above example, `A` doesn't have to worry about `B` s identity. `B` can mange it's own identity by himself.
+* i.e: in the above example, `A` doesn't have to worry about `B` s identity. `B` can mange it's own identity by himself.  `A` only verifies `B`'s identity when needed.
 
 
 
@@ -129,6 +131,7 @@ E.g: using a zero knowledge proof, an individual could prove they are over 18 wi
 #### 1. Existence
 
 * An identity should be tied to a physical entity or individual&#x20;
+  * should not issue SSIs for virtual assets
 * Ensuring a valid connection between the ID and the entity is critical!
 
 #### 2. Control

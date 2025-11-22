@@ -208,9 +208,11 @@
 ## Supporting Resources
 
 * [Interesting Demonstrations of Blockchain](supporting-resources/interesting-demonstrations-of-blockchain.md)
+* [Whitepapers](supporting-resources/whitepapers.md)
 * [Development Resources, Knowledgebases, and Head-Starts](supporting-resources/development-resources-knowledgebases-and-head-starts.md)
 * [SSI: Self Sovereign Identity related Resources](supporting-resources/ssi-self-sovereign-identity-related-resources.md)
 * [Blockchain Explorers](supporting-resources/blockchain-explorers.md)
+* [Blockchain News](supporting-resources/blockchain-news.md)
 
 ## Ethereum
 

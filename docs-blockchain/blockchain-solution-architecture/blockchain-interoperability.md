@@ -52,20 +52,22 @@ Many blockchain networks are designed as isolated ecosystems with their own cons
 >
 > ﻿﻿✅ let us trade assets directly without a trusted third party → reduces reliance on centralized exchanges
 
+e.g: Convert _`bitcoin`_ to _`ether`_
+
 
 
 #### Pegged Sidechains
 
 > **Pegged Sidechains**:
 >
-> `Sidechains` linked to a main blockchain which allow assets to move back and forth
+> `Sidechains` linked to a main blockchain which allow assets to move back and forth between the different ledgers
 >
 > * let us move assets between different blockchains
 > * perfect for creating **bridges** between ecosystems
 >
 > main purpose: facilitating interoperability
 
-
+* With pegged sidechains, you can work extensively with digitized assets **without incurring the gas and performance costs** that you would on a main Layer 1 platform
 
 
 
@@ -91,7 +93,7 @@ Many blockchain networks are designed as isolated ecosystems with their own cons
 
 > ﻿﻿Tokens from one blockchain can be "**`wrapped`**" and represented as tokens on another blockchain
 >
-> ﻿﻿✅ Allows use and transfer across both networks
+> ﻿﻿✅ Allows use and transfer tokens/coins across both networks
 
 
 
@@ -116,17 +118,19 @@ Many blockchain networks are designed as isolated ecosystems with their own cons
 **Expanded Use Cases**
 
 * creation of more complex and feature-rich dApps
+  * applications that are compelling to use than their isolated counterparts&#x20;
 
 **Scalability**
 
 * improve overall network scalability &#x20;
 * reduce congestion
+* reduce transaction fees
 
 **Efficiency**
 
 * streamline processes that involve multiple blockchains&#x20;
 * → reduce the need for intermediaries &#x20;
-* → minimize transaction times
+* → minimize transaction times, wait times&#x20;
 
 
 
@@ -157,7 +161,7 @@ Future Outlook: rapidly evolving field
 
 #### Polkadot
 
-* **Multi-chain network** that enables different blockchains to share information and transactions through a "**`relay chain`**"
+* **Multi-chain network** that enables different blockchains to share information and process transactions collectively through a "**`relay chain`**"
 
 #### Cosmos
 
@@ -166,7 +170,7 @@ Future Outlook: rapidly evolving field
 
 #### **`ILP`**: Interledger Protocol
 
-* **Open protocol** designed to enable secure and efficient **payments** across different payment networks
+* **Open source protocol** designed to enable secure and efficient **payments** across different payment networks
 
 #### AION
 
@@ -189,20 +193,30 @@ Future Outlook: rapidly evolving field
 
 ## Integrating Blockchain with Decentralized Content Storage
 
-### `IPFS`:
+### `IPFS`: Interplanetary File System
 
 {% embed url="https://ipfs.tech/" %}
 
 > ﻿﻿**Peer to Peer Hypermedia protocol**
+>
+> — peer to peer/ decentralized content management solutions —&#x20;
 
 * ﻿﻿Decentralized content storage
-* ﻿﻿URLs are content-based, not location-based
+* identifies/﻿﻿URLs that point to the content are content-based, not location-based
   * ﻿﻿URL is a hash of the stored content
   * Content is versioned, new content will have new URL
-  * Content can be permanent
+  * Content can be made permanent
+* implemented as a network protocol
 * ﻿﻿Mainnet / Private network instances supported
+  * you can use the globally shared IPFS Mainnet that runs over the internet or you can setup your own privately managed IPFS network instances
 * ﻿﻿Can be used to store **data off-chain**
   * Keep immutability guarantee
+    * any changes/alternations to the content will result in a new URL
+    * original URL will always point to the specific version of content that it was originally be designed to point to&#x20;
+  * a component often used in blockchain solutions — when large amounts of data need to be stored off chain
+    * IPFS: large data content
+    * blockchain transaction: pointer to that content  in IPFS
+* quick & easy to set up&#x20;
 
 
 
@@ -218,13 +232,13 @@ Future Outlook: rapidly evolving field
 
 ﻿﻿**Identify Use Cases:**
 
-* Determine value-add: immutability, transparency, verification
+* Determine value-add: immutability, transparency, verification, data integrity, permanence
 * Assess need for centralized components for certain aspects
 
 **Hybrid Architectures:**
 
 * Hybrid design: on-chain + centralized components
-  * On-chain: specific transactions / verifications
+  * On-chain: specific transactions / verifications / queries
   * Centralized: databases for other data
 
 **Data Synchronization:**
@@ -264,13 +278,12 @@ Future Outlook: rapidly evolving field
 * Define maintenance model: updates, bug fixes
 * Governance for both blockchain and centralized parts
 * Permissions management
+  * changes to access or permission levels need to be consistent across centralized & decentralized components
 
 **Scalability:**
 
 * Acknowledge blockchain throughput & scalability limits
-* Offload high-frequency transactions to centralized systems
-
-
+* Offload high-frequency transactions/transaction processing to centralized systems
 
 **Cost and Efficiency:**
 
