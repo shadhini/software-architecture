@@ -31,6 +31,11 @@ Secure Key Sharing → Key Exchange Protocols
   * Simple foundations: relies on simpler methods&#x20;
   * no longer used for modern encryption
   * e.g: Caesar cipher
+
+{% content-ref url="caesar-cipher.md" %}
+[caesar-cipher.md](caesar-cipher.md)
+{% endcontent-ref %}
+
 * Modern cryptography
   * rely on complex mathematical problems
   * offer robust encryption
@@ -51,16 +56,16 @@ Secure Key Sharing → Key Exchange Protocols
 
 1. Symmetric encryption
 
-{% content-ref url="../encryption/encryption-and-decryption/symmetric-encryption.md" %}
-[symmetric-encryption.md](../encryption/encryption-and-decryption/symmetric-encryption.md)
+{% content-ref url="../../encryption/encryption-and-decryption/symmetric-encryption.md" %}
+[symmetric-encryption.md](../../encryption/encryption-and-decryption/symmetric-encryption.md)
 {% endcontent-ref %}
 
 
 
 2. Asymmetric encryption
 
-{% content-ref url="../encryption/encryption-and-decryption/asymmetric-encryption.md" %}
-[asymmetric-encryption.md](../encryption/encryption-and-decryption/asymmetric-encryption.md)
+{% content-ref url="../../encryption/encryption-and-decryption/asymmetric-encryption/" %}
+[asymmetric-encryption](../../encryption/encryption-and-decryption/asymmetric-encryption/)
 {% endcontent-ref %}
 
 
@@ -103,7 +108,7 @@ Secure Key Sharing → Key Exchange Protocols
 > * the sender signs the data with their private key
 > * the recipient verifies it using the sender's public key
 
-<figure><img src="../.gitbook/assets/digital-signatures.svg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/digital-signatures.svg" alt="" width="375"><figcaption></figcaption></figure>
 
 * ensures proof of origin
 * guarantees the integrity of the data
