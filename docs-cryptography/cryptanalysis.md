@@ -24,6 +24,12 @@ icon: magnifying-glass-chart
 * British cryptanalysts, including Alan Turing
 {% endhint %}
 
+{% hint style="info" %}
+#### **Linear and differential cryptanalysis**
+
+Mathematical methods to exploit statistical patterns in block ciphers
+{% endhint %}
+
 
 
 ### Cryptanalytic Attacks
@@ -34,7 +40,7 @@ icon: magnifying-glass-chart
 
 #### **Brute-force attacks**&#x20;
 
-> involve systematically **attempting every possible key** until finding the correct one, effectively guessing the encryption key
+> involve systematically **attempting every possible key** until finding the correct one
 
 * computationally intensive &#x20;
 * impractical for strong encryption algorithms with large key sizes
@@ -80,6 +86,8 @@ make it harder for attackers to detect patterns
 
 #### **Known-plaintext attacks**&#x20;
 
+> **using a piece of known plaintext and its corresponding ciphertext to deduce the key**
+>
 > happen when an attacker has **access to both plaintext and** its **corresponding ciphertext**
 >
 > ╰┈➤ allow them to **analyze** **how** specific **phrases are transformed** by the encryption algorithm
@@ -146,9 +154,9 @@ safeguarding sensitive information from indirect observation
 
 #### **Frequency analysis**&#x20;
 
-> occurs when attackers analyze the frequency of letters or symbols in ciphertext to guess commonly used letters
+> **identifying patterns in ciphertext to infer plaintext**
 >
-> ╰┈➤ eventually reconstructing the plaintext
+> occurs when attackers analyze the frequency of letters or symbols in ciphertext to guess commonly used letters
 
 Example:
 
@@ -163,3 +171,24 @@ randomize output to prevent frequency analysis
 
 
 
+#### **Replay attacks**
+
+> **intercepting** and **retransmitting** encrypted data to fool the system
+
+
+
+#### Man-in-the-middle attacks
+
+> intercepting and potentially altering communication between two parties
+
+
+
+#### Cryptanalytic time-memory trade-off attacks
+
+> reducing the computation time of brute-force attacks by using precomputed tables of possible keys
+
+
+
+
+
+#### &#x20;

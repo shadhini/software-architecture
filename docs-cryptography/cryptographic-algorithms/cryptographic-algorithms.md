@@ -56,16 +56,16 @@ Secure Key Sharing → Key Exchange Protocols
 
 1. Symmetric encryption
 
-{% content-ref url="../../encryption/encryption-and-decryption/symmetric-encryption/" %}
-[symmetric-encryption](../../encryption/encryption-and-decryption/symmetric-encryption/)
+{% content-ref url="../encryption/encryption-and-decryption/symmetric-encryption/" %}
+[symmetric-encryption](../encryption/encryption-and-decryption/symmetric-encryption/)
 {% endcontent-ref %}
 
 
 
 2. Asymmetric encryption
 
-{% content-ref url="../../encryption/encryption-and-decryption/asymmetric-encryption/" %}
-[asymmetric-encryption](../../encryption/encryption-and-decryption/asymmetric-encryption/)
+{% content-ref url="../encryption/encryption-and-decryption/asymmetric-encryption/" %}
+[asymmetric-encryption](../encryption/encryption-and-decryption/asymmetric-encryption/)
 {% endcontent-ref %}
 
 
@@ -108,7 +108,7 @@ Secure Key Sharing → Key Exchange Protocols
 > * the sender signs the data with their private key
 > * the recipient verifies it using the sender's public key
 
-<figure><img src="../../.gitbook/assets/digital-signatures.svg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/digital-signatures.svg" alt="" width="375"><figcaption></figcaption></figure>
 
 * ensures proof of origin
 * guarantees the integrity of the data

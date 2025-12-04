@@ -64,27 +64,11 @@ icon: scale-unbalanced-flip
 
 #### Algorithms
 
-* **`RSA`**: Rivas-Shamir Edelman
-  * widely used reliable option for many applications
-  * helpful for securing data transmission particularly for web applications
-
-{% content-ref url="../../../cryptographic-algorithms/cryptographic-algorithms/asymmetric-encryption-algorithms/rsa-rivas-shamir-edelman-algorithm.md" %}
-[rsa-rivas-shamir-edelman-algorithm.md](../../../cryptographic-algorithms/cryptographic-algorithms/asymmetric-encryption-algorithms/rsa-rivas-shamir-edelman-algorithm.md)
-{% endcontent-ref %}
-
-* **`ECC`**: Elliptic Curve Cryptography
-  * modern and efficient alternative
-  * offers same level of security as `RSA`  with smaller keys&#x20;
-  * faster & more efficient in mobile & IoT devices&#x20;
-
-{% content-ref url="../../../cryptographic-algorithms/cryptographic-algorithms/asymmetric-encryption-algorithms/ecc-elliptic-curve-cryptography.md" %}
-[ecc-elliptic-curve-cryptography.md](../../../cryptographic-algorithms/cryptographic-algorithms/asymmetric-encryption-algorithms/ecc-elliptic-curve-cryptography.md)
+{% content-ref url="../../../cryptographic-algorithms/asymmetric-encryption-algorithms/" %}
+[asymmetric-encryption-algorithms](../../../cryptographic-algorithms/asymmetric-encryption-algorithms/)
 {% endcontent-ref %}
 
 
-
-* **`DSA`**: Digital Signature Algorithm
-  * used primarily to verify the authenticity of digital documents&#x20;
 
 #### Use Cases / Applications
 

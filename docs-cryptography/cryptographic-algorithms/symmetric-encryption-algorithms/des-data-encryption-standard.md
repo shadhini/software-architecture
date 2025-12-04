@@ -19,7 +19,7 @@ icon: circle-d
 
 * operates with a **56-bit key** to encrypt data in **64-bit blocks**
 
-<figure><img src="../../../.gitbook/assets/DES.svg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/DES.svg" alt="" width="563"><figcaption></figcaption></figure>
 
 **Stage 1: Initial permutation**
 

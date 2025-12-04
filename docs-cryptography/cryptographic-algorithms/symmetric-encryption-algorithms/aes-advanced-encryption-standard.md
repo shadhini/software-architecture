@@ -27,7 +27,7 @@ Serves as the **global primary symmetric encryption standard**.
 with same plaintext, same encryption algorithm, same encryption key.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/AES.svg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/AES.svg" alt="" width="563"><figcaption></figcaption></figure>
 
 **Stage 1: Key expansion**
 
@@ -58,7 +58,7 @@ with same plaintext, same encryption algorithm, same encryption key.
 
 * highly secure with sufficient key lengths
   * no known practical attacks when used with sufficient key lengths&#x20;
-* resitant to attacks — due to complex substitutions & permutations&#x20;
+* resistant to attacks — due to complex substitutions & permutations&#x20;
 
 
 
@@ -72,17 +72,6 @@ with same plaintext, same encryption algorithm, same encryption key.
 * handles large volumes of data efficiently&#x20;
 
 
-
-### Use cases of AES
-
-high speed applications
-
-* Data protection
-  * encrypts data in secure storage solutions — hard drives, cloud storage
-* Internet protocols
-  * secures **`SSL`/`TLS` and `VPN` traffic**
-* Mobile and IoT Devices&#x20;
-  * optimize performance of AES supports secure data transmission in resource-constrained environments
 
 
 
