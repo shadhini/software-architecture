@@ -37,8 +37,8 @@ icon: binary-lock
 
 #### Symmetric Encryption
 
-{% content-ref url="symmetric-encryption.md" %}
-[symmetric-encryption.md](symmetric-encryption.md)
+{% content-ref url="symmetric-encryption/" %}
+[symmetric-encryption](symmetric-encryption/)
 {% endcontent-ref %}
 
 #### Asymmetric Encryption
@@ -49,7 +49,7 @@ icon: binary-lock
 
 #### Comparison: Symmetric Vs Asymmetric Cryptography
 
-<table><thead><tr><th width="165.171875" valign="top">Aspect</th><th valign="top">Symmetric Cryptography</th><th valign="top">Asymmetric Cryptography</th></tr></thead><tbody><tr><td valign="top">Key requirement</td><td valign="top">single shared key</td><td valign="top">pair of keys (public &#x26; private)</td></tr><tr><td valign="top">Encryption speed</td><td valign="top">fast &#x26; efficient</td><td valign="top">slow</td></tr><tr><td valign="top">Ideal use cases</td><td valign="top"><ul><li>bulk encryption</li><li>real-time data</li></ul></td><td valign="top"><ul><li>key exchange</li><li>digital signatures</li></ul></td></tr><tr><td valign="top">Key distribution</td><td valign="top">requires secure sharing</td><td valign="top">public keys can be freely distributed</td></tr></tbody></table>
+<table><thead><tr><th width="165.171875" valign="top">Aspect</th><th valign="top">Symmetric Cryptography</th><th valign="top">Asymmetric Cryptography</th></tr></thead><tbody><tr><td valign="top">Key requirement</td><td valign="top"><p>single shared key </p><ul><li>requires careful management of the shared key to stay secure</li></ul></td><td valign="top"><p>pair of keys (public &#x26; private) </p><ul><li>avoid key compromise</li></ul></td></tr><tr><td valign="top">Encryption speed</td><td valign="top">fast &#x26; efficient</td><td valign="top">slow</td></tr><tr><td valign="top">Ideal use cases</td><td valign="top"><ul><li>bulk encryption</li><li>real-time data</li></ul></td><td valign="top"><ul><li>key exchange</li><li>digital signatures</li></ul></td></tr><tr><td valign="top">Key distribution</td><td valign="top">requires secure sharing</td><td valign="top">public keys can be freely distributed</td></tr></tbody></table>
 
 
 

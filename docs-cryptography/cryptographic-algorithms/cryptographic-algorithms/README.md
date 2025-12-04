@@ -56,8 +56,8 @@ Secure Key Sharing → Key Exchange Protocols
 
 1. Symmetric encryption
 
-{% content-ref url="../../encryption/encryption-and-decryption/symmetric-encryption.md" %}
-[symmetric-encryption.md](../../encryption/encryption-and-decryption/symmetric-encryption.md)
+{% content-ref url="../../encryption/encryption-and-decryption/symmetric-encryption/" %}
+[symmetric-encryption](../../encryption/encryption-and-decryption/symmetric-encryption/)
 {% endcontent-ref %}
 
 

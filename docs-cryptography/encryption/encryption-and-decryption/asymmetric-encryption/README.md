@@ -88,8 +88,8 @@ icon: scale-unbalanced-flip
 
 #### Use Cases / Applications
 
-{% content-ref url="use-cases-applications.md" %}
-[use-cases-applications.md](use-cases-applications.md)
+{% content-ref url="asymmetric-encryption-use-cases-applications.md" %}
+[asymmetric-encryption-use-cases-applications.md](asymmetric-encryption-use-cases-applications.md)
 {% endcontent-ref %}
 
 &#x20;
