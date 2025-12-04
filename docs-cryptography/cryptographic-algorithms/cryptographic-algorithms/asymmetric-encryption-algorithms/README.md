@@ -23,8 +23,8 @@ icon: scale-unbalanced-flip
 * offers same level of security as `RSA`  with smaller keys&#x20;
 * faster & more efficient in mobile & IoT devices&#x20;
 
-{% content-ref url="ecc-elliptic-curve-cryptography.md" %}
-[ecc-elliptic-curve-cryptography.md](ecc-elliptic-curve-cryptography.md)
+{% content-ref url="../../asymmetric-encryption-algorithms/ecc-elliptic-curve-cryptography.md" %}
+[ecc-elliptic-curve-cryptography.md](../../asymmetric-encryption-algorithms/ecc-elliptic-curve-cryptography.md)
 {% endcontent-ref %}
 
 

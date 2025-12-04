@@ -37,8 +37,6 @@ icon: registered
 
 * Recipient uses private key to decrypt _ciphertext_ back to plaintext
 
-
-
 ### Strengths
 
 * widely trusted and supported&#x20;

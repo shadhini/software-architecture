@@ -64,8 +64,8 @@ icon: scale-unbalanced-flip
 
 #### Algorithms
 
-{% content-ref url="../../../cryptographic-algorithms/asymmetric-encryption-algorithms/" %}
-[asymmetric-encryption-algorithms](../../../cryptographic-algorithms/asymmetric-encryption-algorithms/)
+{% content-ref url="../../../cryptographic-algorithms/cryptographic-algorithms/asymmetric-encryption-algorithms/" %}
+[asymmetric-encryption-algorithms](../../../cryptographic-algorithms/cryptographic-algorithms/asymmetric-encryption-algorithms/)
 {% endcontent-ref %}
 
 

@@ -27,7 +27,7 @@ Serves as the **global primary symmetric encryption standard**.
 with same plaintext, same encryption algorithm, same encryption key.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/AES.svg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AES.svg" alt="" width="563"><figcaption></figcaption></figure>
 
 **Stage 1: Key expansion**
 

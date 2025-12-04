@@ -40,8 +40,8 @@ icon: scale-balanced
 
 #### Algorithms&#x20;
 
-{% content-ref url="../../../cryptographic-algorithms/symmetric-encryption-algorithms/" %}
-[symmetric-encryption-algorithms](../../../cryptographic-algorithms/symmetric-encryption-algorithms/)
+{% content-ref url="../../../cryptographic-algorithms/cryptographic-algorithms/symmetric-encryption-algorithms/" %}
+[symmetric-encryption-algorithms](../../../cryptographic-algorithms/cryptographic-algorithms/symmetric-encryption-algorithms/)
 {% endcontent-ref %}
 
 

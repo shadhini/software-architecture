@@ -32,8 +32,8 @@ Secure Key Sharing → Key Exchange Protocols
   * no longer used for modern encryption
   * e.g: Caesar cipher
 
-{% content-ref url="caesar-cipher.md" %}
-[caesar-cipher.md](caesar-cipher.md)
+{% content-ref url="cryptographic-algorithms/caesar-cipher.md" %}
+[caesar-cipher.md](cryptographic-algorithms/caesar-cipher.md)
 {% endcontent-ref %}
 
 * Modern cryptography

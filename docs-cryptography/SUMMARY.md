@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Cryptography](README.md)
-* [Cryptanalysis](cryptanalysis.md)
+* [Cryptanalysis](cryptographic-algorithms/cryptanalysis.md)
 
 ## Encryption
 
@@ -15,13 +15,13 @@
 ## Cryptographic Algorithms
 
 * [Cryptographic Algorithms](cryptographic-algorithms/cryptographic-algorithms.md)
-* [Caesar cipher](cryptographic-algorithms/caesar-cipher.md)
-* [Asymmetric Encryption Algorithms](cryptographic-algorithms/asymmetric-encryption-algorithms/README.md)
-  * [RSA: Rivas-Shamir Edelman Algorithm](cryptographic-algorithms/asymmetric-encryption-algorithms/rsa-rivas-shamir-edelman-algorithm.md)
+* [Caesar cipher](cryptographic-algorithms/cryptographic-algorithms/caesar-cipher.md)
+* [Asymmetric Encryption Algorithms](cryptographic-algorithms/cryptographic-algorithms/asymmetric-encryption-algorithms/README.md)
+  * [RSA: Rivas-Shamir Edelman Algorithm](cryptographic-algorithms/cryptographic-algorithms/asymmetric-encryption-algorithms/rsa-rivas-shamir-edelman-algorithm.md)
   * [ECC: Elliptic Curve Cryptography](cryptographic-algorithms/asymmetric-encryption-algorithms/ecc-elliptic-curve-cryptography.md)
-* [Symmetric Encryption Algorithms](cryptographic-algorithms/symmetric-encryption-algorithms/README.md)
+* [Symmetric Encryption Algorithms](cryptographic-algorithms/cryptographic-algorithms/symmetric-encryption-algorithms/README.md)
   * [DES: Data Encryption Standard](cryptographic-algorithms/symmetric-encryption-algorithms/des-data-encryption-standard.md)
-  * [AES: Advanced Encryption Standard](cryptographic-algorithms/symmetric-encryption-algorithms/aes-advanced-encryption-standard.md)
+  * [AES: Advanced Encryption Standard](cryptographic-algorithms/cryptographic-algorithms/symmetric-encryption-algorithms/aes-advanced-encryption-standard.md)
 * [Key Exchange Protocols](cryptographic-algorithms/key-exchange-protocols/README.md)
   * [DH: Diffie-Hellman Key Exchange Protocol](cryptographic-algorithms/key-exchange-protocols/dh-diffie-hellman-key-exchange-protocol.md)
   * [ECDH: Elliptic Curve Diffie-Hellman Protocol](cryptographic-algorithms/key-exchange-protocols/ecdh-elliptic-curve-diffie-hellman-protocol.md)
