@@ -1,4 +1,4 @@
-# RSA with OpenSSL
+# RSA using OpenSSL
 
 
 Generata RSA key pair

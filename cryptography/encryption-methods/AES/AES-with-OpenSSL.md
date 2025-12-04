@@ -1,4 +1,4 @@
-# AES with OpenSSL
+# AES using OpenSSL
 
 ## Step 1: Generate an AES Encryption Key
 create a 256-bit AES key
