@@ -16,8 +16,6 @@ Particularly useful for **secure communications** & **key exchange**.
 
 ### **Secure communication: `SSL`** **&** **`TLS`**
 
-> Secure Sockets Layer & Transport Layer Security protocols (successor of SSL)
-
 #### **How it works:**&#x20;
 
 * When a client (such as a browser) connects to a secure server, the server shares its public key through an SSL/TLS certificate

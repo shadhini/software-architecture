@@ -4,7 +4,13 @@ icon: square-sliders
 
 # Key Management
 
-## Symmetric key management
+## Key Management
+
+> Key management: generating, storing, distributing, rotating, revoking encryption keys
+
+
+
+## Symmetric Key Management
 
 * computationally efficient
 * challenges in key management: secure key distribution and storage
@@ -56,7 +62,7 @@ icon: square-sliders
 
 
 
-## Asymmetric key management
+## Asymmetric Key Management
 
 * simplifies key distribution&#x20;
 * but introduces key authentication and trust management complexities
