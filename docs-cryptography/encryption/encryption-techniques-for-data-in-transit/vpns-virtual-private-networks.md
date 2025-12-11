@@ -18,6 +18,8 @@ icon: arrow-down-up-lock
 
 ### Mode of Operation
 
+<figure><img src="../../.gitbook/assets/VPN.svg" alt="" width="563"><figcaption></figcaption></figure>
+
 * establishes an encrypted connection between devices&#x20;
   * using `IPsec` or `L2TP`: Layer2 Tunneling Protocol or `OpenVPN`&#x20;
 * the encryption makes it appear like that data is being transmitted over a private network; even though it is sent across a public one

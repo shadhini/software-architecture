@@ -121,3 +121,30 @@ icon: square-sliders
 
 
 
+
+
+## `KMS`: Key Management Systems
+
+centralized solution for key management
+
+#### Core functions of KMS
+
+1. **Key generation**:&#x20;
+   * uses `RNG`s: strong random number generators — make keys unpredictable
+2. **Key distribution**:&#x20;
+   * distribution to authorized systems/users
+   * use encrypted communication channels —  prevent interception
+3. **Key storage**:&#x20;
+   * use encryption, access control mechanisms&#x20;
+   * ensure keys are only accessible to authorized entities
+4. **Key rotation and expiry**:&#x20;
+   * Automates key rotation based on defined policies
+   * reducing the risk of compromise from long-term key usage.&#x20;
+   * Expiry dates are enforced to ensure old keys are no longer used.
+5. **Key backup and recovery**:&#x20;
+   * Provides secure backup solutions to prevent key loss and ensure quick recovery in case of corruption or accidental deletion.
+6. **Key revocation**:&#x20;
+   1. Supports immediate revocation of compromised keys and ensures all dependent systems are notified of the revocation.
+7. **Audit and monitoring**:&#x20;
+   1. Logs all key-related activities, allowing for detailed audits and continuous monitoring to detect anomalies or unauthorized access.
+

@@ -16,6 +16,8 @@ icon: router
 
 ### Mode of Operation
 
+<figure><img src="../../.gitbook/assets/IPsec-tunnel-mode.svg" alt="" width="563"><figcaption></figcaption></figure>
+
 * operates at the network layer&#x20;
 * establishes a secure channel between devices — known as VPN: Virtual Private Network
 * authenticates and encrypts each IP packet&#x20;
