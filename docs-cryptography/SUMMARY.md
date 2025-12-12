@@ -10,12 +10,6 @@
     * [Symmetric Encryption: Use Case / Applications](encryption/encryption-and-decryption/symmetric-encryption/symmetric-encryption-use-case-applications.md)
   * [Asymmetric Encryption](encryption/encryption-and-decryption/asymmetric-encryption/README.md)
     * [Asymmetric Encryption: Use Cases / Applications](encryption/encryption-and-decryption/asymmetric-encryption/asymmetric-encryption-use-cases-applications.md)
-* [Key Management](encryption/key-management/README.md)
-  * [Symmetric Key Management](encryption/key-management/symmetric-key-management.md)
-  * [Asymmetric Key Management](encryption/key-management/asymmetric-key-management.md)
-  * [Key Escrow](encryption/key-management/key-escrow.md)
-  * [KMS: Key Management Systems](encryption/key-management/kms-key-management-systems.md)
-  * [Security hardware for key management](encryption/key-management/security-hardware-for-key-management.md)
 * [Encryption Techniques for data at rest](encryption/encryption-techniques-for-data-at-rest/README.md)
   * [FDE: Full Disk/Device Encryption](encryption/encryption-techniques-for-data-at-rest/fde-full-disk-device-encryption.md)
   * [Partition Encryption](encryption/encryption-techniques-for-data-at-rest/partition-encryption.md)
@@ -32,6 +26,12 @@
 * [Hardware-based Encryption](encryption/hardware-based-encryption.md)
 * [Database and Record-Level Encryption](encryption/database-and-record-level-encryption/README.md)
   * [Database Encryption Techniques](encryption/database-and-record-level-encryption/database-encryption-techniques.md)
+* [Key Management](encryption/key-management/README.md)
+  * [Symmetric Key Management](encryption/key-management/symmetric-key-management.md)
+  * [Asymmetric Key Management](encryption/key-management/asymmetric-key-management.md)
+  * [Key Escrow](encryption/key-management/key-escrow.md)
+  * [KMS: Key Management Systems](encryption/key-management/kms-key-management-systems.md)
+  * [Security hardware for key management](encryption/key-management/security-hardware-for-key-management.md)
 
 ## Cryptographic Algorithms
 
@@ -47,8 +47,11 @@
   * [DH: Diffie-Hellman Key Exchange Protocol](cryptographic-algorithms/key-exchange-protocols/dh-diffie-hellman-key-exchange-protocol.md)
   * [ECDH: Elliptic Curve Diffie-Hellman Protocol](cryptographic-algorithms/key-exchange-protocols/ecdh-elliptic-curve-diffie-hellman-protocol.md)
 
+## Obfuscation
+
+* [Obfuscation Techniques](obfuscation/obfuscation-techniques.md)
+
 ***
 
-* [Glossary](glossary.md)
 * [Math Help](math-help/README.md)
   * [φ(n): Euler's Totient Function](math-help/f-n-eulers-totient-function.md)
