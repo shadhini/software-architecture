@@ -6,7 +6,7 @@ icon: arrow-down-up-lock
 
 ## `VPN`s: Virtual Private Networks
 
-> create an encrypted secure virtual tunnel for data transmission across public networks; between your device and the internet&#x20;
+> create an encrypted secure virtual tunnel for data transmission between a user's device and a remote network over the internet
 >
 > &#x20;   using tunnelling protocols, often combined with encryption
 
@@ -29,7 +29,7 @@ icon: arrow-down-up-lock
 ### Applications
 
 * widely used to enable remote work
-  * businesses commonly use VPNs to ensure secure remote access to company networks&#x20;
+  * businesses commonly use VPNs to ensure secure remote access to company/corporate networks&#x20;
 * bypass geo-restrictions
 * enhance online privacy
   * by masking users' IP addresses and encrypting their internet traffic&#x20;

@@ -6,9 +6,9 @@ icon: laptop-binary
 
 ## `FDE`: Full Disk/Device Encryption&#x20;
 
-> **encrypts entire devices: hard drives, laptops, desktops**
+> **encrypts entire physical storage device: hard drives, laptops, desktops**
 
-* protect data if a device is lost
+* protect data even if a device is lost
 * particularly beneficial for portable devices: laptops&#x20;
 * requires authentication via decryption key before access
 

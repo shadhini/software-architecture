@@ -35,6 +35,9 @@ icon: face-clouds
 >
 > * these tiny changes are so subtle that they go unnoticed, keeping the hidden information safe&#x20;
 
+* ✅ allows sensitive information to be transmitted without drawing attention
+* ❗ not foolproof and can be detected with advanced analysis techniques
+
 
 
 **Example:**
@@ -64,6 +67,7 @@ icon: face-clouds
 
 * real number/data is safely stored in a **secure token vault**
 * the **token** can be used for transactions without exposing the actual data&#x20;
+* tokens have no intrinsic value and cannot be used outside their created context
 * reduce the risk of data being stolen or misused&#x20;
 
 
@@ -91,13 +95,16 @@ Example:
 
 > **masks or changes sensitive information for testing or analysis without exposing the data**
 
-2 types of masking
+* often used in non-production environments
+  * e.g: for software testing or development
 
-* Static Data Masking
+#### 2 Types of Masking
+
+* <mark style="color:blue;">**Static Data Masking**</mark>
   * replaces real data with fake, but realistic random data&#x20;
   * e.g: replacing real names in a database with random ones&#x20;
-* Dynamic Data Masking
-  * hides sensitive dat in real time&#x20;
+* <mark style="color:blue;">**Dynamic Data Masking**</mark>
+  * hides sensitive data in real time&#x20;
   * makes data visible to authorized users, but keep it hidden from others&#x20;
 
 #### Applications

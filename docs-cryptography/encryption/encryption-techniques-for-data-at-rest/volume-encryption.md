@@ -13,6 +13,7 @@ icon: folders
 > &#x20;   can span multiple partitions
 
 * used in enterprise environments to secure shared data repositories
+* combines the flexibility of partition encryption with the convenience of securing an entire data store
 
 ### Mode of Operation
 

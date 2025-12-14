@@ -70,7 +70,7 @@ e.g:&#x20;
 
 **Certificate issuance and distribution**
 
-<figure><img src="../../.gitbook/assets/PKI.svg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/PKI.svg" alt="" width="375"><figcaption></figcaption></figure>
 
 * User (say _Bob_)  requests a certificate&#x20;
 * He submits this request to a CA, often though an RA
@@ -105,14 +105,6 @@ e.g:&#x20;
 
 
 
-### `CA`s: Certificate Authorities
-
-{% content-ref url="cas-certificate-authorities.md" %}
-[cas-certificate-authorities.md](cas-certificate-authorities.md)
-{% endcontent-ref %}
-
-
-
 ### Trust Models
 
 #### Hierarchical Model&#x20;
@@ -124,11 +116,12 @@ e.g:&#x20;
 #### Web of Trust
 
 * a decentralized model where users trust each other directly
+* trust is established based on endorsements from other users or entities
 * often used in environments like `PGP`
 
 #### Hybrid Model
 
-* combine elements of hierarchical and web od trust models
+* combine elements of hierarchical and web of trust models
 * offers flexibility and structure&#x20;
 * ideal for enterprise environments that need both organization and adaptability
 
@@ -175,14 +168,6 @@ enhanced security, trust & scalability
   * infrastructure has significant costs&#x20;
     * covering CA services, software, hardware
   * requires ongoing maintenance&#x20;
-
-
-
-### Digital Certificates
-
-{% content-ref url="digital-certificates.md" %}
-[digital-certificates.md](digital-certificates.md)
-{% endcontent-ref %}
 
 
 

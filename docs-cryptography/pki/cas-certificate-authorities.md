@@ -10,6 +10,8 @@ icon: building-flag
 >
 > * issues digital certificates as proof of trust
 > * confirms the authenticity of each certificate holder to ensure safe online interactions
+> * verifies the authenticity of public keys
+> * ensures identities requesting certificates are legitimate and that the public keys they issue can be trusted
 
 * Secure padlock = A CA protecting your data
 * analogue: digital passport office &#x20;

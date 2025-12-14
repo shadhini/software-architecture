@@ -1,10 +1,13 @@
 ---
+description: aka Public Key Encryption
 icon: scale-unbalanced-flip
 ---
 
 # Asymmetric Encryption
 
 ## Asymmetric Encryption
+
+aka <kbd>**Public Key Encryption**</kbd>
 
 <figure><img src="../../../.gitbook/assets/asymmetric-encryption.svg" alt=""><figcaption></figcaption></figure>
 

@@ -2,6 +2,7 @@
 
 * [Cryptography](README.md)
 * [Cryptanalysis](cryptographic-algorithms/cryptanalysis.md)
+* [Encoding, Hashing, Encryption, Cryptography, Steganography, Tokenization, Data Masking](encoding-hashing-encryption-cryptography-steganography-tokenization-data-masking.md)
 
 ## Encryption
 
@@ -20,9 +21,6 @@
   * [SSL: Secure Sockets Layer](encryption/encryption-techniques-for-data-in-transit/ssl-secure-sockets-layer.md)
   * [IPsec: Internet Protocol Security](encryption/encryption-techniques-for-data-in-transit/ipsec-internet-protocol-security.md)
   * [VPNs: Virtual Private Networks](encryption/encryption-techniques-for-data-in-transit/vpns-virtual-private-networks.md)
-* [PKI: Public Key Infrastructure](encryption/pki-public-key-infrastructure/README.md)
-  * [CAs: Certificate Authorities](encryption/pki-public-key-infrastructure/cas-certificate-authorities.md)
-  * [Digital Certificates](encryption/pki-public-key-infrastructure/digital-certificates.md)
 * [Hardware-based Encryption](encryption/hardware-based-encryption.md)
 * [Database and Record-Level Encryption](encryption/database-and-record-level-encryption/README.md)
   * [Database Encryption Techniques](encryption/database-and-record-level-encryption/database-encryption-techniques.md)
@@ -47,9 +45,22 @@
   * [DH: Diffie-Hellman Key Exchange Protocol](cryptographic-algorithms/key-exchange-protocols/dh-diffie-hellman-key-exchange-protocol.md)
   * [ECDH: Elliptic Curve Diffie-Hellman Protocol](cryptographic-algorithms/key-exchange-protocols/ecdh-elliptic-curve-diffie-hellman-protocol.md)
 
+## PKI
+
+* [PKI: Public Key Infrastructure](pki/pki-public-key-infrastructure.md)
+* [CAs: Certificate Authorities](pki/cas-certificate-authorities.md)
+* [Digital Certificates](pki/digital-certificates.md)
+
 ## Obfuscation
 
 * [Obfuscation Techniques](obfuscation/obfuscation-techniques.md)
+
+## Hashing
+
+* [Hashing](hashing/hashing/README.md)
+  * [MD5: Message Digest Algorithm 5](hashing/hashing/md5-message-digest-algorithm-5.md)
+  * [SHA Family Algorithms](hashing/hashing/sha-family-algorithms.md)
+* [Salting & Key Stretching](hashing/salting-and-key-stretching.md)
 
 ***
 
