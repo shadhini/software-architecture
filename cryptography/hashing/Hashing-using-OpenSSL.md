@@ -92,9 +92,9 @@ Generate HMAC
 
     openssl dgst -sha256 -hmac "supersecretkey" testfile.txt
 
-Command breakdown:
-- `openssl dgst -sha256`: Computes the SHA-256 hash
-- `-hmac "supersecretkey"`: Uses the specified key to compute the HMAC
-- `testfile.txt`: Input file to hash with HMAC
+- Command breakdown:        
+  - `openssl dgst -sha256`: Computes the SHA-256 hash
+  - `-hmac "supersecretkey"`: Uses the specified key to compute the HMAC
+  - `testfile.txt`: Input file to hash with HMAC
 
 
