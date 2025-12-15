@@ -28,7 +28,7 @@ Particularly useful for **secure communications** & **key exchange**.
 
 #### **How it works:**&#x20;
 
-<figure><img src="../../../.gitbook/assets/digital-signatures.svg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/digital-signatures.svg" alt="" width="563"><figcaption></figcaption></figure>
 
 * A digital signature is created by encrypting a message hash with the sender's private key
 * The recipient, using the sender's public key, can verify the signature by decrypting it and matching it with the computed hash of the message

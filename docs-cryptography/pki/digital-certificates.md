@@ -8,6 +8,12 @@ icon: file-certificate
 
 main formats: each format is designed for unique roles for web applications, local storage, or secure transfer
 
+> * **`.crt`**/ **`.cer`** / **`.pem`** / **`.der`** — frequently used for certificates (PEM or DER)
+>   * **`.pem`** : a generic PEM container (can contain cert, key, CSR); base64 encoding with human readable headings
+>   * **`.der`**: explicit binary DER encoding
+> * **`.key`** — private key (PEM or DER)
+> * **`.p12`** / **`.pfx`** — PKCS#12 binary bundle (cert + private key, often password-protected)
+
 * **`PEM`: Privacy-Enhanced Mail:**&#x20;
   * uses Base64 encoding with headers&#x20;
   * often applied in web servers

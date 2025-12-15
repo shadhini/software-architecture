@@ -64,5 +64,6 @@
 
 ***
 
+* [Digital Signatures](digital-signatures.md)
 * [Math Help](math-help/README.md)
   * [φ(n): Euler's Totient Function](math-help/f-n-eulers-totient-function.md)
