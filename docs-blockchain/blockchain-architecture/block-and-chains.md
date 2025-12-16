@@ -50,7 +50,7 @@ metaphor: sheet of paper
 >
 > Creating a _**mathematical dependency between all the blocks**_,&#x20;
 >
-> ╰┈➤ so that any change or alternation made on any block has a _**cascading effect**_ on every block that comes after it in the chain,&#x20;
+> ╰┈➤ so that any small change or alternation made on any block has a _**cascading effect**_ on every block that comes after it in the chain,&#x20;
 >
 > letting any observer know that something has _**likely been tampered**_ with
 
@@ -58,9 +58,26 @@ metaphor: sheet of paper
 >
 > blocks are organized sequentially to form a "chain", with each block referencing the previous one
 
+{% hint style="success" %}
+#### **Blocks** are **linked** together in a **linear sequence**, each containing a hash of the previous block.
+
+transactions are recorded in blocks linked in **chronological order**
+
+each block contains
+
+* hash of its data and
+* previous blocks hash
+
+any small modification to block content, change block's hash&#x20;
+
+╰┈➤ break the chain&#x20;
+
+╰┈➤ make tampering obvious
+{% endhint %}
 
 
-* Blocks are linked together in a linear sequence, each containing a hash of the previoud block.
+
+
 
 &#x20;
 

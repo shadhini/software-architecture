@@ -3,9 +3,11 @@
 ## Blockchain Architecture
 
 * [Blockchain](README.md)
-* [Block & Chains](blockchain-architecture/block-and-chains.md)
 * [Hash](blockchain-architecture/hash.md)
+* [Block & Chains](blockchain-architecture/block-and-chains.md)
 * [Public Key Cryptography & Wallets](blockchain-architecture/public-key-cryptography-and-wallets.md)
+* [Merkle Tree](blockchain-architecture/merkle-tree.md)
+* [How Open Public Ledger works](blockchain-architecture/how-open-public-ledger-works.md)
 * [Blockchain Features](blockchain-architecture/blockchain-features.md)
 * [Blockchain vs Database](blockchain-architecture/blockchain-vs-database.md)
 * [Types of Blockchains](blockchain-architecture/types-of-blockchains/README.md)
@@ -20,7 +22,6 @@
 * [Web 2.5](blockchain-architecture/web-2.5/README.md)
   * [Web 2.0](blockchain-architecture/web-2.5/web-2.0.md)
   * [Web 3.0](blockchain-architecture/web-2.5/web-3.0.md)
-* [Merkle Tree](blockchain-architecture/merkle-tree.md)
 * [Fork](blockchain-architecture/fork.md)
 * [Mempool](blockchain-architecture/mempool.md)
 * [ZKPs: Zero Knowledge Proofs](blockchain-architecture/zkps-zero-knowledge-proofs.md)
@@ -213,6 +214,10 @@
 * [SSI: Self Sovereign Identity related Resources](supporting-resources/ssi-self-sovereign-identity-related-resources.md)
 * [Blockchain Explorers](supporting-resources/blockchain-explorers.md)
 * [Blockchain News](supporting-resources/blockchain-news.md)
+
+## Bitcoin
+
+* [Bitcoin Architecture](bitcoin/bitcoin-architecture.md)
 
 ## Ethereum
 
