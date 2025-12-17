@@ -49,7 +49,11 @@
 
 * [PKI: Public Key Infrastructure](pki/pki-public-key-infrastructure.md)
 * [CAs: Certificate Authorities](pki/cas-certificate-authorities.md)
-* [Digital Certificates](pki/digital-certificates.md)
+* [Digital Signatures](pki/digital-signatures.md)
+* [Digital Certificates](pki/digital-certificates/README.md)
+  * [Certificate Formats and Structures](pki/digital-certificates/certificate-formats-and-structures.md)
+  * [Types of certificates based on purpose](pki/digital-certificates/types-of-certificates-based-on-purpose.md)
+  * [Certificate chains and Trust Models](pki/digital-certificates/certificate-chains-and-trust-models.md)
 
 ## Obfuscation
 
@@ -64,6 +68,5 @@
 
 ***
 
-* [Digital Signatures](digital-signatures.md)
 * [Math Help](math-help/README.md)
   * [φ(n): Euler's Totient Function](math-help/f-n-eulers-totient-function.md)

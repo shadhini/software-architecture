@@ -20,9 +20,9 @@ icon: signature-lock
 
 
 
-[#digital-signatures-and-certificates](encryption/encryption-and-decryption/asymmetric-encryption/asymmetric-encryption-use-cases-applications.md#digital-signatures-and-certificates "mention")
+[#digital-signatures-and-certificates](../encryption/encryption-and-decryption/asymmetric-encryption/asymmetric-encryption-use-cases-applications.md#digital-signatures-and-certificates "mention")
 
-<figure><img src=".gitbook/assets/digital-signatures.svg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/digital-signatures.svg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
