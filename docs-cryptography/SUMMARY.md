@@ -54,6 +54,8 @@
   * [Certificate Formats and Structures](pki/digital-certificates/certificate-formats-and-structures.md)
   * [Types of certificates based on purpose](pki/digital-certificates/types-of-certificates-based-on-purpose.md)
   * [Certificate chains and Trust Models](pki/digital-certificates/certificate-chains-and-trust-models.md)
+* [OCSP: Online Certificate Status Protocol](pki/ocsp-online-certificate-status-protocol.md)
+* [CRLs: Certificate Revocation Lists](pki/crls-certificate-revocation-lists.md)
 
 ## Obfuscation
 
