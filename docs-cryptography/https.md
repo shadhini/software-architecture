@@ -10,7 +10,11 @@ icon: globe-pointer
 
 
 
-
+* **Client request:** the user navigates to www.example.com
+* **SSL/TLS handshake:** the server responds with a digital certificate
+* **Verification:** the browser checks the certificate's validity, including whether a trusted CA issued it and if it matches the requested domain
+  * the certificate is verified against a trusted CA
+* **Secure connection:** upon successful verification, the server establishes secure communication and allows encrypted data transmission
 
 
 

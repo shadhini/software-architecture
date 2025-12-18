@@ -68,7 +68,7 @@ Issuing Digital Certificates
 * **Wildcard Certificates**
   * cover all subdomains under a main domain
   * simplify certificate management
-  * e.g: a wildcard certificate for _`*.example.com`_; where _`*`_ represents any subdomain will secure _`blog.example.com`_, _`shop.example.com`_, and others under that domain&#x20;
+  * e.g: a wildcard certificate for _`*.example.com`_; where _`*`_ represents any subdomain, it will secure _`blog.example.com`_, _`shop.example.com`_, and others under that domain&#x20;
 * **Multi-domain or SAN: Subject Alternative Name certificates**
   * secure multiple domains with a single certificate&#x20;
   * ideal for organizations managing multiple domains

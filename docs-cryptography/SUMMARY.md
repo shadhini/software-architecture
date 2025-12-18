@@ -30,6 +30,7 @@
   * [Key Escrow](encryption/key-management/key-escrow.md)
   * [KMS: Key Management Systems](encryption/key-management/kms-key-management-systems.md)
   * [Security hardware for key management](encryption/key-management/security-hardware-for-key-management.md)
+* [Quantum-Safe Encryption](encryption/quantum-safe-encryption.md)
 
 ## Cryptographic Algorithms
 
@@ -49,6 +50,7 @@
 
 * [PKI: Public Key Infrastructure](pki/pki-public-key-infrastructure.md)
 * [CAs: Certificate Authorities](pki/cas-certificate-authorities.md)
+* [RoT: Root of Trust](pki/rot-root-of-trust.md)
 * [Digital Signatures](pki/digital-signatures.md)
 * [Digital Certificates](pki/digital-certificates/README.md)
   * [Certificate Formats and Structures](pki/digital-certificates/certificate-formats-and-structures.md)
@@ -57,7 +59,8 @@
   * [Self-signed Certificates vs Third-party Certificates](pki/digital-certificates/self-signed-certificates-vs-third-party-certificates.md)
 * [OCSP: Online Certificate Status Protocol](pki/ocsp-online-certificate-status-protocol.md)
 * [CRLs: Certificate Revocation Lists](pki/crls-certificate-revocation-lists.md)
-* [RoT: Root of Trust](pki/rot-root-of-trust.md)
+* [CSR: Certificate Signing Request Generation](pki/csr-certificate-signing-request-generation.md)
+* [Wildcard Certificates](pki/wildcard-certificates.md)
 
 ## Obfuscation
 
@@ -72,6 +75,6 @@
 
 ***
 
+* [HTTPS](https.md)
 * [Math Help](math-help/README.md)
   * [φ(n): Euler's Totient Function](math-help/f-n-eulers-totient-function.md)
-* [HTTPS](https.md)

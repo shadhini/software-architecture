@@ -51,9 +51,9 @@ crucial in&#x20;
 
 ### Establishing a chain of trust
 
-RoT sets the foundation for a chain of trust that extends to other system components
+RoT sets the foundation for a chain of trust that extends to other components within the system
 
-Each component relies on RoT to function securely
+Each component relies on RoT to function securely, with trust extending through processes like secure boot
 
 #### **Process**
 
@@ -107,8 +107,8 @@ Each component relies on RoT to function securely
 
 **3. IoT Security**
 
-* RoT secure IoT devices from tampering and unauthorized access
-* Manufacturers build secure elements into their devices to ensure secure communication and firmware updates
+* Secures communication and firmware updates for IoT devices
+  * manufacturers build secure elements into their devices&#x20;
 * _Example_**:**&#x20;
   * Smart home devices use RoT to check the integrity and authenticity of firmware updates before applying them
 * _Scenario_**:**&#x20;

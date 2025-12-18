@@ -7,6 +7,8 @@ icon: salt-shaker
 ## Salting
 
 > adds an extra layer of protection by **appending a unique, random string (`salt`)** to each password before it is hashed
+>
+> * prevent **rainbow table attacks**&#x20;
 
 * makes it nearly impossible for attackers to use **rainbow tables** or other techniques to figure out the original password
 * **even for identical passwords, the unique salts create different hashes**
@@ -27,10 +29,18 @@ icon: salt-shaker
 
 ## Key Stretching
 
-> run a system through multiple rounds of hashing to strengthen the overall security
+> run a system through **multiple rounds of hashing** to strengthen the overall security
+>
+> * defend against **brute-force** and **dictionary** **attacks**
 
 * process is computationally intensive
 * increase the time and resources required to brute-force a password
+
+**Techniques:**&#x20;
+
+KDFs:Key Derivation Functions — `PBKDF2`, `bcrypt`, `scrypt`
+
+
 
 **Example: An attacker trying to brute-force a password hashed with a method that applies 4,096 rounds of hashing**
 
@@ -38,6 +48,10 @@ icon: salt-shaker
 * but it significantly slows down each guess for the attacker
 
 ╰┈➤ the additional processing time required for penetrating the password makes large-scale attacks much harder and more resource-intensive
+
+
+
+
 
 ### Benefits of key stretching
 

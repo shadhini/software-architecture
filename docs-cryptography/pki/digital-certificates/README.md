@@ -102,7 +102,7 @@ icon: file-certificate
 **Secure Web Browsing — `HTTPS`**
 
 * establishes HTTPS connections
-* verifies website authenticity
+* authenticate website via digital certificates
 * encrypts data transmission; between users and servers
 
 _Example: An online shopper; Sarah needs to enter her credit card details_

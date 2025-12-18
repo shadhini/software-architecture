@@ -8,9 +8,9 @@ icon: ballot-check
 
 > **`CRL`: Certificate Revocation List**
 >
-> a signed document created by a certificate authority (CA) that lists the serial numbers of revoked digital certificates
+> a signed document created by a certificate authority (CA) that **lists the serial numbers of revoked digital certificates** (certificates that have been invalidated before their expiration)
 >
->
+> * published by CAs
 >
 > help users and applications verify whether a certificate remains valid
 

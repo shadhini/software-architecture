@@ -56,7 +56,7 @@ icon: house-signal
   * if responder is down or unreachable → may lead to  connection failures
 * **privacy concerns**
   * OCSP requests can expose browsing activities to the OCSP responder
-  * implementations such as **`OCSP stapling`** mitigate this by allowing servers to include responses in the handshake&#x20;
+  * implementations such as **`OCSP stapling`** mitigate this by allowing servers to include responses in the SSL/TLS handshake&#x20;
 * **performance bottlenecks**
   * in high-traffic environments, OCSP responders can be overloaded
   * causes latencies or response failures&#x20;
