@@ -65,6 +65,14 @@ icon: file-certificate
 
 
 
+#### Self-signed Certificates vs Third-party Certificates
+
+{% content-ref url="self-signed-certificates-vs-third-party-certificates.md" %}
+[self-signed-certificates-vs-third-party-certificates.md](self-signed-certificates-vs-third-party-certificates.md)
+{% endcontent-ref %}
+
+
+
 #### Importance
 
 **Authentication**

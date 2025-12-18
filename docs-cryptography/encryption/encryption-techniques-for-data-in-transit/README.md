@@ -34,8 +34,6 @@ icon: arrow-down-up-lock
   * protects against interception during transmission
 * `SSL` & `TLS` are standalone protocols
 
-<div align="left"><figure><img src="../../.gitbook/assets/HTTPS.svg" alt="" width="100"><figcaption></figcaption></figure></div>
-
 {% content-ref url="tls-transport-layer-security.md" %}
 [tls-transport-layer-security.md](tls-transport-layer-security.md)
 {% endcontent-ref %}

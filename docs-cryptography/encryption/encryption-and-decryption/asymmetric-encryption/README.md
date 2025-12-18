@@ -9,7 +9,7 @@ icon: scale-unbalanced-flip
 
 aka <kbd>**Public Key Encryption**</kbd>
 
-<figure><img src="../../../.gitbook/assets/asymmetric-encryption.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/asymmetric-encryption.svg" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Mode of Operation
 
