@@ -1,4 +1,4 @@
-# Digital Signatures using OpenSSL
+# Digital Signatures and Digital Certificates using OpenSSL
 
 Generate a Private Key
 
@@ -94,6 +94,7 @@ nano ./ca/openssl.cnf
     ```text
     [ ca ]
     default_ca = CA_default
+  
     [ CA_default ]
     dir = ./ca
     database = $dir/index.txt
@@ -108,10 +109,12 @@ nano ./ca/openssl.cnf
     crl_dir = $dir/crl
     default_crl_days = 30
     crl_extensions = crl_ext
+  
     [ policy_any ]
     commonName = supplied
     stateOrProvinceName = optional
     countryName = optional
+  
     [ crl_ext ]
     authorityKeyIdentifier = keyid:always
     ```
