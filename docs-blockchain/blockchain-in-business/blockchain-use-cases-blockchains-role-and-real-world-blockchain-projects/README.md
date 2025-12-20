@@ -314,6 +314,14 @@ Blockchain enables
 
 
 
+### Cryptocurrency
+
+**Desirable Attributes of Blockchain:**
+
+* tamper-proof transactions&#x20;
+* transparent, immutable ledger — prevents double spending
+  * once confirmed, a transaction cannot be reversed or duplicated
+
 
 
 

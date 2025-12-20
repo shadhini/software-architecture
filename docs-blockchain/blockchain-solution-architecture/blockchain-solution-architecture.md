@@ -4,6 +4,9 @@
 
 blockchain — **distributed database**; stored across multiple nodes with each holding a full copy
 
+* p2p network; a network which is listening & greeting participants
+* data can be only added
+
 <kbd>**blockchain — chain of blocks**</kbd>
 
 each block carries
@@ -16,8 +19,11 @@ each block carries
 
 * core security feature of blockchain&#x20;
 * every block contains the hash of the previous block
+* links blocks together
+* tampering → break chain → cascading effect → alarm tampering
+* use hash functions: SHA-256
 
-consensus — referee
+**consensus — referee**
 
 layers function together
 
@@ -26,13 +32,23 @@ layers function together
 * network layer — P2P network, communication & transaction propagation
 * protocol layer
 
-public/private key architecture
+**public/private key architecture: asymmetric encryption**
 
-* private keys — ensures transaction integrity
+* private keys&#x20;
+  * sign transactions
+  * ensures transaction integrity, authenticity
+* public keys&#x20;
+  * receive/send funds&#x20;
+  * verify transaction signatures&#x20;
 
-smart contracts — automated condition-based transactions
+**smart contracts — automated condition-based transactions**
 
+* verifiable & tamper proof by cryptographic means; hashing, encryption
 
+**Merkle Tree**:
+
+* organize large datasets in a hierarchical hash-based structure&#x20;
+* efficient data verification within a block, without downloading the whole blockchain
 
 {% hint style="warning" %}
 benefits of blockchain; data integrity, security, fault tolerance, failover, redundancy

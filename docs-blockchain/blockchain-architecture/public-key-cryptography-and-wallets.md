@@ -4,7 +4,7 @@ icon: key
 
 # Public Key Cryptography & Wallets
 
-## Public Key Cryptography
+## Public Key Cryptography / Assymmetric Encryption
 
 > **Public Key Cryptography**:
 >
@@ -32,7 +32,7 @@ process:
 4. When Alice wants to reply, she encrypts her message using Bob’s public key.
 5. Only Bob can decrypt Alice’s message using his private key, ensuring only he can read it.
 
-
+<figure><img src="../.gitbook/assets/asymmetric-encryption-bob-alice-message-sharing.svg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -62,6 +62,8 @@ process:
 > * mathematically linked to public keys & addresses
 > * **confidential** **key** that grants control over the associated digital asset and used to authorize asset transfers&#x20;
 > * to make a transaction, a user signs it with their private key, providing ownership and authorizing the transfer
+>   * **digital signature** is created by encrypting a transaction with the private key
+>   * allows other to verify the transaction using the public key — ensure authenticity
 
 {% hint style="warning" %}
 The **security of assets** in a blockchain **relies on the safe storage of private keys**&#x20;

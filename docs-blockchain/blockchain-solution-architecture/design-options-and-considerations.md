@@ -43,6 +43,18 @@ icon: list-ol
      * copy data from blockchain to a database for using existing tools for reporting, analysis, dashboarding, query analysis cubes&#x20;
      * no need to worry about keeping database copy of the ledger in sync — we have the implicit guarantee that the original source (blockchain) is never going to change
 
+### Layer 0, 1, 2, 3 Platforms
+
+Metaphor: with respect to PC
+
+* network of blockchains ➝ Layer 0
+* OS ➝ Layer 1&#x20;
+* API ➝ Layer 2
+  * **`state channels`**:  blockchain ledger + off-chain transactional channel for bulk data
+  * **`sidechains`**: main chain for main data + cheaper, more performant side chain for supporting data
+  * **`rollups`**: main ledger with proof of what happened on side ledger + side ledger
+* Application Layer (where you are actually building) ➝ Layer 3
+
 ### Guiding Principles
 
 * Feature-Heavy vs Feature-Light

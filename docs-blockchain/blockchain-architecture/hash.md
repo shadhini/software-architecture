@@ -53,7 +53,7 @@ Often referred to as **digital thumbprints**.
 
 #### Hash Functions
 
-* SHA256 Hash
+* SHA-256 Hash
 
 
 
