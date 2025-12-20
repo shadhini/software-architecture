@@ -87,6 +87,7 @@
   * [Messaging Protocols](glossary/terms-glossary/messaging-protocols.md)
   * [Types of Legacy Systems](glossary/terms-glossary/types-of-legacy-systems.md)
   * [Java Related](glossary/terms-glossary/java-related.md)
+  * [Quantum Computing](glossary/terms-glossary/quantum-computing.md)
 * [Tech Glossary](glossary/tech-glossary/README.md)
   * [Programming Languages](glossary/tech-glossary/programming-languages.md)
   * [Code Editors, IDEs & Dev Support Tools](glossary/tech-glossary/code-editors-ides-and-dev-support-tools.md)
