@@ -6,6 +6,8 @@ icon: gears
 
 ## How open public ledger works
 
+> **allows all participants to verify and view transactions**
+
 operation of an open public ledger&#x20;
 
 ╰┈➤ relies heavily on cryptographic techniques and consensus algorithms&#x20;

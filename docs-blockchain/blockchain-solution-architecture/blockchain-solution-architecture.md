@@ -4,6 +4,9 @@
 
 blockchain — **distributed database**; stored across multiple nodes with each holding a full copy
 
+* p2p network; a network which is listening & greeting participants
+* data can be only added
+
 <kbd>**blockchain — chain of blocks**</kbd>
 
 each block carries
