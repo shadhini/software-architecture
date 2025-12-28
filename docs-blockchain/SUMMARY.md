@@ -27,6 +27,7 @@
 * [ZKPs: Zero Knowledge Proofs](blockchain-architecture/zkps-zero-knowledge-proofs.md)
 * [SSI: Self-Sovereign Identity](blockchain-architecture/ssi-self-sovereign-identity.md)
 * [DApps: Decentralized Applications](blockchain-architecture/dapps-decentralized-applications.md)
+* [Stablecoins](blockchain-architecture/stablecoins.md)
 * [Blockchain Current Trend & New Frontier](blockchain-architecture/blockchain-current-trend-and-new-frontier.md)
 
 ## Consensus
@@ -112,6 +113,7 @@
 * [Blockchain Interoperability](blockchain-solution-architecture/blockchain-interoperability.md)
 * [Design Options & Considerations](blockchain-solution-architecture/design-options-and-considerations.md)
 * [🌹 Blockchain Solution Architecture](blockchain-solution-architecture/blockchain-solution-architecture.md)
+* [Blockchain Transaction Process](blockchain-solution-architecture/blockchain-transaction-process.md)
 
 ## Blockchain Development
 

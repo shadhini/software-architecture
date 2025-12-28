@@ -6,6 +6,14 @@ icon: person-rifle
 
 ## `PBFT`: Practical Byzantine Fault Tolerance
 
+improves the robustness and performance of transaction by directing peer-to-peer messages with minimal latency
+
+* blockchain operator configures and operates the consensus network
+* to this network smart contracts are deployed and executed on peer nodes&#x20;
+* the applications are then used to invoke the smart contracts
+* PBFT has a leader, validating and non-validating **peers**
+* exact network structure depends on the consensus mechanism
+
 
 
 * **Participants:** The system consists of a primary (leader) and multiple replicas (nodes).

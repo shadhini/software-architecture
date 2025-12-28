@@ -31,13 +31,7 @@ Collectively, this **ecosystem** is called "**web3**", representing the third ph
 * let anyone create their own digital assets and decentralized applications (dapps) that run 24/7, globally
 * available to anyone with an internet connection
 
-#### Stablecoins
 
-* type of cryptocurrency designed to maintain a stable value relative to a specific asset or a basket of assets
-* unlike traditional cryptocurrencies like Bitcoin or Ethereum, which can experience significant price volatility, `stablecoins` aim to offer price stability by being pegged to assets such as:
-  * Fiat currencies (e.g., US Dollar, Euro, Yen)
-  * Commodities (e.g., gold)
-  * Other cryptocurrencies
 
 #### Ethereum Network <a href="#network" id="network"></a>
 

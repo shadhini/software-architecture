@@ -42,7 +42,26 @@ metaphor: sheet of paper
 
 * you can record anything you need&#x20;
 
+**each block carries**
 
+* transaction data  — set of transactions
+* a hash — immutable unless someone has breached the system&#x20;
+* a reference to the previous block —  hash of the previous block&#x20;
+* timestamp — approximate reasonable time, not exact — used to ensure the chronological order of transactions
+
+**timestamp of a block**
+
+* blocks include a timestamp supplied by the miner/validator’s local clock, but that timestamp is only treated as an **approximate**, not an absolute, time
+* nodes validate timestamps against protocol rules to ensure they are “**reasonable**”&#x20;
+* these checks create an allowed time window rather than a single exact instant
+
+{% hint style="warning" %}
+In a decentralized network,&#x20;
+
+╰┈➤ there's <mark style="color:$danger;">**no single "source of truth" for time**</mark>
+
+╰┈➤ and **nodes can't perfectly synchronize their clocks**
+{% endhint %}
 
 ## How are Blocks Chained Together ?
 

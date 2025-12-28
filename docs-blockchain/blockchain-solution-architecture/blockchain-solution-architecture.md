@@ -5,15 +5,37 @@
 blockchain — **distributed database**; stored across multiple nodes with each holding a full copy
 
 * p2p network; a network which is listening & greeting participants
-* data can be only added
+* data can be only added — immutable database
 
 <kbd>**blockchain — chain of blocks**</kbd>
 
-each block carries
+**each block carries**
 
 * transaction data  — set of transactions
 * a hash — immutable unless someone has breached the system&#x20;
 * a reference to the previous block —  hash of the previous block&#x20;
+* timestamp — approximate reasonable time, not exact — used to ensure the chronological order of transactions
+
+{% hint style="warning" %}
+In a decentralized network,&#x20;
+
+╰┈➤ there's <mark style="color:$danger;">**no single "source of truth" for time**</mark>
+
+╰┈➤ and **nodes can't perfectly synchronize their clocks**
+{% endhint %}
+
+**blockchain transactions**
+
+* state recorded in the database is modified/updated by **transactions**
+* say a transaction changes state of 2 variables; when transaction is applied either all changes are applied or none applied&#x20;
+* a transaction is cryptographically signed by the sender; who initiated it
+
+**wallets / public addresses**
+
+* **public address**: cryptographic identifier you share with others to receive cryptocurrency or tokens
+* **wallet address**: what you provide to someone else to receive funds, acting much like an account number in traditional finance systems
+  * it's derived from the wallet's public key and unique for each blockchain
+* In practice, a wallet can contain multiple public addresses
 
 **cryptographic hash —  hash relationship**
 
