@@ -2,9 +2,9 @@
 icon: cubes-stacked
 ---
 
-# Blockchain Network Building Blocks
+# Blockchain Network: Building Blocks
 
-#### Blockchain Network Building Blocks&#x20;
+#### Blockchain Network: Building Blocks&#x20;
 
 * **Consensus** Mechanism: govern how transactions are validated & added to the blockchain
 * Data Structure: blocks linked together in a chain&#x20;

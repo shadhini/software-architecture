@@ -6,13 +6,52 @@ icon: list-ol
 
 ## Design Options
 
-### ﻿﻿Public vs. Private vs. Hybrid Blockchain
+<table data-header-hidden><thead><tr><th></th></tr></thead><tbody><tr><td><pre><code>BLOCKCHAIN NETWORK
+--------------------
+ACCESS LAYER (Public/Private) 
+PARTICIPATION (Permissioned/Permissionless) 
+GOVERNANCE (DAO/Consortium/Hybrid)
+DATA LAYER (On-Chain/Off-Chain)
+</code></pre></td></tr><tr><td><p>When evaluating a blockchain:</p><ol><li><strong>Can anyone read the data?</strong> → <code>Public</code>/<code>Private</code></li><li><strong>Can anyone become a validator?</strong> → <code>Permissionless</code>/<code>Permissioned</code></li><li><strong>Who governs it?</strong> → <code>DAO</code>/<code>Consortium</code>/<code>Hybrid</code></li><li><strong>Does it mix public/private elements?</strong> → <code>Hybrid</code></li><li><strong>Where is data stored/processed?</strong> → <code>On-chain</code>/<code>Off-chain</code></li></ol></td></tr></tbody></table>
+
+
+
+### Public vs. Private vs. Hybrid Blockchain
 
 ✅ need to strike the right balance between private and public blockchains&#x20;
 
 * trade-offs: data privacy, control, access
 * public blockchains: expose sensitive data to the public
 * private blockchains: limited decentralization
+
+
+
+### Permissioned vs Permissionless Blockchains
+
+* permissioned
+  * **identity** of users  **known**
+  * roles and permissions can be set and enforced
+  * group consensus — customizable, configurable
+    * participants consensus model
+  * not fully decentralized — some centralized parts
+* permissionless
+  * identities are **pseudo anonymous:** transactions are linked to wallet addresses (not real names), but all actions by that address can be tracked
+  * modern platforms allow for zero knowledge proofs to leave data on-chain
+
+### Pure vs Hybrid
+
+* pure:&#x20;
+  * store everything on the permanent ledger including smart contracts
+    * updates/deletes NOT supported
+  * **waterfall** methodologies&#x20;
+*   hybrid
+
+    * combine permanent ledgers and databases together
+    * smart contracts are usually stored in a traditional database&#x20;
+      * updates/deletes are supported
+    * **agile/iterative** development cycles
+
+
 
 ### On-chain solutions vs Off-chain Solutions vs Hybrid Mashups
 
@@ -55,21 +94,23 @@ Metaphor: with respect to PC
   * **`rollups`**: main ledger with proof of what happened on side ledger + side ledger
 * Application Layer (where you are actually building) ➝ Layer 3
 
-### Guiding Principles
 
-* Feature-Heavy vs Feature-Light
-* Security vs Collaboration
-* Consistent vs Custom User Experience
 
 ### Governance Model
 
-* Consortium Model - Private blockchains
+* Consortium Model - Private permissioned blockchains
 * DAO Model - Public blockchains
 * Hybrid Model
 
 {% content-ref url="../governance/blockchain-governance-models.md" %}
 [blockchain-governance-models.md](../governance/blockchain-governance-models.md)
 {% endcontent-ref %}
+
+### Guiding Principles
+
+* Feature-Heavy vs Feature-Light
+* Security vs Collaboration
+* Consistent vs Custom User Experience
 
 
 
@@ -81,7 +122,7 @@ decide assets, participants, transactions, queries & events of the system
 
 seamless communication between different platforms&#x20;
 
-* public, private & hybrid blockchains — different blockchain platforms
+* public, private, permissioned, permissionless & hybrid blockchains — different blockchain platforms
 * blockchain and legacy system integration&#x20;
   * legacy: client-server
   * blockchain: peer-to-peer
