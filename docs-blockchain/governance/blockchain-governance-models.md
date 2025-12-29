@@ -20,9 +20,11 @@ facilitate transparent voting
 
 <mark style="color:$success;">**Consortium Model**</mark>
 
-* for private blockhains
+* for private blockchains
 * put decision-making power in the hands of a selected group of organizations
 * too centralized for a public-facing system
+
+`Hyperledger 1.0`, `R3`, `Ripple`&#x20;
 
 
 
@@ -59,4 +61,6 @@ In blockchain, the chain is only as strong as its leaders—and its followers.
 
 1. establish guiding principles for governance—ethical norms, operational rules, a fallback plan for forks
 2. implement smart contract mechanisms to automate critical governance decisions
+
+
 
