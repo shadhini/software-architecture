@@ -5,8 +5,10 @@
 * [Blockchain](README.md)
 * [Hash](blockchain-architecture/hash.md)
 * [Block & Chains](blockchain-architecture/block-and-chains.md)
-* [Public Key Cryptography & Wallets](blockchain-architecture/public-key-cryptography-and-wallets.md)
 * [Merkle Tree](blockchain-architecture/merkle-tree.md)
+* [Public Key Cryptography & Wallets](blockchain-architecture/public-key-cryptography-and-wallets/README.md)
+  * [Signing Transactions](blockchain-architecture/public-key-cryptography-and-wallets/signing-transactions.md)
+* [Blockchain Transactions](blockchain-architecture/blockchain-transactions.md)
 * [How Open Public Ledger works](blockchain-architecture/how-open-public-ledger-works.md)
 * [Blockchain Features](blockchain-architecture/blockchain-features.md)
 * [Blockchain vs Database](blockchain-architecture/blockchain-vs-database.md)
@@ -109,11 +111,10 @@
     * [Develop Product Backlog](blockchain-solution-architecture/lifecycle-blockchain-solution/use-case-identification/develop-product-backlog.md)
   * [PoC Design and Construction](blockchain-solution-architecture/lifecycle-blockchain-solution/poc-design-and-construction.md)
   * [Moving from PoC to MVP](blockchain-solution-architecture/lifecycle-blockchain-solution/moving-from-poc-to-mvp.md)
-* [Blockchain Network Building Blocks](blockchain-solution-architecture/blockchain-network-building-blocks.md)
+* [Blockchain Network: Building Blocks](blockchain-solution-architecture/blockchain-network-building-blocks.md)
 * [Blockchain Interoperability](blockchain-solution-architecture/blockchain-interoperability.md)
 * [Design Options & Considerations](blockchain-solution-architecture/design-options-and-considerations.md)
 * [🌹 Blockchain Solution Architecture](blockchain-solution-architecture/blockchain-solution-architecture.md)
-* [Blockchain Transaction Process](blockchain-solution-architecture/blockchain-transaction-process.md)
 
 ## Blockchain Development
 

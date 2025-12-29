@@ -42,14 +42,45 @@ metaphor: sheet of paper
 
 * you can record anything you need&#x20;
 
-**each block carries**
 
-* transaction data  — set of transactions
-* a hash — immutable unless someone has breached the system&#x20;
-* a reference to the previous block —  hash of the previous block&#x20;
-* timestamp — approximate reasonable time, not exact — used to ensure the chronological order of transactions
 
-**timestamp of a block**
+#### Blockchain Block Structure
+
+{% hint style="info" %}
+Each field in a block of blockchain has a predetermined size which is followed through the blockchain.
+{% endhint %}
+
+each block carries
+
+* **transaction data**  — set of transactions
+  * List of records: an identification of hashes that were included into the block's Merkle tree
+* a hash/<mark style="background-color:green;">**merkle root**</mark> — immutable unless someone has breached the system&#x20;
+  *   Merkle root: a hash built from the block's transaction identifiers&#x20;
+
+      [merkle-tree.md](merkle-tree.md "mention")
+* **previous block id**: a reference to the previous block —  hash of the previous block&#x20;
+* **timestamp** — approximate reasonable time, not exact — used to ensure the chronological order of transactions
+
+<mark style="background-color:$info;">**Header**</mark><mark style="background-color:$info;">: version information, nonce, previous block id, timestamp</mark>
+
+<figure><img src="../.gitbook/assets/block.svg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+#### Block Identifier
+
+2 types of block identifiers
+
+* <mark style="background-color:green;">**Block Header**</mark>
+  * the block header hash serves as the primary identifier (digital fingerprint) of a block in the blockchain
+* <mark style="background-color:green;">**Block Height**</mark>
+  * represents the **sequential position** or **index** of a block within the blockchain, counting from the very first block (genesis block)
+  * the first block — genesis block is of height 0
+  * block height is not stored in the block header itself—instead, each node in the network calculates it dynamically by counting blocks from the genesis block
+
+
+
+#### **Timestamp of a block**
 
 * blocks include a timestamp supplied by the miner/validator’s local clock, but that timestamp is only treated as an **approximate**, not an absolute, time
 * nodes validate timestamps against protocol rules to ensure they are “**reasonable**”&#x20;
@@ -62,6 +93,10 @@ In a decentralized network,&#x20;
 
 ╰┈➤ and **nodes can't perfectly synchronize their clocks**
 {% endhint %}
+
+
+
+
 
 ## How are Blocks Chained Together ?
 
@@ -96,7 +131,7 @@ any small modification to block content, change block's hash&#x20;
 
 
 
+<figure><img src="../.gitbook/assets/chain-of-blocks.svg" alt=""><figcaption></figcaption></figure>
 
 
-&#x20;
 
