@@ -29,6 +29,15 @@ You can build **permissioned solutions on permissionless blockchains**.
 
 
 
+## Public vs Private vs Consortium Blockchains
+
+| Public                                                                                                                                                                                                                                                | Private                                                                                                                                                                                                                                       | Consortium                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| `Bitcoin`, `Ethereum`, `Dash`, `Factom`                                                                                                                                                                                                               | `MultiChain`, `Blockstack`                                                                                                                                                                                                                    | `Hyperledger 1.0`, `R3`, `Ripple`                                                                           |
+| <p>ledgers are publicly available to verify or add blocks to the blockchain </p><ul><li>anyone can receive/send transactions  </li><li>can be audited by anyone</li><li>every node on the network has the same amount of transmission power</li></ul> | <p>closed network</p><p></p><p>only authorized users can add or verify the blocks </p><ul><li>but anyone can view it</li></ul><p>to which extent participants can view, add, verify blocks is decided by the developers of the blockchain</p> | only a predefined set of nodes has permission to write the block, since it is a semi-centralized blockchain |
+
+
+
 
 
 ## Layer 0, Layer 1, Layer 2 & Layer 3 Blockchains

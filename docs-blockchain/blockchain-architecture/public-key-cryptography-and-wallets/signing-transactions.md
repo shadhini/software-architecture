@@ -14,7 +14,7 @@ icon: signature-lock
 
 * <mark style="background-color:$info;">decrypt (sign, sender's public key) == hash(message received)</mark>
 
-<figure><img src="../../.gitbook/assets/signing-transactions.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/signing-transactions.svg" alt=""><figcaption><p>based on <a href="https://andersbrownworth.com/blockchain/public-private-keys/signatures">https://andersbrownworth.com/blockchain/public-private-keys/signatures</a></p></figcaption></figure>
 
 
 
@@ -27,17 +27,17 @@ icon: signature-lock
     * since <mark style="background-color:$info;">signature = encrypt (\[hash of original transaction data], sender's private key )</mark>
 * This mechanism **ensures only the legitimate owner** (the one who initiated the transaction) **can sign & authorize transactions** from their account
 
-<figure><img src="../../.gitbook/assets/signature-validation-2.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/signature-validation-2.svg" alt=""><figcaption><p>based on <a href="https://andersbrownworth.com/blockchain/public-private-keys/blockchain">https://andersbrownworth.com/blockchain/public-private-keys/blockchain</a></p></figcaption></figure>
 
 
 
 **blockchain of peer A & B before any tampering ...**
 
-<figure><img src="../../.gitbook/assets/signature-validation-stage1.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/signature-validation-stage1.svg" alt=""><figcaption><p>based on <a href="https://andersbrownworth.com/blockchain/public-private-keys/blockchain">https://andersbrownworth.com/blockchain/public-private-keys/blockchain</a></p></figcaption></figure>
 
 **after block 2 of peer A being tampered .....**
 
-<figure><img src="../../.gitbook/assets/signature-validation-stage2.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/signature-validation-stage2.svg" alt=""><figcaption><p>based on <a href="https://andersbrownworth.com/blockchain/public-private-keys/blockchain">https://andersbrownworth.com/blockchain/public-private-keys/blockchain</a></p></figcaption></figure>
 
 
 
@@ -45,7 +45,7 @@ icon: signature-lock
 
 * even if the tampered block of peer A is re-mind finding a new nonce and block hash, the signature of the tampered transaction remains invalid as it cannot be re evaluated as no one else other than the one who initiated this particular transaction has access to his private key&#x20;
 
-<figure><img src="../../.gitbook/assets/signature-validation-stage3.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/signature-validation-stage3.svg" alt=""><figcaption><p>based on <a href="https://andersbrownworth.com/blockchain/public-private-keys/blockchain">https://andersbrownworth.com/blockchain/public-private-keys/blockchain</a></p></figcaption></figure>
 
 
 

@@ -14,6 +14,37 @@ icon: list-ol
 * public blockchains: expose sensitive data to the public
 * private blockchains: limited decentralization
 
+### Pure vs Hybrid
+
+* pure:&#x20;
+  * store everything on the permanent ledger including smart contracts
+    * updates/deletes NOT supported
+  * **waterfall** methodologies&#x20;
+* hybrid
+  * combine permanent ledgers and databases together
+  * smart contracts are usually stored in a traditional database&#x20;
+    * updates/deletes are supported
+  * **agile/iterative** development cycles
+
+### Permissioned vs Permissionless Blockchains
+
+* permissioned
+  * **identity** of users  **known**
+  * roles and permissions can be set and enforced
+  * group consensus — customizable, configurable
+    * participants consensus model
+  * not fully decentralized — some centralized parts
+* permissionless
+  * identities are **pseudo anonymous:** transactions are linked to wallet addresses (not real names), but all actions by that address can be tracked
+  * modern platforms allow for zero knowledge proofs to leave data on-chain
+
+### Public vs Private vs Consortium Blockchains
+
+* public&#x20;
+  *
+
+
+
 ### On-chain solutions vs Off-chain Solutions vs Hybrid Mashups
 
 * off-chain:&#x20;
