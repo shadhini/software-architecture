@@ -95,12 +95,13 @@ for&#x20;
 >
 > ╰┈➤ the **only thing in the wallet is the private key**&#x20;
 
-{% hint style="info" %}
-**currency on a blockchain network**&#x20;
+{% content-ref url="../wallets.md" %}
+[wallets.md](../wallets.md)
+{% endcontent-ref %}
 
-* is virtual
-* it doesn't need to be stored anywhere
-{% endhint %}
+
+
+
 
 
 

@@ -8,6 +8,7 @@
 * [Merkle Tree](blockchain-architecture/merkle-tree.md)
 * [Public Key Cryptography & Wallets](blockchain-architecture/public-key-cryptography-and-wallets/README.md)
   * [Signing Transactions](blockchain-architecture/public-key-cryptography-and-wallets/signing-transactions.md)
+* [Wallets](blockchain-architecture/wallets.md)
 * [Blockchain Transactions](blockchain-architecture/blockchain-transactions.md)
 * [How Open Public Ledger works](blockchain-architecture/how-open-public-ledger-works.md)
 * [Blockchain Features](blockchain-architecture/blockchain-features.md)
@@ -221,6 +222,9 @@
 
 ## Bitcoin
 
+* [Bitcoin](bitcoin/bitcoin.md)
+* [Bitcoin Transactions](bitcoin/bitcoin-transactions.md)
+* [Scripts in Bitcoins](bitcoin/scripts-in-bitcoins.md)
 * [Bitcoin Architecture](bitcoin/bitcoin-architecture.md)
 
 ## Ethereum
