@@ -6,6 +6,8 @@ icon: bitcoin
 
 ## Bitcoin
 
+<kbd>**digital money**</kbd>
+
 #### 2 Major Operations
 
 1. **Transaction Management**: transferring the coins from one address to another

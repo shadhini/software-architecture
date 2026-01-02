@@ -23,7 +23,7 @@ icon: wallet
 
 #### Types of Wallets
 
-1. **Software Wallets**: installed on your computer to store your private keys
+1. **Software Wallets/Desktop Wallets**: installed on your computer to store your private keys
    * `Armory`, `Bitcoin Core`, `MultiBit HD`
 2. **Web Wallets**: online wallets; convenient as you can access your funds from any device
    * `Coinbase`, `Blockchain`, `Circle`
@@ -31,12 +31,8 @@ icon: wallet
    * `Ledger`, `Trezor`, `Opendime`
 4. **Brain Wallets**: computer creates a passphrase that user commits to memory
 5. **Mobile Wallets**: run as apps storing your private keys to pay directly from your phone
-   *   `Breadwallet`, `Mycelium`, `Bitcoin Wallet`
-
-
-
-**Paper Wallet**
-
-* a form of "cold storage" for cryptocurrencies:
-* a physical piece of paper (or other durable medium) that contains a cryptocurrency address (public key or address) and its corresponding private key printed or written on it (often also encoded as QR codes)
+   * `Breadwallet`, `Mycelium`, `Bitcoin Wallet`
+6. **Paper Wallet**
+   * a form of "cold storage" for cryptocurrencies
+   * a physical piece of paper (or other durable medium) that contains a cryptocurrency address (public key or address) and its corresponding private key printed or written on it (often also encoded as QR codes)
 

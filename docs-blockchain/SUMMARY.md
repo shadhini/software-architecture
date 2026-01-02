@@ -232,5 +232,6 @@
 ## Ethereum
 
 * [Ethereum](ethereum/ethereum.md)
+* [Bitcoin vs Ether](ethereum/bitcoin-vs-ether.md)
 * [How to use Ethereum Network](ethereum/how-to-use-ethereum-network.md)
 * [Ethereum extensions - Layer 2](ethereum/ethereum-extensions-layer-2.md)
