@@ -225,6 +225,8 @@
 * [Bitcoin](bitcoin/bitcoin.md)
 * [Bitcoin Transactions](bitcoin/bitcoin-transactions.md)
 * [Scripts in Bitcoins](bitcoin/scripts-in-bitcoins.md)
+* [Bitcoin Nodes and Network](bitcoin/bitcoin-nodes-and-network.md)
+* [Mining in Bitcoin Blockchain](bitcoin/mining-in-bitcoin-blockchain.md)
 * [Bitcoin Architecture](bitcoin/bitcoin-architecture.md)
 
 ## Ethereum

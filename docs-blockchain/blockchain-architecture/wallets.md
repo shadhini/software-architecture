@@ -35,7 +35,8 @@ icon: wallet
 
 
 
+**Paper Wallet**
 
-
-
+* a form of "cold storage" for cryptocurrencies:
+* a physical piece of paper (or other durable medium) that contains a cryptocurrency address (public key or address) and its corresponding private key printed or written on it (often also encoded as QR codes)
 

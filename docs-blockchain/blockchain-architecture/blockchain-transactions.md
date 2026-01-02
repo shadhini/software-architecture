@@ -14,16 +14,16 @@ icon: hand-holding-circle-dollar
 4. Each miner picks up the transaction and runs some computation in order to validate transaction
    * miners verify this transaction
      * e.g: check Alice's balance&#x20;
-   * then miners compete to place it into a block with other transactions
+5. Then miners compete to place it into a block with other transactions
    * to append a block to the chain of prior blocks, miners solve a math puzzle that requires a lot of computational power to solve&#x20;
      * all this computational power protects the blockchain against hackers&#x20;
    * this transaction becomes a part of the new block created
-5. Others in the network check the miner's work
-6. Once validated/verified; when a majority of miners in the network approve the block&#x20;
+6. Others in the network check the miner's work
+7. Once validated/verified; when a majority of miners in the network approve the block&#x20;
    * the miner who solved the puzzle gets paid in bitcoin
-7. New block is added to the blockchain&#x20;
+8. New block is added to the blockchain&#x20;
    * e.g: Alice transaction gets added to the blockchain along with the others
-8. Transaction is completed
+9. Transaction is completed
    * e.g: Bob receives 2 bitcoin
 
 

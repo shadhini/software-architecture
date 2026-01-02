@@ -25,7 +25,7 @@ each block produced contains new Bitcoins created from nothing&#x20;
   * @ the desired rate of one block per 10 mins —  2016 blocks should take exactly 2 weeks to mine
   * thus, if the last 2016 blocks has taken more than 2 weeks, the difficulty is reduced & vice versa
 * As of late 2025, around 19.9 million Bitcoins have already been mined — less than 1.1 million remain to be created
-* The mining process slows down over time due to periodic events called "**halvings**," which reduce the reward for mining new blocks by half about every four years.
+* The mining process slows down over time due to periodic events called "**halvings**," which **reduce the reward** for mining new blocks **by half about every four years (every 210,000 blocks)**
 * The **last Bitcoin** is expected to be mined around the year 2140
 
 
