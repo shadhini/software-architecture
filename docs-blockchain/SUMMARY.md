@@ -239,4 +239,5 @@
 * [Ethereum Ecosystem](ethereum/ethereum-ecosystem/README.md)
   * [Ethereum Tools](ethereum/ethereum-ecosystem/ethereum-tools.md)
   * [Ethereum Frameworks](ethereum/ethereum-ecosystem/ethereum-frameworks.md)
+  * [Ethereum Development Environment](ethereum/ethereum-ecosystem/ethereum-development-environment.md)
 * [Ethereum extensions - Layer 2](ethereum/ethereum-extensions-layer-2.md)
