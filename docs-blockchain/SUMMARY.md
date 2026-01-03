@@ -240,4 +240,5 @@
   * [Ethereum Tools](ethereum/ethereum-ecosystem/ethereum-tools.md)
   * [Ethereum Frameworks](ethereum/ethereum-ecosystem/ethereum-frameworks.md)
   * [Ethereum Development Environment](ethereum/ethereum-ecosystem/ethereum-development-environment.md)
+* [Ethereum DApps and DAOs](ethereum/ethereum-dapps-and-daos.md)
 * [Ethereum extensions - Layer 2](ethereum/ethereum-extensions-layer-2.md)

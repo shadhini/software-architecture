@@ -60,7 +60,18 @@ features:
 > * made up of **thousands of independent computers** around the world called nodes run by regular people
 > * nodes work together to provide financial services and digital applications to anyone, anywhere
 
+**`P2P network`**
 
+* A node is a machine running as an Ethereum client
+  * can communicate with the Ethereum blockchain network
+  * used to store the data and transfer money
+  * provide wallet functionality and allows users to perform transactions on the blockchain
+* Formed by combining one or more nodes
+* Each node contains a copy of the Blockchain
+
+
+
+Types of Network:  **`MainNet`**, **`TestNet`**, **`Private Network`**
 
 #### Ethereum Mainnet
 
@@ -68,7 +79,9 @@ features:
 
 * “**Mainnet**” helps to distinguish it from&#x20;
   * Ethereum layer 2 networks, and&#x20;
-  * test networks (testnets) which developers use to try out new features before going live.
+  * test networks (testnets) which developers use to try out new features before going live
+
+
 
 
 

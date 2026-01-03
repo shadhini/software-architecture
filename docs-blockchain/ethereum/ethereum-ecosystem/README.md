@@ -4,6 +4,14 @@ icon: ethereum
 
 # Ethereum Ecosystem
 
+## Ethereum Ecosystem
+
+<figure><img src="../../.gitbook/assets/ethereum-ecosystem.svg" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+
+
 ## Ethereum Tools
 
 {% content-ref url="ethereum-tools.md" %}
@@ -21,6 +29,14 @@ icon: ethereum
 
 
 ## Ethereum Development Environment
+
+{% content-ref url="ethereum-development-environment.md" %}
+[ethereum-development-environment.md](ethereum-development-environment.md)
+{% endcontent-ref %}
+
+
+
+
 
 
 
