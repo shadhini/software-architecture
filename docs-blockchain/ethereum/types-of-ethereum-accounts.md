@@ -42,9 +42,9 @@ icon: list-tree
 
 Ethereum’s world state stores for every account: `nonce`, `balance`, `storageRoot`, `codeHash`
 
-* CodeHash: Keccak‑256 hash (fingerprint) of an account’s runtime bytecode
-* storageRoot: a fingerprint (hash) that represents everything stored inside an account’s storage “box”
-  * 256-bit hash of the root node of the merkle tree that encodes the stored contents of the account encoded into the tree as "a mapping from the keccak 256-bit hash of the 256-bit integer keys to the RLP encoded 256-bit integer values"
+* **CodeHash**: Keccak‑256 hash (fingerprint) of an account’s runtime bytecode
+* **StorageRoot**: a fingerprint (hash) that represents everything stored inside an account’s storage “box”
+  * 256-bit hash of the root node of the merkle tree that encodes the stored contents of the account encoded into the tree as "a mapping from the **keccak** 256-bit hash of the 256-bit integer keys to the RLP encoded 256-bit integer values"
   * this tree encodes the hash of the stored contents of this account&#x20;
   * this is empty by default
 
@@ -55,4 +55,6 @@ Ethereum’s world state stores for every account: `nonce`, `balance`, `storageR
 | **Balance**: amount of wei owned by the address                                             | **Balance**: amount of wei owned by the address                                                                                                                                                                                                         |
 | **CodeHash**: hash of the empty string                                                      | <p><strong>CodeHash</strong>: Hash of the EVM code of an account, this is the code that gets executed if this address receives a message call</p><ul><li><strong>immutable</strong>: thus, it cannot be changed once the construction is done</li></ul> |
 | **StorageRoot**: the storage box is empty —  so same fixed “empty” fingerprint for all EOAs | **StorageRoot**: changes when the contract writes or clears storage                                                                                                                                                                                     |
+
+
 

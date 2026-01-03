@@ -226,14 +226,17 @@
 * [Bitcoin Transactions](bitcoin/bitcoin-transactions.md)
 * [Scripts in Bitcoins](bitcoin/scripts-in-bitcoins.md)
 * [Bitcoin Nodes and Network](bitcoin/bitcoin-nodes-and-network.md)
-* [Mining in Bitcoin Blockchain](bitcoin/mining-in-bitcoin-blockchain.md)
 * [Bitcoin Architecture](bitcoin/bitcoin-architecture.md)
+* [Mining in Bitcoin Blockchain](bitcoin/mining-in-bitcoin-blockchain.md)
 
 ## Ethereum
 
 * [Ethereum](ethereum/ethereum.md)
-* [Bitcoin vs Ether](ethereum/bitcoin-vs-ether.md)
+* [Ethereum Architecture](ethereum/ethereum-architecture.md)
 * [How to use Ethereum Network](ethereum/how-to-use-ethereum-network.md)
 * [Types of Ethereum Accounts](ethereum/types-of-ethereum-accounts.md)
 * [Smart Contracts](ethereum/smart-contracts.md)
+* [Ethereum Ecosystem](ethereum/ethereum-ecosystem/README.md)
+  * [Ethereum Tools](ethereum/ethereum-ecosystem/ethereum-tools.md)
+  * [Ethereum Frameworks](ethereum/ethereum-ecosystem/ethereum-frameworks.md)
 * [Ethereum extensions - Layer 2](ethereum/ethereum-extensions-layer-2.md)
