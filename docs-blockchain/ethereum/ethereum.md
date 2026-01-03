@@ -26,10 +26,30 @@ home to thousands of&#x20;
 Collectively, this **ecosystem** is called "**web3**", representing the third phase of the **internet centered around ownership**.
 {% endhint %}
 
-#### Smart Contracts&#x20;
+key areas of innovation:
 
-* let anyone create their own digital assets and decentralized applications (dapps) that run 24/7, globally
-* available to anyone with an internet connection
+* **Currency issuance**
+* **DAO**: Decentralized Autonomous Organizations
+* **Smart contracts**
+
+features:
+
+* corporate friendly
+* ability to process transactions fast
+* possibility of creating new **assets** on Ethereum blockchain that can be used as currency or representation of an asset, virtual share, proof of memebership or anything
+* secured
+* uncensored
+* community support
+
+
+
+#### Stablecoins
+
+* type of cryptocurrency designed to maintain a stable value relative to a specific asset or a basket of assets
+* unlike traditional cryptocurrencies like Bitcoin or Ethereum, which can experience significant price volatility, `stablecoins` aim to offer price stability by being pegged to assets such as:
+  * Fiat currencies (e.g., US Dollar, Euro, Yen)
+  * Commodities (e.g., gold)
+  * Other cryptocurrencies
 
 
 
@@ -40,7 +60,18 @@ Collectively, this **ecosystem** is called "**web3**", representing the third ph
 > * made up of **thousands of independent computers** around the world called nodes run by regular people
 > * nodes work together to provide financial services and digital applications to anyone, anywhere
 
+**`P2P network`**
 
+* A node is a machine running as an Ethereum client
+  * can communicate with the Ethereum blockchain network
+  * used to store the data and transfer money
+  * provide wallet functionality and allows users to perform transactions on the blockchain
+* Formed by combining one or more nodes
+* Each node contains a copy of the Blockchain
+
+
+
+Types of Network:  **`MainNet`**, **`TestNet`**, **`Private Network`**
 
 #### Ethereum Mainnet
 
@@ -48,7 +79,9 @@ Collectively, this **ecosystem** is called "**web3**", representing the third ph
 
 * “**Mainnet**” helps to distinguish it from&#x20;
   * Ethereum layer 2 networks, and&#x20;
-  * test networks (testnets) which developers use to try out new features before going live.
+  * test networks (testnets) which developers use to try out new features before going live
+
+
 
 
 
@@ -63,13 +96,10 @@ Gas Fee
 
 
 
-<mark style="color:$success;">**Importance of Gas Fee**</mark>
+**A transaction fee need to be paid for every transaction** regardless of whether that transaction succeeds or fails&#x20;
 
-✅ Keeps Ethereum **sybil-resistant** by preventing malicious actors from overwhelming the network with fraudulent activities
-
-✅ Because computation costs gas, **spamming** Ethereum with expensive transactions, either accidentally and maliciously, is **financially disincentivized**.
-
-✅ A **hard-limit** on the amount of computation that can be done at any one time prevents Ethereum from being overwhelmed, helping to ensure the **network is always accessible**.
+* deploying smart contracts on Ethereum network
+* transferring coins/assets&#x20;
 
 
 
@@ -83,25 +113,42 @@ Gas Fee
 
 
 
-#### Consensus Mechanism
+Total cost of a transaction =  <mark style="background-color:green;">**Gas Limit**</mark> \* <mark style="background-color:green;">**Gas Price**</mark>
 
-> **Proof of Stake — PoS**
-
-* people/validators lock up some ETH — put their ETH at stake, as a deposit so that they can help **secure the network**
-* when you stake ETH, your validator gets chosen to check and add new transactions
-* if you do it honestly, you **earn rewards**
-* if you **try to cheat, you lose part of your stake**
+* **Gas Limit**: maximum amount of units of gas is willing to spend on a single transaction
+  * this avoids situations where there is an error somewhere in the contract, and you end up spending very high amount of gas
+* the **units of gas required** for a transaction is defined by the amount of code executed on the blockchain
+  * if enough gas to cover computational resource usage on the network is not supplied with the transaction, the transaction will fail due to **insufficient gas** (**out of gas error**)
 
 
 
-to attack the network, **an entity needs at least 1/3 of all staked ETH to begin attacking the network**
+<mark style="color:$success;">**Importance of Gas Fee**</mark>
 
-* more than 1/2 changes which version is considered truth&#x20;
-* more than 2/3 would allow finalizing something the rest don't agree with
+✅ Keeps Ethereum **sybil-resistant** by preventing malicious actors from overwhelming the network with fraudulent activities
+
+✅ Because computation costs gas, **spamming** Ethereum with expensive transactions, either accidentally and maliciously, is **financially disincentivized**.
+
+✅ A **hard-limit** on the amount of computation that can be done at any one time prevents Ethereum from being overwhelmed, helping to ensure the **network is always accessible**.
 
 
 
 
+
+#### Ether (ETH): Units, Wrappers, and Common Variants
+
+<table data-header-hidden><thead><tr><th width="162.0078125"></th><th width="105.0859375"></th><th width="253.34765625"></th></tr></thead><tbody><tr><td>1 <strong>wei</strong></td><td></td><td>the smallest unit</td></tr><tr><td>1 <strong>kwei</strong> (babbage)</td><td>10^3 wei</td><td></td></tr><tr><td>1 <strong>mwei</strong> (lovelace)</td><td>10^6 wei</td><td></td></tr><tr><td>1 <strong>gwei</strong> (shannon)</td><td>10^9 wei </td><td>commonly used for gas prices</td></tr><tr><td>1 <strong>szabo</strong></td><td>10^12 wei</td><td></td></tr><tr><td>1 <strong>finney</strong></td><td>10^15 wei</td><td></td></tr><tr><td>1 <strong>ether</strong> (<strong>ETH</strong>)</td><td>10^18 wei</td><td></td></tr></tbody></table>
+
+
+
+## Bitcoin vs Ether
+
+| Bitcoin                                                                         | Ether                                                          |
+| ------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| Uses secure hash algorithm (<mark style="color:$primary;">**SHA-256**</mark>)   | Uses <mark style="color:$primary;">**ethash**</mark> algorithm |
+| Used for purchasing goods and services                                          | Used for making decentralized apps                             |
+| $8500 is the price at the moment                                                | $520 is the price at the moment                                |
+| <p>A currency created to compete against the</p><p>gold and fiat currencies</p> | <p>A token created for facilitating smart</p><p>contracts</p>  |
+| Transaction speed is measured in **minutes**                                    | Transaction speed is measured in **seconds**                   |
 
 
 

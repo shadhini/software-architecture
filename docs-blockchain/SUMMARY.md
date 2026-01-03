@@ -8,6 +8,7 @@
 * [Merkle Tree](blockchain-architecture/merkle-tree.md)
 * [Public Key Cryptography & Wallets](blockchain-architecture/public-key-cryptography-and-wallets/README.md)
   * [Signing Transactions](blockchain-architecture/public-key-cryptography-and-wallets/signing-transactions.md)
+* [Wallets](blockchain-architecture/wallets.md)
 * [Blockchain Transactions](blockchain-architecture/blockchain-transactions.md)
 * [How Open Public Ledger works](blockchain-architecture/how-open-public-ledger-works.md)
 * [Blockchain Features](blockchain-architecture/blockchain-features.md)
@@ -221,10 +222,23 @@
 
 ## Bitcoin
 
+* [Bitcoin](bitcoin/bitcoin.md)
+* [Bitcoin Transactions](bitcoin/bitcoin-transactions.md)
+* [Scripts in Bitcoins](bitcoin/scripts-in-bitcoins.md)
+* [Bitcoin Nodes and Network](bitcoin/bitcoin-nodes-and-network.md)
 * [Bitcoin Architecture](bitcoin/bitcoin-architecture.md)
+* [Mining in Bitcoin Blockchain](bitcoin/mining-in-bitcoin-blockchain.md)
 
 ## Ethereum
 
 * [Ethereum](ethereum/ethereum.md)
+* [Ethereum Architecture](ethereum/ethereum-architecture.md)
 * [How to use Ethereum Network](ethereum/how-to-use-ethereum-network.md)
+* [Types of Ethereum Accounts](ethereum/types-of-ethereum-accounts.md)
+* [Smart Contracts](ethereum/smart-contracts.md)
+* [Ethereum Ecosystem](ethereum/ethereum-ecosystem/README.md)
+  * [Ethereum Tools](ethereum/ethereum-ecosystem/ethereum-tools.md)
+  * [Ethereum Frameworks](ethereum/ethereum-ecosystem/ethereum-frameworks.md)
+  * [Ethereum Development Environment](ethereum/ethereum-ecosystem/ethereum-development-environment.md)
+* [Ethereum DApps and DAOs](ethereum/ethereum-dapps-and-daos.md)
 * [Ethereum extensions - Layer 2](ethereum/ethereum-extensions-layer-2.md)

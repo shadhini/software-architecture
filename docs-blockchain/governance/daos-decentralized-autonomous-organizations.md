@@ -12,6 +12,8 @@ icon: city
 >
 > ╰┈➤ **predefined rules & (rules implemented via) smart contracts**
 >
+> ╰┈➤ **rules agreed through consensus process among its members**
+>
 > * rather than being controlled by a central authority or a traditional hierarchical structure
 >
 > primary function: <mark style="color:$danger;">**decentralized governance**</mark>
@@ -19,6 +21,8 @@ icon: city
 * "**`decentralized`**": stakeholders making key decisions are located all around the world with various different interests, backgrounds, areas of focus
 * "**`autonomous`**": a DAO's actions are determined by code and pre-established protocols rather than by human decisions
   * managing the decentralized organization is as autonomous as possible
+
+[#dapp-vs-dao](../blockchain-architecture/dapps-decentralized-applications.md#dapp-vs-dao "mention")
 
 
 
