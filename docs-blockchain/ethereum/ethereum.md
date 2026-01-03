@@ -45,10 +45,7 @@ features:
 
 #### Smart Contracts&#x20;
 
-* let anyone create their own digital assets and decentralized applications (dapps) that run 24/7, globally
-* available to anyone with an internet connection
-
-
+[smart-contracts.md](smart-contracts.md "mention")
 
 #### Stablecoins
 

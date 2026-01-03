@@ -49,7 +49,7 @@ icon: hive
   * the ledger copy that  the majority of participants agree on, is the one that is assumed to be the correct version — true copy
   * everyone will then sync their ledgers to that copy&#x20;
 * <kbd>In blockchain network, group consensus is a process used to compare different versions of the ledger and to decide which version is the correct one.</kbd>
-  * majority rules determines whcih version the minority will sync to
+  * majority rules determines which version the minority will sync to
   * if no agreement can be made (less than 51%), the block is discarded and the network will try building it again
 
 {% hint style="info" %}
@@ -68,7 +68,7 @@ Consensus Mechanisms:
 
 
 
-&#x20;
+[smart-contracts.md](ethereum/smart-contracts.md "mention")&#x20;
 
 
 
