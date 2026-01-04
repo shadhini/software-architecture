@@ -246,3 +246,4 @@
 ## Hyperledger
 
 * [Hyperledger](hyperledger/hyperledger.md)
+* [Hyperledger Architecture](hyperledger/hyperledger-architecture.md)
