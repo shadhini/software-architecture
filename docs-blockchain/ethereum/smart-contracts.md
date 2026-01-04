@@ -28,6 +28,30 @@ icon: file-signature
 
 
 
+#### `ABI`: Application Binary Interface
+
+`The JSON ABI` (off‑chain interface description)
+
+* the JSON array of objects tools use to know a contract’s externally callable shape
+  * functions, inputs, outputs, events, constructor details
+
+
+
+#### Smart Contract Life Cycle
+
+* Solidity code is compiled to a bytecode and is deployed to the network of nodes
+* Deployed code can be interacted by calling functions using contract’s address
+
+<figure><img src="../.gitbook/assets/ethereum-smart-contract-life-cycle.svg" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+#### Smart Contract Development
+
+<figure><img src="../.gitbook/assets/ethereum-smart-contract-development.svg" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
 
 
 #### Example: Smart Contract&#x20;
