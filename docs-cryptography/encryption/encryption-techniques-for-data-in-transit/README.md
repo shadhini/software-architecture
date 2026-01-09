@@ -34,6 +34,8 @@ icon: arrow-down-up-lock
   * protects against interception during transmission
 * `SSL` & `TLS` are standalone protocols
 
+[#secure-communication-ssl-and-tls](../encryption-and-decryption/asymmetric-encryption/asymmetric-encryption-use-cases-applications.md#secure-communication-ssl-and-tls "mention")
+
 {% content-ref url="tls-transport-layer-security.md" %}
 [tls-transport-layer-security.md](tls-transport-layer-security.md)
 {% endcontent-ref %}

@@ -22,7 +22,7 @@ Particularly useful for **secure communications** & **key exchange**.
 * The client then uses this public key to encrypt a shared session key, which is used for fast, symmetric encryption of the actual data
 * Only the server can decrypt the session key with its private key
 
-
+[#ssl-tls](../../encryption-techniques-for-data-in-transit/#ssl-tls "mention")
 
 ### **Digital signatures and certificates**
 

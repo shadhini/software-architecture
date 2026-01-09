@@ -16,7 +16,7 @@ icon: globe-pointer
   * the certificate is verified against a trusted CA
 * **Secure connection:** upon successful verification, the server establishes secure communication and allows encrypted data transmission
 
+[#secure-communication-ssl-and-tls](encryption/encryption-and-decryption/asymmetric-encryption/asymmetric-encryption-use-cases-applications.md#secure-communication-ssl-and-tls "mention")
 
-
-
+[#ssl-tls](encryption/encryption-techniques-for-data-in-transit/#ssl-tls "mention")
 
