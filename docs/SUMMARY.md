@@ -75,6 +75,10 @@
 * [Deployment & Content Delivery](architectural-patterns/deployment-and-content-delivery/README.md)
   * [Static Content Hosting](architectural-patterns/deployment-and-content-delivery/static-content-hosting.md)
 
+## Cloud Computing
+
+* [Serverless Computing](cloud-computing/serverless-computing.md)
+
 ## Software Application Attributes
 
 * [Consumer Applications vs Enterprise Applications](software-application-attributes/consumer-applications-vs-enterprise-applications.md)
