@@ -105,12 +105,20 @@ for&#x20;
 
 
 
-## **Wallets / Public addresses**
+## **Wallets vs Public addresses**
 
-* **public address**: cryptographic identifier you share with others to receive cryptocurrency or tokens
-* **wallet address**: what you provide to someone else to receive funds, acting much like an account number in traditional finance systems
-  * it's derived from the wallet's public key and unique for each blockchain
-* In practice, a wallet can contain multiple public addresses
+**Wallet:**&#x20;
+
+* metaphor: <mark style="background-color:orange;">physical leather wallet</mark>
+* software or hardware that generates, manages, and secures your cryptographic keys; public/wallet addresses
+* a wallet can contain multiple public addresses
+
+**Public Address/ Wallet Address:**
+
+* metaphor: <mark style="background-color:orange;">debit card number</mark>
+* a derived, publicly shareable location (cryptographic identifier) on the blockchain used to send and receive funds (cryptocurrency or tokens)
+
+
 
 
 

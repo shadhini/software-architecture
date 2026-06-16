@@ -36,7 +36,9 @@ You can build **permissioned solutions on permissionless blockchains**.
 ➝ just requires more design & development effort
 {% endhint %}
 
-<table><thead><tr><th valign="top">Permissioned Blockchains </th><th valign="top">Permissionless Blockchains</th></tr></thead><tbody><tr><td valign="top">only pre-approved entities can validate transactions</td><td valign="top">anyone can join the network and participate in consensus</td></tr><tr><td valign="top">requires authorization to be a validator</td><td valign="top">open participation as validator/miner</td></tr><tr><td valign="top">Examples: <code>Hyperledger Fabric</code>, <code>R3 Corda</code></td><td valign="top">Examples: <code>Bitcoin</code>, <code>Ethereum</code></td></tr><tr><td valign="top">the <strong>identity</strong> of users on the network is <strong>known</strong></td><td valign="top"><p>the <strong>identity</strong> of network participants is <strong>not</strong> <strong>known</strong>/not easily known </p><ul><li>identity is usually tracked dow to the individual wallet or account level</li><li>but the owner/group of owners behind any individual wallet or account is largely anonymous</li></ul><p><strong>pseudo anonymous:</strong> transactions are linked to wallet addresses (not real names), but all actions by that address can be tracked</p></td></tr><tr><td valign="top"><strong>roles</strong> and <strong>permissions</strong> can be set and enforced</td><td valign="top">roles and permissioning possible, but requires <strong>more design &#x26; development effort</strong></td></tr><tr><td valign="top"><p><strong>group</strong> <strong>consensus</strong> tends to be more <strong>customizable</strong>, <strong>configurable</strong> </p><ul><li>may of these platforms implement <strong>participants consensus model</strong></li></ul></td><td valign="top"><p>modern platforms allow for <strong>zero knowledge proofs</strong> to leave data <strong>on-chain</strong> </p><p>➝ which can be used to verify private/secured data</p></td></tr><tr><td valign="top"><p>not fully centralized; but not fully decentralized </p><ul><li>usually involves some centralized components/resources</li></ul></td><td valign="top"></td></tr></tbody></table>
+<table><thead><tr><th valign="top">Permissioned Blockchains </th><th valign="top">Permissionless Blockchains</th></tr></thead><tbody><tr><td valign="top">only pre-approved entities can validate transactions</td><td valign="top">anyone can join the network and participate in consensus</td></tr><tr><td valign="top">requires authorization to be a validator</td><td valign="top">open participation as validator/miner</td></tr><tr><td valign="top">consensus algorithms: <code>PBFT</code>, <code>Proof of Stake</code> ...</td><td valign="top">consensus algorithm: mostly <code>Proof of Work</code></td></tr><tr><td valign="top">trusted environment</td><td valign="top">trust-free environment</td></tr><tr><td valign="top">Examples: <code>Hyperledger Fabric</code>, <code>R3 Corda</code></td><td valign="top">Examples: <code>Bitcoin</code>, <code>Ethereum</code></td></tr><tr><td valign="top">the <strong>identity</strong> of users on the network is <strong>known</strong></td><td valign="top"><p>the <strong>identity</strong> of network participants is <strong>not</strong> <strong>known</strong>/not easily known </p><ul><li>identity is usually tracked dow to the individual wallet or account level</li><li>but the owner/group of owners behind any individual wallet or account is largely anonymous</li></ul><p><strong>pseudo anonymous:</strong> transactions are linked to wallet addresses (not real names), but all actions by that address can be tracked</p></td></tr><tr><td valign="top"><strong>roles</strong> and <strong>permissions</strong> can be set and enforced</td><td valign="top">roles and permissioning possible, but requires <strong>more design &#x26; development effort</strong></td></tr><tr><td valign="top"><p><strong>group</strong> <strong>consensus</strong> tends to be more <strong>customizable</strong>, <strong>configurable</strong> </p><ul><li>may of these platforms implement <strong>participants consensus model</strong></li></ul></td><td valign="top"><p>modern platforms allow for <strong>zero knowledge proofs</strong> to leave data <strong>on-chain</strong> </p><p>➝ which can be used to verify private/secured data</p></td></tr><tr><td valign="top"><p>not fully centralized; but not fully decentralized </p><ul><li>usually involves some centralized components/resources</li></ul></td><td valign="top"></td></tr><tr><td valign="top">performance: faster<br>transaction cost: low<br>stability: highly stable</td><td valign="top">performance: slower<br>transaction cost: high<br>stability: limited stability</td></tr></tbody></table>
+
+
 
 ## **Public vs Private & Permissionless vs Permissioned**
 
@@ -48,6 +50,21 @@ You can build **permissioned solutions on permissionless blockchains**.
 | **Public Permissioned**    | Some consortium chains | Industry transparency    |
 | **Private Permissionless** | Rare in practice       | Limited scenarios        |
 | **Private Permissioned**   | Hyperledger Fabric     | Enterprise, supply chain |
+
+#### **Private Permissioned Blockchain**
+
+> **maintains an access control layer** and allows certain actions to be performed only by a few identifiable participants
+
+* legally accountable validators&#x20;
+* transaction settlement
+* suitable for off-chain assets
+* popular among industry level enterprises in businesses — security, identity & role definition important&#x20;
+
+e.g: Ripple
+
+* determines roles for a select number of participants who can act as transaction validators on their network&#x20;
+
+
 
 #### **Hybrid Blockchain**
 

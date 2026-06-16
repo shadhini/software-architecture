@@ -6,25 +6,29 @@ icon: hand-holding-circle-dollar
 
 ## Blockchain Transaction Process
 
-1. Transaction is requested: can arise from any node in the network
-   * e.g: Alice wants to send Bob 2 bitcoin
-     * Bitcoin blockchain: a distributed database running on thousands of computers globally
-2. Transaction request is broadcasted throughout the network; P2P network
-3. It gets picked up by various miners (computers known as miners) who are part of that network
-4. Each miner picks up the transaction and runs some computation in order to validate transaction
-   * miners verify this transaction
-     * e.g: check Alice's balance&#x20;
-5. Then miners compete to place it into a block with other transactions
-   * to append a block to the chain of prior blocks, miners solve a math puzzle that requires a lot of computational power to solve&#x20;
-     * all this computational power protects the blockchain against hackers&#x20;
-   * this transaction becomes a part of the new block created
-6. Others in the network check the miner's work
-7. Once validated/verified; when a majority of miners in the network approve the block&#x20;
-   * the miner who solved the puzzle gets paid in bitcoin
-8. New block is added to the blockchain&#x20;
-   * e.g: Alice transaction gets added to the blockchain along with the others
-9. Transaction is completed
-   * e.g: Bob receives 2 bitcoin
+Bitcoin blockchain: a distributed database running on thousands of computers globally
+
+
+
+1. **Transaction Initiation & Broadcasting**
+   * Action: A user (Alice) creates and signs a transaction (e.g., sending 2 BTC to Bob).
+   * Mechanism: The request is broadcasted to the Peer-to-Peer (P2P) network.
+     * The request can arise from any node in the network.
+2. **Mempool Aggregation & Validation**
+   * Action: Nodes/Miners receive the transaction and validate it against network rules (e.g., verifying Alice has sufficient balance and a valid digital signature).
+   * Mechanism: Validated transactions wait in a local pool (Mempool). Miners select a batch of these transactions to form a candidate block.
+3. **Consensus & Mining (The Puzzle)**
+   * Action: Miners compete to find a cryptographic solution (Proof of Work) for their candidate block.
+   * Mechanism: This requires immense computational power, securing the network against tampering by making history incredibly expensive to rewrite.
+4. **Block Broadcasting & Network Verification**
+   * Action: The winning miner solves the puzzle and immediately broadcasts their new block to the network.
+   * Mechanism: Other nodes quickly verify the miner's solution and the block's transactions. No heavy computation is needed for this check.
+5. **Block Addition & Block Reward**
+   * Action: Once the majority of the network reaches consensus (validates the block), the block is permanently appended to the ledger.
+   * Mechanism: The winning miner is rewarded with newly minted cryptocurrency (Block Reward) and transaction fees.
+6. **Transaction Settlement**
+   * Action: The block is finalized.
+   * Result: The transaction is complete; Alice's balance decreases, and Bob receives the 2 BTC.
 
 
 
@@ -59,8 +63,8 @@ icon: hand-holding-circle-dollar
 > **a standard transfer of existing coins(cryptocurrency)/tokens(assets) between two addresses on the blockchain**
 
 * uses previous unspent transaction outputs (**`UTXO`**&#x73;) as inputs and creates new outputs for recipients
-* typical transaction we see when sending or receiving cryptocurrency.
-* always initiated by users.
+* typical transaction we see when sending or receiving cryptocurrency
+* always initiated by users
 * typically incurs network fees, which miners can claim via the coinbase transaction
 
 **Example:** Alice pays Bob 0.5 BTC. The transaction references the UTXOs Alice controls as inputs, and the outputs would be to Bob's wallet (and perhaps change back to Alice)

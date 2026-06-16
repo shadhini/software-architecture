@@ -47,6 +47,7 @@
 * [Proof of Elapsed Time](consensus/proof-of-elapsed-time.md)
 * [Participant Consensus](consensus/participant-consensus.md)
 * [Practical Byzantine Fault Tolerance](consensus/practical-byzantine-fault-tolerance.md)
+* [Voting-based consensus vs Lottery-based consensus](consensus/voting-based-consensus-vs-lottery-based-consensus.md)
 * [Summary: Consensus Mechanisms](consensus/summary-consensus-mechanisms.md)
 
 ## Blockchain Security
@@ -247,3 +248,4 @@
 
 * [Hyperledger](hyperledger/hyperledger.md)
 * [Hyperledger Architecture](hyperledger/hyperledger-architecture.md)
+* [\*Hyperledger: Consensus](hyperledger/hyperledger-consensus.md)

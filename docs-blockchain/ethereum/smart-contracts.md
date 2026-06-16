@@ -32,7 +32,7 @@ icon: file-signature
 
 `The JSON ABI` (off‑chain interface description)
 
-* the JSON array of objects tools use to know a contract’s externally callable shape
+* the JSON array of object tools used to know a contract’s externally callable shape
   * functions, inputs, outputs, events, constructor details
 
 
@@ -65,7 +65,7 @@ What smart contract code does
 Benefits
 
 * Settlement is automated&#x20;
-* Ownership os undisputed
+* Ownership is undisputed
 
 
 
