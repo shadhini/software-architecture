@@ -6,8 +6,6 @@ icon: hand-holding-circle-dollar
 
 ## Blockchain Transaction Process
 
-Bitcoin blockchain: a distributed database running on thousands of computers globally
-
 
 
 1. **Transaction Initiation & Broadcasting**

@@ -2,7 +2,7 @@
 
 ## Blockchain Architecture
 
-blockchain — **distributed database**; stored across multiple nodes with each holding a full copy
+blockchain — **distributed database** running on thousands of computers globally; stored across multiple nodes with each holding a full copy
 
 * p2p network; a network which is listening & greeting participants
 * data can be only added — immutable database

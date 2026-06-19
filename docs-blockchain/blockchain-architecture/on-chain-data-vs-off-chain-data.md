@@ -11,12 +11,14 @@ icon: link-horizontal-slash
 * Blockchain can be used with other technologies such as
   * databases&#x20;
 
+> Not all data has to live on-chain...
+>
+> **On-chain data can be linked to off-chain data**
+
+* greater speed and performance of database + benefits of blockchain
+* useful in scenarios where we need to make certain pieces of data go away
 
 
-* **Not all data has to live on-chain**
-  * **On-chain data can be linked to off-chain data**
-    * greater speed and performance of database + benefits of blockchain
-    * useful in scenarios where we need to make certain pieces of data go away
 
 #### Example  Scenario: `GDPR's Europeon citizens right to be forgotten`
 
