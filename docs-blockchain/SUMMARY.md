@@ -22,15 +22,15 @@
 * [Layers in Blockchain](blockchain-architecture/layers-in-blockchain.md)
 * [Layers of Blockchain Application](blockchain-architecture/layers-of-blockchain-application.md)
 * [On-Chain Data vs Off-Chain Data](blockchain-architecture/on-chain-data-vs-off-chain-data.md)
-* [Web 2.5](blockchain-architecture/web-2.5/README.md)
-  * [Web 2.0](blockchain-architecture/web-2.5/web-2.0.md)
-  * [Web 3.0](blockchain-architecture/web-2.5/web-3.0.md)
 * [Fork](blockchain-architecture/fork.md)
 * [Mempool](blockchain-architecture/mempool.md)
 * [ZKPs: Zero Knowledge Proofs](blockchain-architecture/zkps-zero-knowledge-proofs.md)
 * [SSI: Self-Sovereign Identity](blockchain-architecture/ssi-self-sovereign-identity.md)
 * [DApps: Decentralized Applications](blockchain-architecture/dapps-decentralized-applications.md)
 * [Stablecoins](blockchain-architecture/stablecoins.md)
+* [Web 2.5](blockchain-architecture/web-2.5/README.md)
+  * [Web 2.0](blockchain-architecture/web-2.5/web-2.0.md)
+  * [Web 3.0](blockchain-architecture/web-2.5/web-3.0.md)
 * [Blockchain Current Trend & New Frontier](blockchain-architecture/blockchain-current-trend-and-new-frontier.md)
 
 ## Consensus

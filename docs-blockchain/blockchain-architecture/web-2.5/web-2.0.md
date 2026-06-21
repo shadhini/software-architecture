@@ -49,8 +49,8 @@ Web 2.0 represents a significant departure from the earlier Web 1.0
 * Tagging and Folksonomies:
   * tagging: users could assign keywords or tags to content, making it easier to organize and search for information online
   * **folksonomy**: this user-generated categorization system;&#x20;
-    * lot like taxonomies, but taxonomies are defined by centralize authorities
-    * floksonomies allow regular people to develop their own information taxonomies
+    * lot like taxonomies, but taxonomies are defined by centralized authorities
+    * folksonomies allow regular people to develop their own information taxonomies
 * Content Sharing and User-Created Media:
   * platforms: YouTube, Flickr, Vimeo
   * users can upload, share, and view multimedia content&#x20;
@@ -59,7 +59,7 @@ Web 2.0 represents a significant departure from the earlier Web 1.0
   * prioritize user experience, ease of use, intuitive interfaces, usability, accessibility, responsive design to accommodate various devices and screen sizes
   * more user-focused&#x20;
 * **`APls`**(Application Programming Interfaces) and Mashups:
-  * AP|s allow developers to create applications that interacted with external services and data sources and create mashups-web applications that combine data or functionality from multiple sources
+  * APIs allow developers to create applications that interacted with external services and data sources and create mashups-web applications that combine data or functionality from multiple sources
 * Crowdsourcing:
   * crowdsourcing: a large group of users contributes ideas, content, or solutions to a particular problem or project
 * Collaboration and Participation:
