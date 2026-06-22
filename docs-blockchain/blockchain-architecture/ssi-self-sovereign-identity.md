@@ -279,7 +279,7 @@ Source:&#x20;
 * ﻿﻿Create secure and transparent digital voting systems
 * ﻿﻿Allow users to participate in elections with verified identities
 
-#### Credential management
+#### Credential Management
 
 * ﻿﻿SSI can be used to manage credentials
 * ﻿﻿Can be useful for managing academic transcripts, professional licenses, certifications, awards, achievements, etc
