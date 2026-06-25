@@ -9,7 +9,10 @@ icon: question
 * Most blockchains run on Peer-to-Peer (P2P) networks
   * every node/computer on the network is equally privileged
   * no leader — no node is in a position to dictate what another should or should not do
-  * how can a network of equal peers reach a decision state with no leader or authority to dictate their actions and outcomes ?
+
+> **How can a network of equal peers reach a decision state with no leader or authority to dictate their actions and outcomes ?**
+
+
 
 
 
@@ -20,7 +23,7 @@ icon: question
 {% hint style="success" %}
 #### Let the protocol be the leader!
 
-If there's no "leader to make decisions, how are decisions made ?
+If there's no leader to make decisions, how are decisions made ?
 
 ╰┈➤ ANSWER: Let the protocol be the leader!
 

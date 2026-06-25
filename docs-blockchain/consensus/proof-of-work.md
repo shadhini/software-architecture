@@ -10,7 +10,7 @@ icon: person-digging
 designed to allow a network of equally privileged peers to come to agreement on the contents of a block
 
 * original group consensus mechanism employed by `Bitcoin`
-* use by almost every major **permissionless blockchain** platforms since Bitcoin
+* used by almost every major **permissionless blockchain** platforms since Bitcoin
   * currently the **most widely-used** group consensus mechanism
 
 
@@ -79,7 +79,7 @@ The number of leading zeros that we're looking for in any particular case is kno
 * Environmental Sustainability
   * PoW consensus consumes a LOT of electricity
     * this is an intentional design decision to lower the incentive for any hacker or attacker trying to compromise a PoW network
-  * More that Apple + Amazon + Facebook + Microsoft + Google COMBINED!
+  * More than Apple + Amazon + Facebook + Microsoft + Google COMBINED!
 * Performance
   * Blockchain networks will always perform worse than their centralized counterparts
   * Blockchain is several orders of magnitude slower !
