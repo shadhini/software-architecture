@@ -10,7 +10,7 @@ icon: people-group
 > **Participant Consensus — Permissioned Platforms**:
 >
 > * Validation can occur prior to the transaction being recorded on the block
->   * Execute → Validate → Commit
+>   * Execute → Order → Validate&#x20;
 > * "**Endorsement Policy**" approach — block agreement/validation rules are all up to participants sharing the ledger
 
 
@@ -21,7 +21,7 @@ icon: people-group
   * with other consensus mechanisms, you risk consuming data that has been recorded but not yet validated
   * this is why participant consensus model is used extensively in **enterprise scenarios** where the consumption of real time data might be a high priority
 
-<table data-header-hidden data-full-width="true"><thead><tr><th width="230.24432373046875" valign="top"></th><th width="83.88134765625" valign="top"></th><th width="40" valign="top"></th><th width="90.7025146484375" valign="top"></th><th width="40" valign="top"></th><th width="90.0418701171875" valign="top"></th></tr></thead><tbody><tr><td valign="top"><strong>permissioned blockchain</strong></td><td valign="top"><mark style="color:$danger;">Execute</mark></td><td valign="top">→</td><td valign="top"><mark style="color:$success;"><strong>Validate</strong></mark></td><td valign="top">→</td><td valign="top">Commit</td></tr><tr><td valign="top"><strong>permission-less blockchain</strong></td><td valign="top"><mark style="color:$danger;">Execute</mark></td><td valign="top">→</td><td valign="top">Commit</td><td valign="top">→</td><td valign="top"><mark style="color:$success;"><strong>Validate</strong></mark></td></tr></tbody></table>
+<table data-header-hidden data-full-width="true"><thead><tr><th width="243.55682373046875" valign="top"></th><th width="91.10400390625" valign="top"></th><th width="40" valign="top"></th><th width="89.5072021484375" valign="top"></th><th width="40" valign="top"></th><th width="90.0418701171875" valign="top"></th></tr></thead><tbody><tr><td valign="top"><strong>many permissioned blockchain</strong></td><td valign="top"><mark style="color:blue;"><strong>Execute</strong></mark></td><td valign="top">→</td><td valign="top"><mark style="color:$success;"><strong>Order</strong></mark></td><td valign="top">→</td><td valign="top">Validate</td></tr><tr><td valign="top"><strong>permission-less blockchain</strong></td><td valign="top"><mark style="color:$success;"><strong>Order</strong></mark></td><td valign="top">→</td><td valign="top"><mark style="color:blue;"><strong>Execute</strong></mark></td><td valign="top"></td><td valign="top"></td></tr></tbody></table>
 
 
 
