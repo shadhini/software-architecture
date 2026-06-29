@@ -57,6 +57,12 @@ Byzantine Generals Problem — **consensus in a trustless environment**
 
 ## Designing Consensus Mechanisms
 
+{% hint style="success" %}
+#### Consensus isn’t about speed or power—it’s about trust.&#x20;
+
+Solve that, and the rest falls into place.
+{% endhint %}
+
 {% hint style="danger" %}
 #### Security Concerns (Potential Risks and Attack Vectors) around different Consensus Mechanisms are different.
 
@@ -70,11 +76,11 @@ E.g: PoS opens different attack vectors than PoW
 * but PoS introduce Block Validator/Block Forger attack
 {% endhint %}
 
-{% hint style="success" %}
-#### Consensus isn’t about speed or power—it’s about trust.&#x20;
+{% embed url="https://docs.google.com/spreadsheets/d/15WMaeCcfFT1DlLBQ2MkA-0hJk5Ny4_-YNlmToZYj72w/edit?usp=sharing" %}
+Consensus Mechanisms: Concerns & Benefits
+{% endembed %}
 
-Solve that, and the rest falls into place.
-{% endhint %}
+
 
 #### Voting System
 

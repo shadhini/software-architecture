@@ -31,7 +31,7 @@ Many activities that would be **safe** or considered **best practices in a clien
 
 #### The `Hegic` Attack
 
-* The Hegic Attack occurred in 2020 on a blockchain knows as the `Hegic Blockchain`
+* The Hegic Attack occurred in 2020 on a blockchain known as the `Hegic Blockchain`
 * `Hegic` Blockchain —  a platform that allows users to insure against price volatility in cryptocurrency markets
 * `The Hegic Defi Protocol` — aimed to simplify the work with options as a financial instrument&#x20;
   * it had optional smart contracts that any user could sell and earn bonuses automatically

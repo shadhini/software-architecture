@@ -6,14 +6,15 @@ icon: bring-front
 
 ## Front Running
 
-> when someone observes a **pending transaction in the public mempool** and **submits their own transaction with a higher priority (fee)** so it gets included before or around the victim’s transaction,&#x20;
+> when someone observes a **pending transaction in the public mempool** and **submits their own transaction with a higher priority (fee),** so it gets included before or around the victim’s transaction,&#x20;
 >
 > extracting value from the predictable effect of the victim’s action
+>
+> * (means the attacker knows exactly how the victim's code will behave, and uses that certainty to guarantee a profit)
 
 
 
-* incoming transactions are stored on a node's **`mempool`**
-  * until they are processed&#x20;
+* incoming transactions are stored on a node's **`mempool`** until they are processed&#x20;
   * **`mempool`** — the temporary memory every blockchain node has; it serves as the queue for incoming transactions
 * all nodes should have the same **`mempool`** transactions
 * transactions are selected by the protocol according to the gas price they're willing to pay
