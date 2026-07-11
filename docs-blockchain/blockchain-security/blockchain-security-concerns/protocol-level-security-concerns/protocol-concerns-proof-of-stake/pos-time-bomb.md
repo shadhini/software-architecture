@@ -12,7 +12,7 @@ icon: bomb
   * many people argue that PoS Time-bomb problem is a problem that is endemic to human society and human systems, not necessarily a technical problem
   * and therefore **nothing** that **can be addressed via technology**
 * in proof-of-stake, a validator's block reward is proportional to the number of coins that they've staked — this means, if the richest user on the network continually stakes all of their coins, their stake is going to grow faster than anybody else's&#x20;
-* if this happens long enough, eventually that one single user is going to control most of the coins on the network — and then that use gains a disproportionate amount of control
+* if this happens long enough, eventually that one single user is going to control most of the coins on the network — and then that user gains a disproportionate amount of control
 * some blockchains attempt to **limit the maximum block reward** that's payable in order to avoid this
   * however, this check can be **easily** [**circumvented**](#user-content-fn-1)[^1] by just setting up multiple nodes or wallets or accounts&#x20;
 * this can cause the network to **slow down** significantly&#x20;

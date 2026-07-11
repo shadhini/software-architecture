@@ -18,7 +18,8 @@ Examples:
 * `Block Timestamp Manipulation`
 * Nothing-at-Stake Attack
 * Stake Grinding
-* Censorship and Transaction Withholding
+* Censorship&#x20;
+* Transaction Withholding
 
 
 
