@@ -86,7 +86,6 @@
   * [Scalability Issues & Security](blockchain-security/blockchain-security-concerns/scalability-issues-and-security.md)
   * [Solution Governance](blockchain-security/blockchain-security-concerns/solution-governance.md)
   * [Quantum Computing](blockchain-security/blockchain-security-concerns/quantum-computing.md)
-* [Attack Vectors Based on Consensus Mechanism](blockchain-security/attack-vectors-based-on-consensus-mechanism.md)
 * [Mitigating Blockchain Security Risks](blockchain-security/mitigating-blockchain-security-risks/README.md)
   * [Mitigating Security Risks in Smart Contracts](blockchain-security/mitigating-blockchain-security-risks/mitigating-security-risks-in-smart-contracts.md)
   * [Mitigating Protocol Level Security Risks](blockchain-security/mitigating-blockchain-security-risks/mitigating-protocol-level-security-risks.md)

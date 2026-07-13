@@ -7,7 +7,7 @@ icon: file-signature
 ## Mitigating Security Risks in Smart Contracts
 
 * Stay **up-to-date** on vulnerabilities and security best practices!
-* Motivate hacked could potential break out of the sandboxed environment of smart contract and attack the host
+* Motivated hacker could potentially break out of the sandboxed environment of smart contract and attack the host
   * be careful where you place your nodes
   * do not use nodes for any other purpose
 * Keep your nodes up to date!
@@ -15,6 +15,12 @@ icon: file-signature
   * Ensure node update procedures are included in your governance model and it's well documented and every participant is informed about it, agrees and executes it
 * Automated security analyzers — to identify and flag potential security vulnerabilities
   * e.g: for `Ethereum` smart contracts
+
+
+
+{% content-ref url="../../blockchain-development/best-practices-smart-contract-development.md" %}
+[best-practices-smart-contract-development.md](../../blockchain-development/best-practices-smart-contract-development.md)
+{% endcontent-ref %}
 
 
 
@@ -71,7 +77,7 @@ To avoid front-running
 
 `Ethereum` — avoid overflows/underflows
 
-* use solidity compiler version **0.8 or later** — as of version 0.8 buffer overflows and underflows throe warnings and exceptions
+* use solidity compiler version **0.8 or later** — as of version 0.8 buffer overflows and underflows throw warnings and exceptions
 
 
 
@@ -91,10 +97,6 @@ avoid overflows/underflows
 * Offer free merchandise, service, or rewards for testers who **discover** **vulnerabilities** before you go live
 * good, comprehensive test cases
 * involve end users in testing and QA activities
-
-{% content-ref url="../../blockchain-development/best-practices-smart-contract-development.md" %}
-[best-practices-smart-contract-development.md](../../blockchain-development/best-practices-smart-contract-development.md)
-{% endcontent-ref %}
 
 
 
@@ -117,7 +119,7 @@ Avoid the Block Gas Limit Problem
 
 #### Default Visibility Problem
 
-Avoid Visibility Problem
+Avoid Default Visibility Problem
 
 * Mark every function as **private/internal** by **default**
   * require comments on public functions explaining why they must deviate from this default
