@@ -12,7 +12,7 @@ icon: signature-lock
 
 * Data which is mistakenly or maliciously recorded to the ledger is permanent
 * Do you have governance and oversight in place to help prevent these kind of activities from occurring  ?
-  * No — make sure you get that governance plan in place before before you start playing around seriously with blockchain technology
+  * No — make sure you get that governance plan in place before you start playing around seriously with blockchain technology
 
 
 
