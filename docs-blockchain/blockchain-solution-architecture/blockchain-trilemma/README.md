@@ -39,7 +39,7 @@ Real world is a world of compromises...
    * e.g: `Hyperledger`, `Ripple`, `EOS`, `Stellar`
 3. **Scalable and Decentralized**
    * if the real-world implications of a data attack are minimal or if data is not sensitive enough that any kind of attack or breach doesn't causes much concern  → consider this option
-   * e.g: blockless platforms such as `Nano`, `IoTA`
+   * e.g: <mark style="background-color:$primary;">blockless platforms</mark> such as `Nano`, `IoTA`
 
 
 
@@ -48,7 +48,7 @@ Real world is a world of compromises...
 ## How to address Blockchain Trilemma ?
 
 {% hint style="success" %}
-Right balance between scalability, security & decentralization depended on&#x20;
+Right balance between scalability, security & decentralization depends on&#x20;
 
 the specific goals and use cases of the blockchain network in question
 {% endhint %}
