@@ -81,7 +81,7 @@ icon: list
 
 
 
-## Good Use Case `Symptomps` / Patterns
+## Good Use Case `Symptoms` / Patterns
 
 {% content-ref url="../../../blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/" %}
 [when-to-use-blockchain-and-avoid-blockchain](../../../blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/)

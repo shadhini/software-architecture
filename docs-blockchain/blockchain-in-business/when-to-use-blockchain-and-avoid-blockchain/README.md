@@ -23,6 +23,8 @@ Blockchain technology is appropriate, when
 
 * participants do not trust each other — shared resources can't be kept by one party
 * integrate disparate line of business (LoB) systems across organizational boundaries — persist state across LoB applications
+* what is needed is an infrastructure that all stakeholders can share and collectively manage together&#x20;
+* business/critical processes which move from stakeholder to stakeholder that spans across organizational boundaries&#x20;
 
 ✅ as IT infrastructure — to developing countries where you cannot rely on critical infrastructure being available
 
@@ -30,7 +32,7 @@ Blockchain technology is appropriate, when
 
 ✅ connect legacy systems with a shared, permanent, decentralized audit trail
 
-✅ all other solution possibilities other than blockchain have been ruled out
+✅ when all other solution possibilities other than blockchain have been ruled out
 
 * technical limitations
 * non technical (human) barriers around control, authority, power
@@ -76,4 +78,14 @@ Blockchain technology is not appropriate, when
 {% content-ref url="when-to-avoid-blockchain.md" %}
 [when-to-avoid-blockchain.md](when-to-avoid-blockchain.md)
 {% endcontent-ref %}
+
+
+
+## Classic Blockchain Use Case Symptoms
+
+{% content-ref url="classic-blockchain-use-case-symptoms.md" %}
+[classic-blockchain-use-case-symptoms.md](classic-blockchain-use-case-symptoms.md)
+{% endcontent-ref %}
+
+
 

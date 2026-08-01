@@ -55,7 +55,7 @@ icon: face-viewfinder
 * Help to ensure no single entity has complete control over an individual's identity data
 
 \
-&#xNAN;**`DID`s: Decentralized Identifiers**&#x20;
+**`DID`s: Decentralized Identifiers**&#x20;
 
 * unique identifiers assigned to individuals, organizations, or devices
 * self-generated and owned
