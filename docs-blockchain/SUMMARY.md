@@ -113,10 +113,37 @@
   * [PoC Design and Construction](blockchain-solution-architecture/lifecycle-blockchain-solution/poc-design-and-construction.md)
   * [Moving from PoC to MVP](blockchain-solution-architecture/lifecycle-blockchain-solution/moving-from-poc-to-mvp.md)
 * [Blockchain Network: Building Blocks](blockchain-solution-architecture/blockchain-network-building-blocks.md)
-* [Blockchain Application:](blockchain-solution-architecture/blockchain-application.md)
+* [Blockchain Application](blockchain-solution-architecture/blockchain-application.md)
 * [Blockchain Interoperability](blockchain-solution-architecture/blockchain-interoperability.md)
 * [Design Options & Considerations](blockchain-solution-architecture/design-options-and-considerations.md)
 * [🌹 Blockchain Solution Architecture](blockchain-solution-architecture/blockchain-solution-architecture.md)
+
+## Blockchain in Business
+
+* [Global Marketplace & Blockchain Challenges](<README (1).md>)
+* [Blockchain: Value Proposition](blockchain-in-business/blockchain-value-proposition.md)
+* [Blockchain Benefits](blockchain-in-business/blockchain-benefits.md)
+* [When to use Blockchain and avoid Blockchain?](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/README.md)
+  * [When to use Blockchain](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/README.md)
+    * [Blockchain as a Shared IT Infrastructure](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/blockchain-as-a-shared-it-infrastructure.md)
+    * [Blockchain to enhance Legacy Systems](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/blockchain-to-enhance-legacy-systems.md)
+    * [When to use Blockchain — Process of Elimination](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/when-to-use-blockchain-process-of-elimination.md)
+  * [When to avoid Blockchain](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-avoid-blockchain.md)
+  * [Classic Blockchain Use Case Symptoms](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/classic-blockchain-use-case-symptoms.md)
+* [Evolution of Blockchain](blockchain-in-business/evolution-of-blockchain.md)
+* [The Evolution of the Internet](blockchain-in-business/the-evolution-of-the-internet.md)
+* [Blockchain Use-cases, Blockchain's Role & Real World Blockchain Projects](blockchain-in-business/blockchain-use-cases-blockchains-role-and-real-world-blockchain-projects/README.md)
+  * [Blockchain-Based Supply Chain Solutions](blockchain-in-business/blockchain-use-cases-blockchains-role-and-real-world-blockchain-projects/blockchain-based-supply-chain-solutions.md)
+  * [Blockchain-Based Digital Identity Solutions](blockchain-in-business/blockchain-use-cases-blockchains-role-and-real-world-blockchain-projects/blockchain-based-digital-identity-solutions.md)
+  * [Blockchain-Based Cross-Border Payments Solutions](blockchain-in-business/blockchain-use-cases-blockchains-role-and-real-world-blockchain-projects/blockchain-based-cross-border-payments-solutions.md)
+  * [Blockchain-Based Voting Systems](blockchain-in-business/blockchain-use-cases-blockchains-role-and-real-world-blockchain-projects/blockchain-based-voting-systems.md)
+  * [Blockchain-Based Healthcare Data Sharing Platforms](blockchain-in-business/blockchain-use-cases-blockchains-role-and-real-world-blockchain-projects/blockchain-based-healthcare-data-sharing-platforms.md)
+  * [Blockchain-Based Real Estate Transactions Solutions](blockchain-in-business/blockchain-use-cases-blockchains-role-and-real-world-blockchain-projects/blockchain-based-real-estate-transactions-solutions.md)
+  * [Blockchain-Based Intellectual Property Protection Solutions](blockchain-in-business/blockchain-use-cases-blockchains-role-and-real-world-blockchain-projects/blockchain-based-intellectual-property-protection-solutions.md)
+* [Consumer vs Enterprise Blockchain Use and Adoption](blockchain-in-business/consumer-vs-enterprise-blockchain-use-and-adoption/README.md)
+  * [Blockchain Iceberg](blockchain-in-business/consumer-vs-enterprise-blockchain-use-and-adoption/blockchain-iceberg.md)
+  * [Consumer Applications](blockchain-in-business/consumer-vs-enterprise-blockchain-use-and-adoption/consumer-applications.md)
+  * [Enterprise Use Cases](blockchain-in-business/consumer-vs-enterprise-blockchain-use-and-adoption/enterprise-use-cases.md)
 
 ## Blockchain Development
 
@@ -174,33 +201,6 @@
 * [General Timeline of Events](documentation/general-timeline-of-events.md)
 * [Potential Risks](documentation/potential-risks.md)
 * [Data Dictionary](documentation/data-dictionary.md)
-
-## Blockchain in Business
-
-* [Global Marketplace & Blockchain Challenges](<README (1).md>)
-* [Blockchain: Value Proposition](blockchain-in-business/blockchain-value-proposition.md)
-* [Blockchain Benefits](blockchain-in-business/blockchain-benefits.md)
-* [When to use Blockchain and avoid Blockchain?](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/README.md)
-  * [When to use Blockchain](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/README.md)
-    * [Blockchain as a Shared IT Infrastructure](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/blockchain-as-a-shared-it-infrastructure.md)
-    * [Blockchain to enhance Legacy Systems](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/blockchain-to-enhance-legacy-systems.md)
-    * [When to use Blockchain — Process of Elimination](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-use-blockchain/when-to-use-blockchain-process-of-elimination.md)
-  * [When to avoid Blockchain](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/when-to-avoid-blockchain.md)
-  * [Classic Blockchain Use Case Symptoms](blockchain-in-business/when-to-use-blockchain-and-avoid-blockchain/classic-blockchain-use-case-symptoms.md)
-* [Evolution of Blockchain](blockchain-in-business/evolution-of-blockchain.md)
-* [The Evolution of the Internet](blockchain-in-business/the-evolution-of-the-internet.md)
-* [Blockchain Use-cases, Blockchain's Role & Real World Blockchain Projects](blockchain-in-business/blockchain-use-cases-blockchains-role-and-real-world-blockchain-projects/README.md)
-  * [Blockchain-Based Supply Chain Solutions](blockchain-in-business/blockchain-use-cases-blockchains-role-and-real-world-blockchain-projects/blockchain-based-supply-chain-solutions.md)
-  * [Blockchain-Based Digital Identity Solutions](blockchain-in-business/blockchain-use-cases-blockchains-role-and-real-world-blockchain-projects/blockchain-based-digital-identity-solutions.md)
-  * [Blockchain-Based Cross-Border Payments Solutions](blockchain-in-business/blockchain-use-cases-blockchains-role-and-real-world-blockchain-projects/blockchain-based-cross-border-payments-solutions.md)
-  * [Blockchain-Based Voting Systems](blockchain-in-business/blockchain-use-cases-blockchains-role-and-real-world-blockchain-projects/blockchain-based-voting-systems.md)
-  * [Blockchain-Based Healthcare Data Sharing Platforms](blockchain-in-business/blockchain-use-cases-blockchains-role-and-real-world-blockchain-projects/blockchain-based-healthcare-data-sharing-platforms.md)
-  * [Blockchain-Based Real Estate Transactions Solutions](blockchain-in-business/blockchain-use-cases-blockchains-role-and-real-world-blockchain-projects/blockchain-based-real-estate-transactions-solutions.md)
-  * [Blockchain-Based Intellectual Property Protection Solutions](blockchain-in-business/blockchain-use-cases-blockchains-role-and-real-world-blockchain-projects/blockchain-based-intellectual-property-protection-solutions.md)
-* [Consumer vs Enterprise Blockchain Use and Adoption](blockchain-in-business/consumer-vs-enterprise-blockchain-use-and-adoption/README.md)
-  * [Blockchain Iceberg](blockchain-in-business/consumer-vs-enterprise-blockchain-use-and-adoption/blockchain-iceberg.md)
-  * [Consumer Applications](blockchain-in-business/consumer-vs-enterprise-blockchain-use-and-adoption/consumer-applications.md)
-  * [Enterprise Use Cases](blockchain-in-business/consumer-vs-enterprise-blockchain-use-and-adoption/enterprise-use-cases.md)
 
 ## Blockchain Sustainability
 

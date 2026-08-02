@@ -2,7 +2,7 @@
 icon: rocket
 ---
 
-# Blockchain Application:
+# Blockchain Application
 
 ## Blockchain Application: Components
 
@@ -43,5 +43,5 @@ e.g: if one is running a `Bitcoin client`, they can participate in the `Bitcoin`
 * <mark style="color:$success;">**Many to One**</mark>
   * used for applications where a user sets up the contracts for a specific purpose
 * <mark style="color:$success;">**One to One**</mark>
-  * user for applications which involve financial contracts between 2 entities
+  * used for applications which involve financial contracts between 2 entities
 
