@@ -20,7 +20,7 @@ icon: comment-check
   * smart contract is not going to execute on one server and then share the results with the network
 
 {% hint style="warning" %}
-**Every single nod**e on the network is going to&#x20;
+**Every single node** on the network is going to&#x20;
 
 * **execute the smart contract code independently** and&#x20;
 * attempt to come to consensus on the results.

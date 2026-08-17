@@ -32,10 +32,12 @@ In a decentralized network,&#x20;
 
 **wallets / public addresses**
 
-* **public address**: cryptographic identifier you share with others to receive cryptocurrency or tokens
-* **wallet address**: what you provide to someone else to receive funds, acting much like an account number in traditional finance systems
+* **wallet:** physical leather wallet
+  * software/hardware that generates, manages, and secures your cryptographic keys
+  * can contain multiple public/wallet addresses&#x20;
+* **public/wallet address**: debit card number; much like an account number in traditional finance systems
+  * cryptographic identifier you share with others to receive/send  cryptocurrency or tokens
   * it's derived from the wallet's public key and unique for each blockchain
-* In practice, a wallet can contain multiple public addresses
 
 **cryptographic hash —  hash relationship**
 
@@ -321,7 +323,7 @@ Cannot have it all&#x20;
     * MSP in Hyperledger
 * Eclipse Attacks — isolate node/group of nodes
   * manipulating difficulty levels
-  * 51% attacks
+  * cheaper 51% attacks
   * double-spend with less than 51% control on a `PoW` network
 * Replay Attacks — resubmit signed transactions
 * Sybil Attacks — fake nodes

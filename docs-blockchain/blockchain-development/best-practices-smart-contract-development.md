@@ -62,7 +62,7 @@ Protection against Block Gas Limit Problem & DoS with Block Gas Limit&#x20;
 
 ✅ Set strict **hard limits** on **loops and repetitive code** blocks to prevent infinite execution.
 
-✅ Store l**arge datasets off-chain**; store **only links/hashes on-chain**.
+✅ Store **large datasets off-chain**; store **only links/hashes on-chain**.
 
 ✅ Enforce **reentrancy protections** to prevent gas exhaustion attacks.
 

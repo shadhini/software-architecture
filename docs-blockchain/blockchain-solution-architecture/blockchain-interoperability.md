@@ -99,7 +99,7 @@ e.g: Convert _`bitcoin`_ to _`ether`_
 
 
 
-#### HTLCs: Hash Tome Locked Contracts
+#### HTLCs: Hash Time Locked Contracts
 
 > for **timed execution** of these atomic swaps/ smart contracts
 >
@@ -109,7 +109,9 @@ e.g: Convert _`bitcoin`_ to _`ether`_
 
 #### Decentralized Oracles&#x20;
 
-> provide secure, **external data** feeds to multiple blockchains, enabling blockchain ecosystems to interact with off-chain systems and databases
+> provide secure, **external data** feeds to multiple blockchains
+>
+> ﻿﻿✅ enable blockchain ecosystems to interact with off-chain systems and databases
 
 
 
@@ -202,7 +204,7 @@ Future Outlook: rapidly evolving field
 > — peer to peer/ decentralized content management solutions —&#x20;
 
 * ﻿﻿Decentralized content storage
-* identifies/﻿﻿URLs that point to the content are content-based, not location-based
+* identifiers/﻿﻿URLs that point to the content are content-based, not location-based
   * ﻿﻿URL is a hash of the stored content
   * Content is versioned, new content will have new URL
   * Content can be made permanent
@@ -227,6 +229,8 @@ Future Outlook: rapidly evolving field
 > * Leverage blockchain strengths — immutability, transparency, decentralization, security
 > * Preserve centralized strengths — performance, cost, UX, legacy
 > * Selective, fit-for-purpose hybrid integration — **context-specific**; keep centralized where performance/cost-critical
+
+
 
 ### How to Integrate Blockchain with Centralized Technology
 
