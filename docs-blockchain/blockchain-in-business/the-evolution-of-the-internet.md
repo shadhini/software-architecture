@@ -51,13 +51,12 @@ Key Features
 
 * Blogs&#x20;
 * Wikis
-* Social media platforms
 * AJAX-based interactivity
 * User-generated content
 
 Use Cases
 
-* social networking
+* social networking — social media platforms
 * e-commerce
 * online collaboration
 * content sharing
@@ -72,7 +71,7 @@ Characteristics
 
 * ongoing transition from Web 2.0 to Web 3.0
 * involves integrating&#x20;
-  * elements of decentralization and semantic understing&#x20;
+  * elements of decentralization and semantic understanding&#x20;
   * but without fully embracing the decentralization aspect
 
 Key Features

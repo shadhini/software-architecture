@@ -32,9 +32,8 @@ Obtain <mark style="color:blue;">alignment from the stakeholder team</mark> on t
 * describes the current state of things
   * what things are like today for the user or role being described
     * steps & processes that must be followed to do this role's job/task
-* discuss&#x20;
-  * current pain points,
-  * how they make users feel, and&#x20;
+* discuss current pain points,
+  * how they (i.e. pain points) make users feel, and&#x20;
   * their impact on the user's ability to do their job or task
 
 

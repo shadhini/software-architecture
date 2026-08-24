@@ -55,7 +55,7 @@ icon: face-viewfinder
 * Help to ensure no single entity has complete control over an individual's identity data
 
 \
-&#xNAN;**`DID`s: Decentralized Identifiers**&#x20;
+**`DID`s: Decentralized Identifiers**&#x20;
 
 * unique identifiers assigned to individuals, organizations, or devices
 * self-generated and owned
@@ -279,7 +279,7 @@ Source:&#x20;
 * ﻿﻿Create secure and transparent digital voting systems
 * ﻿﻿Allow users to participate in elections with verified identities
 
-#### Credential management
+#### Credential Management
 
 * ﻿﻿SSI can be used to manage credentials
 * ﻿﻿Can be useful for managing academic transcripts, professional licenses, certifications, awards, achievements, etc

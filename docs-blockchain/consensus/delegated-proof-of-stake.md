@@ -1,4 +1,5 @@
 ---
+description: Delegated Proof of Stake Consensus Mechanism
 icon: user-tie-hair-long
 ---
 

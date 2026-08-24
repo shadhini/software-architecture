@@ -31,8 +31,7 @@ icon: gas-pump
 
 #### The `GovernMental` Attack
 
-* a cryptocurrency lottery project
-* users would place a bet that no one users would come and place a bet after them for the next 12 hours
+* a cryptocurrency lottery game where users sent Ether and joined a growing list, betting no one would join after them for 12 hours
 * every subsequent bet became more expensive&#x20;
 * in addition to **Block Gas Limit errors**, this smart contract also introduced **Timestamp Dependency errors**
 * to join the project, a user was required to send a certain amount of `Ether` to one of the `GovernMental` smart contracts

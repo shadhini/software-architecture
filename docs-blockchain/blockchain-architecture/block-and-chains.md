@@ -108,12 +108,8 @@ In a decentralized network,&#x20;
 >
 > letting any observer know that something has _**likely been tampered**_ with
 
-> **Chains**:
->
-> blocks are organized sequentially to form a "chain", with each block referencing the previous one
-
 {% hint style="success" %}
-#### **Blocks** are **linked** together in a **linear sequence**, each containing a hash of the previous block.
+#### **Blocks** are **linked** together in a **linear sequence**, with each block referencing the previous one; each containing a hash of the previous block.
 
 transactions are recorded in blocks linked in **chronological order**
 

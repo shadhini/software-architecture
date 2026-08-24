@@ -36,7 +36,7 @@ DATA LAYER (On-Chain/Off-Chain)
   * not fully decentralized — some centralized parts
 * permissionless
   * identities are **pseudo anonymous:** transactions are linked to wallet addresses (not real names), but all actions by that address can be tracked
-  * modern platforms allow for zero knowledge proofs to leave data on-chain
+  * modern platforms allow for **zero knowledge proofs** to leave data on-chain
 
 ### Pure vs Hybrid
 
@@ -89,9 +89,12 @@ Metaphor: with respect to PC
 * network of blockchains ➝ Layer 0
 * OS ➝ Layer 1&#x20;
 * API ➝ Layer 2
-  * **`state channels`**:  blockchain ledger + off-chain transactional channel for bulk data
-  * **`sidechains`**: main chain for main data + cheaper, more performant side chain for supporting data
-  * **`rollups`**: main ledger with proof of what happened on side ledger + side ledger
+  * **`state channels`**:  <kbd>\[Bar Tab Analogy]</kbd> blockchain ledger + off-chain transactional channel for bulk data; a private, direct pathway opened for off-chain transactions between specific participants
+  * **`sidechains`**: main chain(state channel) for main data + cheaper, more performant side chain (independent blockchain) for supporting data; assets moved between mainnet and sidechain via a two-way bridge
+  * **`rollups`**: main ledger with proof of what happened on side ledger + side ledger; transactions executed off the main blockchain, but post compressed transaction data (proofs) back to the layer 1 network
+    * Pessimistic Rollups | Zero-Knowledge (ZK) Rollups
+    * Optimistic Rollups&#x20;
+  * Nested Network
 * Application Layer (where you are actually building) ➝ Layer 3
 
 
@@ -106,6 +109,8 @@ Metaphor: with respect to PC
 [blockchain-governance-models.md](../governance/blockchain-governance-models.md)
 {% endcontent-ref %}
 
+
+
 ### Guiding Principles
 
 * Feature-Heavy vs Feature-Light
@@ -117,6 +122,12 @@ Metaphor: with respect to PC
 ## Design Considerations
 
 decide assets, participants, transactions, queries & events of the system
+
+
+
+<mark style="background-color:red;">**‼️ Blockchain Rope**</mark>
+
+<mark style="background-color:red;">**‼️ Blockchain Trilemma**</mark>
 
 ### Mashups
 

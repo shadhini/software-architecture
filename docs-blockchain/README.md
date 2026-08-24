@@ -79,7 +79,7 @@ Consensus Mechanisms:
 * can be used by shoppers in grocery stores to ensure the avocados they're buying are produced under fair labor standards
 * the solution notifies you (user) when your retailer has just received another shipment&#x20;
   * code (send notification) to be executed when an event (retail store delivery) occurs that affect our asset (avocados)
-  * this code lives in a smart contract
+  * <mark style="background-color:yellow;">this code lives in a smart contract</mark>
 
 
 

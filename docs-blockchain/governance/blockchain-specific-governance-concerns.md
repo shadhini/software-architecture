@@ -42,6 +42,11 @@ many blockchain solutions involve token holders in decision-making processes&#x2
 * different stakeholders — varying cultural, ideological, philosophical beliefs → disagreements about the direction of the project
 * ✅ make sure to talk through these non-technical differences before you begin your technical work
 
+#### Security and Consensus Mechanisms
+
+* ✅ select and maintain a secure consensus mechanism&#x20;
+* decisions on switching consensus algorithms or addressing security vulnerabilities must be made collectively
+
 #### Network Security and Attack Resistance
 
 * governance decisions that impact network security need careful consideration & open dialogue to avoid opening up any potential vulnerabilities/enabling any potential attack vectors
@@ -53,11 +58,6 @@ maintaining and developing a blockchain application —  requires financial reso
 * ✅ establish a **sustainable funding model** that&#x20;
   * aligns with the project's goals&#x20;
   * while avoiding centralization of control&#x20;
-
-#### Security and Consensus Mechanisms
-
-* ✅ select and maintain a secure consensus mechanism&#x20;
-* decisions on switching consensus algorithms or addressing security vulnerabilities must be made collectively
 
 #### Governance Attacks
 

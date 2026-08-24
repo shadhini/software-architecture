@@ -16,7 +16,7 @@ icon: scroll-old
 
 * Designed to work with other methods such as PoW and PoS
 
-╰┈➤ **`Proof of History mash ups`**&#x20;
+╰┈➤ **`Proof of History mashups`**&#x20;
 
 
 

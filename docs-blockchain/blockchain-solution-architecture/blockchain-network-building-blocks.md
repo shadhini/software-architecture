@@ -6,7 +6,6 @@ icon: cubes-stacked
 
 #### Blockchain Network: Building Blocks&#x20;
 
-* **Consensus** Mechanism: govern how transactions are validated & added to the blockchain
 * Data Structure: blocks linked together in a chain&#x20;
   * each block carries
     * set of transactions
@@ -17,10 +16,9 @@ icon: cubes-stacked
   * to secure data in each block &#x20;
   * to maintain the blockchain's immutability
 * Peer to Peer Network
-  * P2P network to connect nodes(computer) that will participate in the blockchain
+  * P2P network to connect nodes (computers) that will participate in the blockchain
   * these nodes will communicate and share the blockchain data
-* Consensus Rules
-  * e.g: how new transactions are verified and added to the blockchain&#x20;
+* **Consensus** Mechanism/ Rules: govern how transactions are validated & added to the blockchain
   * to ensure that all nodes agree on the state of the blockchain
 * Genesis Block
   * first block in the blockchain&#x20;

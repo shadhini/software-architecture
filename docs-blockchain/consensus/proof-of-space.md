@@ -11,7 +11,7 @@ icon: rocket
 >
 > * **Rewards** users who reserve **disk space** or storage space for the ledger
 > * Uses the concept of **Rainbow Tables**
->   * each **node** allocates some amount of **space to store answers** for some questions from a larger pool of questions
+>   * each node allocates some amount of **space to store answers** for some questions from a larger pool of questions
 > * **First node** to demonstrate it **has the answer** to a **randomly** selected **question** gets to validate the block
 
 

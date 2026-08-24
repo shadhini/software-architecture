@@ -22,7 +22,7 @@ database
   * anti patterns to avoid
   * better documentation, tooling, and resources available
   * larger number of trained  professionals
-  * years of rea world results
+  * years of real world results
 {% endhint %}
 
 
@@ -42,7 +42,7 @@ Process of Elimination:
 1. Does the use of blockchain in this case **add additional value or functionality** that **cannot be added by any other technology**?
    * Yes ✅ — good blockchain use case
    * No ❌ — revise other technologies
-2. Doe the use of this technology enable my users to:
+2. Does the use of this technology enable my users to:
    1. Do **something they could not do before** or
    2. To **do something better than they could before**
 3.  Can I **explain** the **value** of my proposed solution **without using the word "blockchain" or "decentralized ledger"**?
