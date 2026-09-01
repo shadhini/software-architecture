@@ -32,6 +32,14 @@
   * [Web 2.0](blockchain-architecture/web-2.5/web-2.0.md)
   * [Web 3.0](blockchain-architecture/web-2.5/web-3.0.md)
 * [Blockchain Current Trend & New Frontier](blockchain-architecture/blockchain-current-trend-and-new-frontier.md)
+* [Quantum Computing](blockchain-architecture/quantum-computing/README.md)
+  * [Post-Quantum Cryptography](blockchain-architecture/quantum-computing/post-quantum-cryptography.md)
+  * [Lattice‑Based Cryptography](blockchain-architecture/quantum-computing/lattice-based-cryptography.md)
+  * [Code-Based Cryptography](blockchain-architecture/quantum-computing/code-based-cryptography.md)
+  * [MPKC: Multivariate Polynomial Cryptography](blockchain-architecture/quantum-computing/mpkc-multivariate-polynomial-cryptography.md)
+  * [Hash‑Based Cryptography](blockchain-architecture/quantum-computing/hash-based-cryptography.md)
+  * [Post‑Quantum RSA](blockchain-architecture/quantum-computing/post-quantum-rsa.md)
+  * [QKD: Quantum Key Distribution](blockchain-architecture/quantum-computing/qkd-quantum-key-distribution.md)
 
 ## Consensus
 
@@ -205,11 +213,12 @@
 ## Blockchain Sustainability
 
 * [Blockchain Sustainability](blockchain-sustainability/blockchain-sustainability.md)
-* [Carbon Footprint](blockchain-sustainability/carbon-footprint.md)
-* [eWaste](blockchain-sustainability/ewaste.md)
-* [Geopolitical Sustainability Issues](blockchain-sustainability/geopolitical-sustainability-issues.md)
-* [Quantum Computing Threats](blockchain-sustainability/quantum-computing-threats.md)
-* [Blockchain as Currency](blockchain-sustainability/blockchain-as-currency.md)
+* [Environmental & Operational Sustainability Issues](blockchain-sustainability/environmental-and-operational-sustainability-issues.md)
+* [eWaste Impact Mitigation & Stakeholder Actions](blockchain-sustainability/ewaste-impact-mitigation-and-stakeholder-actions.md)
+* [Quantum Computing Threats & Cryptographic Resilience](blockchain-sustainability/quantum-computing-threats-and-cryptographic-resilience.md)
+* [Geopolitical Alignment & National Security](blockchain-sustainability/geopolitical-alignment-and-national-security.md)
+* [Legal Fragmentation, Data Sovereignty & Jurisdiction](blockchain-sustainability/legal-fragmentation-data-sovereignty-and-jurisdiction.md)
+* [Economic Sustainability, Monetary Policy & Market Risks](blockchain-sustainability/economic-sustainability-monetary-policy-and-market-risks.md)
 
 ## Supporting Resources
 
