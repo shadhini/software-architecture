@@ -168,26 +168,6 @@
 * [Troubleshooting: Things to Check](troubleshooting-blockchain/troubleshooting-things-to-check.md)
 * [Possible Issues & Solutions](troubleshooting-blockchain/possible-issues-and-solutions.md)
 
-## Regulatory Landscape
-
-* [Blockchain Regulations](regulatory-landscape/blockchain-regulations/README.md)
-  * [Types of Blockchain Regulations & Impact](regulatory-landscape/blockchain-regulations/types-of-blockchain-regulations-and-impact.md)
-  * [🇺🇸 Blockchain Regulations: United States](regulatory-landscape/blockchain-regulations/blockchain-regulations-united-states.md)
-  * [🇪🇺 Blockchain Regulations: European Union](regulatory-landscape/blockchain-regulations/blockchain-regulations-european-union.md)
-  * [🇦🇪 Blockchain Regulations: UAE](regulatory-landscape/blockchain-regulations/blockchain-regulations-uae.md)
-  * [🇨🇳 Blockchain Regulations: China](regulatory-landscape/blockchain-regulations/blockchain-regulations-china.md)
-  * [🇧🇾 Blockchain Regulations: Belarus](regulatory-landscape/blockchain-regulations/blockchain-regulations-belarus.md)
-  * [🇲🇹 Blockchain Regulations: Malta](regulatory-landscape/blockchain-regulations/blockchain-regulations-malta.md)
-  * [🇯🇵 Blockchain Regulations: Japan](regulatory-landscape/blockchain-regulations/blockchain-regulations-japan.md)
-  * [🇰🇷 Blockchain Regulations: South Korea](regulatory-landscape/blockchain-regulations/blockchain-regulations-south-korea.md)
-  * [🇸🇬 Blockchain Regulations: Singapore](regulatory-landscape/blockchain-regulations/blockchain-regulations-singapore.md)
-  * [🇮🇳 Blockchain Regulations: India](regulatory-landscape/blockchain-regulations/blockchain-regulations-india.md)
-* [Legal Issues](regulatory-landscape/legal-issues/README.md)
-  * [Data Privacy](regulatory-landscape/legal-issues/data-privacy.md)
-  * [AML/KYC Compliance](regulatory-landscape/legal-issues/aml-kyc-compliance.md)
-  * [Digital Asset Custody](regulatory-landscape/legal-issues/digital-asset-custody.md)
-* [Looking Forward: Regulatory Landscape](regulatory-landscape/looking-forward-regulatory-landscape.md)
-
 ## Risk Management
 
 * [Enterprise Risk](risk-management/enterprise-risk.md)
@@ -219,6 +199,26 @@
 * [Geopolitical Alignment & National Security](blockchain-sustainability/geopolitical-alignment-and-national-security.md)
 * [Legal Fragmentation, Data Sovereignty & Jurisdiction](blockchain-sustainability/legal-fragmentation-data-sovereignty-and-jurisdiction.md)
 * [Economic Sustainability, Monetary Policy & Market Risks](blockchain-sustainability/economic-sustainability-monetary-policy-and-market-risks.md)
+
+## Regulatory Landscape
+
+* [Blockchain Regulations](regulatory-landscape/blockchain-regulations/README.md)
+  * [Types of Blockchain Regulations & Impact](regulatory-landscape/blockchain-regulations/types-of-blockchain-regulations-and-impact.md)
+  * [🇺🇸 Blockchain Regulations: United States](regulatory-landscape/blockchain-regulations/blockchain-regulations-united-states.md)
+  * [🇪🇺 Blockchain Regulations: European Union](regulatory-landscape/blockchain-regulations/blockchain-regulations-european-union.md)
+  * [🇦🇪 Blockchain Regulations: UAE](regulatory-landscape/blockchain-regulations/blockchain-regulations-uae.md)
+  * [🇨🇳 Blockchain Regulations: China](regulatory-landscape/blockchain-regulations/blockchain-regulations-china.md)
+  * [🇧🇾 Blockchain Regulations: Belarus](regulatory-landscape/blockchain-regulations/blockchain-regulations-belarus.md)
+  * [🇲🇹 Blockchain Regulations: Malta](regulatory-landscape/blockchain-regulations/blockchain-regulations-malta.md)
+  * [🇯🇵 Blockchain Regulations: Japan](regulatory-landscape/blockchain-regulations/blockchain-regulations-japan.md)
+  * [🇰🇷 Blockchain Regulations: South Korea](regulatory-landscape/blockchain-regulations/blockchain-regulations-south-korea.md)
+  * [🇸🇬 Blockchain Regulations: Singapore](regulatory-landscape/blockchain-regulations/blockchain-regulations-singapore.md)
+  * [🇮🇳 Blockchain Regulations: India](regulatory-landscape/blockchain-regulations/blockchain-regulations-india.md)
+* [Legal Issues](regulatory-landscape/legal-issues/README.md)
+  * [Data Privacy](regulatory-landscape/legal-issues/data-privacy.md)
+  * [AML/KYC Compliance](regulatory-landscape/legal-issues/aml-kyc-compliance.md)
+  * [Digital Asset Custody](regulatory-landscape/legal-issues/digital-asset-custody.md)
+* [Looking Forward: Regulatory Landscape](regulatory-landscape/looking-forward-regulatory-landscape.md)
 
 ## Supporting Resources
 
